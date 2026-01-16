@@ -1,0 +1,2018 @@
+[
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A presentation is a kind of display",
+        "best_gpt2_label": "A presentation is a kind of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Presentation is a kind of display",
+        "best_gpt2_label": "Presentation is a kind of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A presentation is a kind of display",
+        "best_gpt2_label": " A presentation is a kind of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Presentation is a kind of display",
+        "best_gpt2_label": " Presentation is a kind of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A presentation is a sort of display",
+        "best_gpt2_label": "A presentation is a sort of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Presentation is a sort of display",
+        "best_gpt2_label": "Presentation is a sort of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A presentation is a sort of display",
+        "best_gpt2_label": " A presentation is a sort of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Presentation is a sort of display",
+        "best_gpt2_label": " Presentation is a sort of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Presentation is a hyponym of display",
+        "best_gpt2_label": "Presentation is a hyponym of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Presentation is a hyponym of display",
+        "best_gpt2_label": " Presentation is a hyponym of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A presentation is a type of display",
+        "best_gpt2_label": "A presentation is a type of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Presentation is a type of display",
+        "best_gpt2_label": "Presentation is a type of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A presentation is a type of display",
+        "best_gpt2_label": " A presentation is a type of display"
+    },
+    {
+        "head": "presentation.n.03",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Presentation is a type of display",
+        "best_gpt2_label": " Presentation is a type of display"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A poster is a kind of sign",
+        "best_gpt2_label": "A poster is a kind of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Poster is a kind of sign",
+        "best_gpt2_label": "Poster is a kind of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A poster is a kind of sign",
+        "best_gpt2_label": " A poster is a kind of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Poster is a kind of sign",
+        "best_gpt2_label": " Poster is a kind of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A poster is a sort of sign",
+        "best_gpt2_label": "A poster is a sort of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Poster is a sort of sign",
+        "best_gpt2_label": "Poster is a sort of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A poster is a sort of sign",
+        "best_gpt2_label": " A poster is a sort of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Poster is a sort of sign",
+        "best_gpt2_label": " Poster is a sort of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Poster is a hyponym of sign",
+        "best_gpt2_label": "Poster is a hyponym of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Poster is a hyponym of sign",
+        "best_gpt2_label": " Poster is a hyponym of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A poster is a type of sign",
+        "best_gpt2_label": "A poster is a type of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Poster is a type of sign",
+        "best_gpt2_label": "Poster is a type of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A poster is a type of sign",
+        "best_gpt2_label": " A poster is a type of sign"
+    },
+    {
+        "head": "poster.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Poster is a type of sign",
+        "best_gpt2_label": " Poster is a type of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A signpost is a kind of sign",
+        "best_gpt2_label": "A signpost is a kind of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Signpost is a kind of sign",
+        "best_gpt2_label": "Signpost is a kind of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A signpost is a kind of sign",
+        "best_gpt2_label": " A signpost is a kind of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Signpost is a kind of sign",
+        "best_gpt2_label": " Signpost is a kind of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A signpost is a sort of sign",
+        "best_gpt2_label": "A signpost is a sort of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Signpost is a sort of sign",
+        "best_gpt2_label": "Signpost is a sort of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A signpost is a sort of sign",
+        "best_gpt2_label": " A signpost is a sort of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Signpost is a sort of sign",
+        "best_gpt2_label": " Signpost is a sort of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Signpost is a hyponym of sign",
+        "best_gpt2_label": "Signpost is a hyponym of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Signpost is a hyponym of sign",
+        "best_gpt2_label": " Signpost is a hyponym of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A signpost is a type of sign",
+        "best_gpt2_label": "A signpost is a type of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Signpost is a type of sign",
+        "best_gpt2_label": "Signpost is a type of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A signpost is a type of sign",
+        "best_gpt2_label": " A signpost is a type of sign"
+    },
+    {
+        "head": "signpost.n.01",
+        "tail": "sign.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Signpost is a type of sign",
+        "best_gpt2_label": " Signpost is a type of sign"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An evidence is a kind of indication",
+        "best_gpt2_label": "An evidence is a kind of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Evidence is a kind of indication",
+        "best_gpt2_label": "Evidence is a kind of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An evidence is a kind of indication",
+        "best_gpt2_label": " An evidence is a kind of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Evidence is a kind of indication",
+        "best_gpt2_label": " Evidence is a kind of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An evidence is a sort of indication",
+        "best_gpt2_label": "An evidence is a sort of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Evidence is a sort of indication",
+        "best_gpt2_label": "Evidence is a sort of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An evidence is a sort of indication",
+        "best_gpt2_label": " An evidence is a sort of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Evidence is a sort of indication",
+        "best_gpt2_label": " Evidence is a sort of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Evidence is a hyponym of indication",
+        "best_gpt2_label": "Evidence is a hyponym of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Evidence is a hyponym of indication",
+        "best_gpt2_label": " Evidence is a hyponym of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An evidence is a type of indication",
+        "best_gpt2_label": "An evidence is a type of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Evidence is a type of indication",
+        "best_gpt2_label": "Evidence is a type of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An evidence is a type of indication",
+        "best_gpt2_label": " An evidence is a type of indication"
+    },
+    {
+        "head": "evidence.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Evidence is a type of indication",
+        "best_gpt2_label": " Evidence is a type of indication"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An indicator is a signal",
+        "best_gpt2_label": "An indicator is a signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An indicator is signal",
+        "best_gpt2_label": "An indicator is signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Indicator is a signal",
+        "best_gpt2_label": "Indicator is a signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Indicator is signal",
+        "best_gpt2_label": "Indicator is signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An indicator is a signal",
+        "best_gpt2_label": " An indicator is a signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An indicator is signal",
+        "best_gpt2_label": " An indicator is signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Indicator is a signal",
+        "best_gpt2_label": " Indicator is a signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Indicator is signal",
+        "best_gpt2_label": " Indicator is signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An indicator is a kind of signal",
+        "best_gpt2_label": "An indicator is a kind of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Indicator is a kind of signal",
+        "best_gpt2_label": "Indicator is a kind of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An indicator is a kind of signal",
+        "best_gpt2_label": " An indicator is a kind of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Indicator is a kind of signal",
+        "best_gpt2_label": " Indicator is a kind of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An indicator is a sort of signal",
+        "best_gpt2_label": "An indicator is a sort of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Indicator is a sort of signal",
+        "best_gpt2_label": "Indicator is a sort of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An indicator is a sort of signal",
+        "best_gpt2_label": " An indicator is a sort of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Indicator is a sort of signal",
+        "best_gpt2_label": " Indicator is a sort of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Indicator is a hyponym of signal",
+        "best_gpt2_label": "Indicator is a hyponym of signal"
+    },
+    {
+        "head": "indicator.n.02",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Indicator is a hyponym of signal",
+        "best_gpt2_label": " Indicator is a hyponym of signal"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A broadcast is a message",
+        "best_gpt2_label": "A broadcast is a message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A broadcast is message",
+        "best_gpt2_label": "A broadcast is message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Broadcast is a message",
+        "best_gpt2_label": "Broadcast is a message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Broadcast is message",
+        "best_gpt2_label": "Broadcast is message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A broadcast is a message",
+        "best_gpt2_label": " A broadcast is a message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A broadcast is message",
+        "best_gpt2_label": " A broadcast is message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Broadcast is a message",
+        "best_gpt2_label": " Broadcast is a message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Broadcast is message",
+        "best_gpt2_label": " Broadcast is message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A broadcast is a kind of message",
+        "best_gpt2_label": "A broadcast is a kind of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Broadcast is a kind of message",
+        "best_gpt2_label": "Broadcast is a kind of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A broadcast is a kind of message",
+        "best_gpt2_label": " A broadcast is a kind of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Broadcast is a kind of message",
+        "best_gpt2_label": " Broadcast is a kind of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A broadcast is a sort of message",
+        "best_gpt2_label": "A broadcast is a sort of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Broadcast is a sort of message",
+        "best_gpt2_label": "Broadcast is a sort of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A broadcast is a sort of message",
+        "best_gpt2_label": " A broadcast is a sort of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Broadcast is a sort of message",
+        "best_gpt2_label": " Broadcast is a sort of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Broadcast is a hyponym of message",
+        "best_gpt2_label": "Broadcast is a hyponym of message"
+    },
+    {
+        "head": "broadcast.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Broadcast is a hyponym of message",
+        "best_gpt2_label": " Broadcast is a hyponym of message"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A metalanguage is a language",
+        "best_gpt2_label": "A metalanguage is a language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A metalanguage is language",
+        "best_gpt2_label": "A metalanguage is language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Metalanguage is a language",
+        "best_gpt2_label": "Metalanguage is a language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Metalanguage is language",
+        "best_gpt2_label": "Metalanguage is language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A metalanguage is a language",
+        "best_gpt2_label": " A metalanguage is a language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A metalanguage is language",
+        "best_gpt2_label": " A metalanguage is language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Metalanguage is a language",
+        "best_gpt2_label": " Metalanguage is a language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Metalanguage is language",
+        "best_gpt2_label": " Metalanguage is language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A metalanguage is a kind of language",
+        "best_gpt2_label": "A metalanguage is a kind of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Metalanguage is a kind of language",
+        "best_gpt2_label": "Metalanguage is a kind of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A metalanguage is a kind of language",
+        "best_gpt2_label": " A metalanguage is a kind of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Metalanguage is a kind of language",
+        "best_gpt2_label": " Metalanguage is a kind of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A metalanguage is a sort of language",
+        "best_gpt2_label": "A metalanguage is a sort of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Metalanguage is a sort of language",
+        "best_gpt2_label": "Metalanguage is a sort of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A metalanguage is a sort of language",
+        "best_gpt2_label": " A metalanguage is a sort of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Metalanguage is a sort of language",
+        "best_gpt2_label": " Metalanguage is a sort of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Metalanguage is a hyponym of language",
+        "best_gpt2_label": "Metalanguage is a hyponym of language"
+    },
+    {
+        "head": "metalanguage.n.01",
+        "tail": "language.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Metalanguage is a hyponym of language",
+        "best_gpt2_label": " Metalanguage is a hyponym of language"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A guidance is a kind of message",
+        "best_gpt2_label": "A guidance is a kind of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guidance is a kind of message",
+        "best_gpt2_label": "Guidance is a kind of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A guidance is a kind of message",
+        "best_gpt2_label": " A guidance is a kind of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guidance is a kind of message",
+        "best_gpt2_label": " Guidance is a kind of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A guidance is a sort of message",
+        "best_gpt2_label": "A guidance is a sort of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guidance is a sort of message",
+        "best_gpt2_label": "Guidance is a sort of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A guidance is a sort of message",
+        "best_gpt2_label": " A guidance is a sort of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guidance is a sort of message",
+        "best_gpt2_label": " Guidance is a sort of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guidance is a hyponym of message",
+        "best_gpt2_label": "Guidance is a hyponym of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guidance is a hyponym of message",
+        "best_gpt2_label": " Guidance is a hyponym of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A guidance is a type of message",
+        "best_gpt2_label": "A guidance is a type of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guidance is a type of message",
+        "best_gpt2_label": "Guidance is a type of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A guidance is a type of message",
+        "best_gpt2_label": " A guidance is a type of message"
+    },
+    {
+        "head": "guidance.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guidance is a type of message",
+        "best_gpt2_label": " Guidance is a type of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A narrative is a kind of message",
+        "best_gpt2_label": "A narrative is a kind of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Narrative is a kind of message",
+        "best_gpt2_label": "Narrative is a kind of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A narrative is a kind of message",
+        "best_gpt2_label": " A narrative is a kind of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Narrative is a kind of message",
+        "best_gpt2_label": " Narrative is a kind of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A narrative is a sort of message",
+        "best_gpt2_label": "A narrative is a sort of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Narrative is a sort of message",
+        "best_gpt2_label": "Narrative is a sort of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A narrative is a sort of message",
+        "best_gpt2_label": " A narrative is a sort of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Narrative is a sort of message",
+        "best_gpt2_label": " Narrative is a sort of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Narrative is a hyponym of message",
+        "best_gpt2_label": "Narrative is a hyponym of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Narrative is a hyponym of message",
+        "best_gpt2_label": " Narrative is a hyponym of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A narrative is a type of message",
+        "best_gpt2_label": "A narrative is a type of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Narrative is a type of message",
+        "best_gpt2_label": "Narrative is a type of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A narrative is a type of message",
+        "best_gpt2_label": " A narrative is a type of message"
+    },
+    {
+        "head": "narrative.n.01",
+        "tail": "message.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Narrative is a type of message",
+        "best_gpt2_label": " Narrative is a type of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A telegram is a message",
+        "best_gpt2_label": "A telegram is a message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A telegram is message",
+        "best_gpt2_label": "A telegram is message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Telegram is a message",
+        "best_gpt2_label": "Telegram is a message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Telegram is message",
+        "best_gpt2_label": "Telegram is message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A telegram is a message",
+        "best_gpt2_label": " A telegram is a message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A telegram is message",
+        "best_gpt2_label": " A telegram is message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Telegram is a message",
+        "best_gpt2_label": " Telegram is a message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Telegram is message",
+        "best_gpt2_label": " Telegram is message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A telegram is a kind of message",
+        "best_gpt2_label": "A telegram is a kind of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Telegram is a kind of message",
+        "best_gpt2_label": "Telegram is a kind of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A telegram is a kind of message",
+        "best_gpt2_label": " A telegram is a kind of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Telegram is a kind of message",
+        "best_gpt2_label": " Telegram is a kind of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A telegram is a sort of message",
+        "best_gpt2_label": "A telegram is a sort of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Telegram is a sort of message",
+        "best_gpt2_label": "Telegram is a sort of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A telegram is a sort of message",
+        "best_gpt2_label": " A telegram is a sort of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Telegram is a sort of message",
+        "best_gpt2_label": " Telegram is a sort of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Telegram is a hyponym of message",
+        "best_gpt2_label": "Telegram is a hyponym of message"
+    },
+    {
+        "head": "telegram.n.01",
+        "tail": "message.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Telegram is a hyponym of message",
+        "best_gpt2_label": " Telegram is a hyponym of message"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A trace is a kind of indication",
+        "best_gpt2_label": "A trace is a kind of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Trace is a kind of indication",
+        "best_gpt2_label": "Trace is a kind of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A trace is a kind of indication",
+        "best_gpt2_label": " A trace is a kind of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Trace is a kind of indication",
+        "best_gpt2_label": " Trace is a kind of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A trace is a sort of indication",
+        "best_gpt2_label": "A trace is a sort of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Trace is a sort of indication",
+        "best_gpt2_label": "Trace is a sort of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A trace is a sort of indication",
+        "best_gpt2_label": " A trace is a sort of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Trace is a sort of indication",
+        "best_gpt2_label": " Trace is a sort of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Trace is a hyponym of indication",
+        "best_gpt2_label": "Trace is a hyponym of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Trace is a hyponym of indication",
+        "best_gpt2_label": " Trace is a hyponym of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A trace is a type of indication",
+        "best_gpt2_label": "A trace is a type of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Trace is a type of indication",
+        "best_gpt2_label": "Trace is a type of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A trace is a type of indication",
+        "best_gpt2_label": " A trace is a type of indication"
+    },
+    {
+        "head": "trace.n.02",
+        "tail": "indication.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Trace is a type of indication",
+        "best_gpt2_label": " Trace is a type of indication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A message is a communication",
+        "best_gpt2_label": "A message is a communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A message is communication",
+        "best_gpt2_label": "A message is communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Message is a communication",
+        "best_gpt2_label": "Message is a communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Message is communication",
+        "best_gpt2_label": "Message is communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A message is a communication",
+        "best_gpt2_label": " A message is a communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A message is communication",
+        "best_gpt2_label": " A message is communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Message is a communication",
+        "best_gpt2_label": " Message is a communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Message is communication",
+        "best_gpt2_label": " Message is communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A message is a kind of communication",
+        "best_gpt2_label": "A message is a kind of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Message is a kind of communication",
+        "best_gpt2_label": "Message is a kind of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A message is a kind of communication",
+        "best_gpt2_label": " A message is a kind of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Message is a kind of communication",
+        "best_gpt2_label": " Message is a kind of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A message is a sort of communication",
+        "best_gpt2_label": "A message is a sort of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Message is a sort of communication",
+        "best_gpt2_label": "Message is a sort of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A message is a sort of communication",
+        "best_gpt2_label": " A message is a sort of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Message is a sort of communication",
+        "best_gpt2_label": " Message is a sort of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Message is a hyponym of communication",
+        "best_gpt2_label": "Message is a hyponym of communication"
+    },
+    {
+        "head": "message.n.01",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Message is a hyponym of communication",
+        "best_gpt2_label": " Message is a hyponym of communication"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A record is a kind of document",
+        "best_gpt2_label": "A record is a kind of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Record is a kind of document",
+        "best_gpt2_label": "Record is a kind of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A record is a kind of document",
+        "best_gpt2_label": " A record is a kind of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Record is a kind of document",
+        "best_gpt2_label": " Record is a kind of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A record is a sort of document",
+        "best_gpt2_label": "A record is a sort of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Record is a sort of document",
+        "best_gpt2_label": "Record is a sort of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A record is a sort of document",
+        "best_gpt2_label": " A record is a sort of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Record is a sort of document",
+        "best_gpt2_label": " Record is a sort of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Record is a hyponym of document",
+        "best_gpt2_label": "Record is a hyponym of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Record is a hyponym of document",
+        "best_gpt2_label": " Record is a hyponym of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A record is a type of document",
+        "best_gpt2_label": "A record is a type of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Record is a type of document",
+        "best_gpt2_label": "Record is a type of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A record is a type of document",
+        "best_gpt2_label": " A record is a type of document"
+    },
+    {
+        "head": "record.n.07",
+        "tail": "document.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Record is a type of document",
+        "best_gpt2_label": " Record is a type of document"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An ostentation is a kind of display",
+        "best_gpt2_label": "An ostentation is a kind of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ostentation is a kind of display",
+        "best_gpt2_label": "Ostentation is a kind of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An ostentation is a kind of display",
+        "best_gpt2_label": " An ostentation is a kind of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ostentation is a kind of display",
+        "best_gpt2_label": " Ostentation is a kind of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An ostentation is a sort of display",
+        "best_gpt2_label": "An ostentation is a sort of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ostentation is a sort of display",
+        "best_gpt2_label": "Ostentation is a sort of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An ostentation is a sort of display",
+        "best_gpt2_label": " An ostentation is a sort of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ostentation is a sort of display",
+        "best_gpt2_label": " Ostentation is a sort of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ostentation is a hyponym of display",
+        "best_gpt2_label": "Ostentation is a hyponym of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ostentation is a hyponym of display",
+        "best_gpt2_label": " Ostentation is a hyponym of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An ostentation is a type of display",
+        "best_gpt2_label": "An ostentation is a type of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ostentation is a type of display",
+        "best_gpt2_label": "Ostentation is a type of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An ostentation is a type of display",
+        "best_gpt2_label": " An ostentation is a type of display"
+    },
+    {
+        "head": "ostentation.n.01",
+        "tail": "display.n.05",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ostentation is a type of display",
+        "best_gpt2_label": " Ostentation is a type of display"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A symbol is a signal",
+        "best_gpt2_label": "A symbol is a signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A symbol is signal",
+        "best_gpt2_label": "A symbol is signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Symbol is a signal",
+        "best_gpt2_label": "Symbol is a signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Symbol is signal",
+        "best_gpt2_label": "Symbol is signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A symbol is a signal",
+        "best_gpt2_label": " A symbol is a signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A symbol is signal",
+        "best_gpt2_label": " A symbol is signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Symbol is a signal",
+        "best_gpt2_label": " Symbol is a signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Symbol is signal",
+        "best_gpt2_label": " Symbol is signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A symbol is a kind of signal",
+        "best_gpt2_label": "A symbol is a kind of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Symbol is a kind of signal",
+        "best_gpt2_label": "Symbol is a kind of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A symbol is a kind of signal",
+        "best_gpt2_label": " A symbol is a kind of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Symbol is a kind of signal",
+        "best_gpt2_label": " Symbol is a kind of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A symbol is a sort of signal",
+        "best_gpt2_label": "A symbol is a sort of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Symbol is a sort of signal",
+        "best_gpt2_label": "Symbol is a sort of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A symbol is a sort of signal",
+        "best_gpt2_label": " A symbol is a sort of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Symbol is a sort of signal",
+        "best_gpt2_label": " Symbol is a sort of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Symbol is a hyponym of signal",
+        "best_gpt2_label": "Symbol is a hyponym of signal"
+    },
+    {
+        "head": "symbol.n.01",
+        "tail": "signal.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Symbol is a hyponym of signal",
+        "best_gpt2_label": " Symbol is a hyponym of signal"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A document is a communication",
+        "best_gpt2_label": "A document is a communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A document is communication",
+        "best_gpt2_label": "A document is communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Document is a communication",
+        "best_gpt2_label": "Document is a communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Document is communication",
+        "best_gpt2_label": "Document is communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A document is a communication",
+        "best_gpt2_label": " A document is a communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A document is communication",
+        "best_gpt2_label": " A document is communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Document is a communication",
+        "best_gpt2_label": " Document is a communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Document is communication",
+        "best_gpt2_label": " Document is communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A document is a kind of communication",
+        "best_gpt2_label": "A document is a kind of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Document is a kind of communication",
+        "best_gpt2_label": "Document is a kind of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A document is a kind of communication",
+        "best_gpt2_label": " A document is a kind of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Document is a kind of communication",
+        "best_gpt2_label": " Document is a kind of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A document is a sort of communication",
+        "best_gpt2_label": "A document is a sort of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Document is a sort of communication",
+        "best_gpt2_label": "Document is a sort of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A document is a sort of communication",
+        "best_gpt2_label": " A document is a sort of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Document is a sort of communication",
+        "best_gpt2_label": " Document is a sort of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Document is a hyponym of communication",
+        "best_gpt2_label": "Document is a hyponym of communication"
+    },
+    {
+        "head": "document.n.03",
+        "tail": "communication.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Document is a hyponym of communication",
+        "best_gpt2_label": " Document is a hyponym of communication"
+    }
+]

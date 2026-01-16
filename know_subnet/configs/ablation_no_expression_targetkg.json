@@ -1,0 +1,24 @@
+{
+    "train_epoch": 40000,
+    "save_checkpoint_every": 200,
+    "train_batch_size": 250,
+    "eval_batch_size": 250,
+    "log_step": 100,
+    "lm": "gpt2",
+    "verbose": "True",
+    "lambda_scheduler": "constant",
+    "controllm_train_batch_size": 10,
+    "controllm_eval_batch_size": 10,
+    "initial_mask_p": 0.45,
+    "lambda_reg_init": 2,
+    "lambda_reg_final": 3,
+    "lambda_targetkg_expression": 1.0,
+    "lambda_inverse_mask_controllm": 1.0,
+    "lambda_inverse_mask_controlkg": 1.0,
+    "lambda_inverse_mask_targetkg": 1.5,
+
+    "include_controllm_loss": "True",
+    "include_controlkg_loss": "True",
+    "include_targetkg_suppression_loss": "True",
+    "exclude_targetkg_expression_loss":"True"
+}

@@ -1,0 +1,362 @@
+[
+    {
+        "head": "salt",
+        "tail": "ocean",
+        "rel": "AtLocation",
+        "gpt2_perp": 134.0815887451172,
+        "gpt2_entropy": 6.869241237640381,
+        "best_gpt2_input": "Salt is by an ocean",
+        "best_gpt2_label": "Salt is by an ocean"
+    },
+    {
+        "head": "fish",
+        "tail": "animals",
+        "rel": "IsA",
+        "gpt2_perp": 3966.422119140625,
+        "gpt2_entropy": 5.643824100494385,
+        "best_gpt2_input": "A fish is a hyponym of an animals",
+        "best_gpt2_label": "A fish is a hyponym of an animals"
+    },
+    {
+        "head": "diving",
+        "tail": "careful",
+        "rel": "HasSubevent",
+        "gpt2_perp": 16693.40234375,
+        "gpt2_entropy": 7.461781978607178,
+        "best_gpt2_input": "A diving has the subevent of a careful",
+        "best_gpt2_label": "A diving has the subevent of a careful"
+    },
+    {
+        "head": "party",
+        "tail": "dancing",
+        "rel": "UsedFor",
+        "gpt2_perp": 2129.0703125,
+        "gpt2_entropy": 7.274349689483643,
+        "best_gpt2_input": " A party are used for dancing",
+        "best_gpt2_label": " A party are used for dancing"
+    },
+    {
+        "head": "river",
+        "tail": "swimming",
+        "rel": "UsedFor",
+        "gpt2_perp": 80.93881225585938,
+        "gpt2_entropy": 6.659945487976074,
+        "best_gpt2_input": "A river is designed for swimming",
+        "best_gpt2_label": "A river is designed for swimming"
+    },
+    {
+        "head": "pleasure",
+        "tail": "enjoyable",
+        "rel": "HasProperty",
+        "gpt2_perp": 56.086334228515625,
+        "gpt2_entropy": 6.024643421173096,
+        "best_gpt2_input": " Pleasure can be an enjoyable",
+        "best_gpt2_label": " Pleasure can be an enjoyable"
+    },
+    {
+        "head": "relaxing",
+        "tail": "satisfaction",
+        "rel": "Causes",
+        "gpt2_perp": 5460.27880859375,
+        "gpt2_entropy": 5.834473133087158,
+        "best_gpt2_input": " A relaxing can lead to satisfaction",
+        "best_gpt2_label": " A relaxing can lead to satisfaction"
+    },
+    {
+        "head": "pike",
+        "tail": "river",
+        "rel": "AtLocation",
+        "gpt2_perp": 74.17081451416016,
+        "gpt2_entropy": 7.222565650939941,
+        "best_gpt2_input": " A pike is by a river",
+        "best_gpt2_label": " A pike is by a river"
+    },
+    {
+        "head": "fish",
+        "tail": "food",
+        "rel": "Desires",
+        "gpt2_perp": 30.474815368652344,
+        "gpt2_entropy": 6.40530252456665,
+        "best_gpt2_input": " A fish crave for food",
+        "best_gpt2_label": " A fish crave for food"
+    },
+    {
+        "head": "dive",
+        "tail": "fun",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 323.27764892578125,
+        "gpt2_entropy": 6.939898490905762,
+        "best_gpt2_input": " Dive is motivated by the goal of a fun",
+        "best_gpt2_label": " Dive is motivated by the goal of a fun"
+    },
+    {
+        "head": "human",
+        "tail": "pool",
+        "rel": "AtLocation",
+        "gpt2_perp": 994.088134765625,
+        "gpt2_entropy": 6.666954517364502,
+        "best_gpt2_input": "A human are usually by a pool",
+        "best_gpt2_label": "A human are usually by a pool"
+    },
+    {
+        "head": "relaxing",
+        "tail": "silence",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 631.9043579101562,
+        "gpt2_entropy": 6.714786052703857,
+        "best_gpt2_input": "Relaxing has the prerequisite to silence",
+        "best_gpt2_label": "Relaxing has the prerequisite to silence"
+    },
+    {
+        "head": "fish",
+        "tail": "shiny",
+        "rel": "HasProperty",
+        "gpt2_perp": 2783.180908203125,
+        "gpt2_entropy": 7.627346992492676,
+        "best_gpt2_input": "A fish has the property a shiny",
+        "best_gpt2_label": "A fish has the property a shiny"
+    },
+    {
+        "head": "fish",
+        "tail": "dry",
+        "rel": "NotDesires",
+        "gpt2_perp": 1172.14453125,
+        "gpt2_entropy": 7.011638164520264,
+        "best_gpt2_input": " Fish don't crave a dry",
+        "best_gpt2_label": " Fish don't crave a dry"
+    },
+    {
+        "head": "dive",
+        "tail": "speed",
+        "rel": "HasSubevent",
+        "gpt2_perp": 412.1943054199219,
+        "gpt2_entropy": 7.421342849731445,
+        "best_gpt2_input": "A dive has subevent of a speed",
+        "best_gpt2_label": "A dive has subevent of a speed"
+    },
+    {
+        "head": "swimming",
+        "tail": "float",
+        "rel": "HasSubevent",
+        "gpt2_perp": 567.9537963867188,
+        "gpt2_entropy": 7.772813320159912,
+        "best_gpt2_input": " A swimming has the subevent a float",
+        "best_gpt2_label": " A swimming has the subevent a float"
+    },
+    {
+        "head": "fish",
+        "tail": "eaten",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 43.94580841064453,
+        "gpt2_entropy": 6.24264669418335,
+        "best_gpt2_input": " A fish can be eaten",
+        "best_gpt2_label": " A fish can be eaten"
+    },
+    {
+        "head": "party",
+        "tail": "dance",
+        "rel": "HasSubevent",
+        "gpt2_perp": 1974.0469970703125,
+        "gpt2_entropy": 7.906686305999756,
+        "best_gpt2_input": " A party has the subevent of a dance",
+        "best_gpt2_label": " A party has the subevent of a dance"
+    },
+    {
+        "head": "competition",
+        "tail": "natural",
+        "rel": "HasProperty",
+        "gpt2_perp": 108.86678314208984,
+        "gpt2_entropy": 6.6750383377075195,
+        "best_gpt2_input": "Competition is a natural",
+        "best_gpt2_label": "Competition is a natural"
+    },
+    {
+        "head": "diving",
+        "tail": "underwater",
+        "rel": "Causes",
+        "gpt2_perp": 37.347412109375,
+        "gpt2_entropy": 6.067510604858398,
+        "best_gpt2_input": "A diving can cause to an underwater",
+        "best_gpt2_label": "A diving can cause to an underwater"
+    },
+    {
+        "head": "competition",
+        "tail": "sports",
+        "rel": "PartOf",
+        "gpt2_perp": 209.43338012695312,
+        "gpt2_entropy": 6.214720249176025,
+        "best_gpt2_input": "Competition is a characteristic of sports",
+        "best_gpt2_label": "Competition is a characteristic of sports"
+    },
+    {
+        "head": "waves",
+        "tail": "beach",
+        "rel": "AtLocation",
+        "gpt2_perp": 157.81015014648438,
+        "gpt2_entropy": 6.544276237487793,
+        "best_gpt2_input": "A waves are placed at a beach",
+        "best_gpt2_label": "A waves are placed at a beach"
+    },
+    {
+        "head": "fish",
+        "tail": "cast",
+        "rel": "HasSubevent",
+        "gpt2_perp": 4015.673095703125,
+        "gpt2_entropy": 8.279411315917969,
+        "best_gpt2_input": "Fish can have the subevent of a cast",
+        "best_gpt2_label": "Fish can have the subevent of a cast"
+    },
+    {
+        "head": "swimming",
+        "tail": "party",
+        "rel": "AtLocation",
+        "gpt2_perp": 170.7723388671875,
+        "gpt2_entropy": 6.353930950164795,
+        "best_gpt2_input": " A swimming are at a party",
+        "best_gpt2_label": " A swimming are at a party"
+    },
+    {
+        "head": "diving",
+        "tail": "water",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 154.32777404785156,
+        "gpt2_entropy": 5.9967522621154785,
+        "best_gpt2_input": "Diving require water",
+        "best_gpt2_label": "Diving require water"
+    },
+    {
+        "head": "swimming",
+        "tail": "relaxing",
+        "rel": "HasProperty",
+        "gpt2_perp": 481.067138671875,
+        "gpt2_entropy": 6.33537483215332,
+        "best_gpt2_input": "A swimming can be a relaxing",
+        "best_gpt2_label": "A swimming can be a relaxing"
+    },
+    {
+        "head": "fish",
+        "tail": "pets",
+        "rel": "CapableOf",
+        "gpt2_perp": 53343.84765625,
+        "gpt2_entropy": 7.616569519042969,
+        "best_gpt2_input": " Fish have the skill of pets",
+        "best_gpt2_label": " Fish have the skill of pets"
+    },
+    {
+        "head": "swimming",
+        "tail": "fish",
+        "rel": "UsedFor",
+        "gpt2_perp": 142.5330352783203,
+        "gpt2_entropy": 7.593645095825195,
+        "best_gpt2_input": " A swimming serve for a fish",
+        "best_gpt2_label": " A swimming serve for a fish"
+    },
+    {
+        "head": "swimming",
+        "tail": "mobility",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 3190.80810546875,
+        "gpt2_entropy": 5.352148056030273,
+        "best_gpt2_input": "Swimming requires mobility",
+        "best_gpt2_label": "Swimming requires mobility"
+    },
+    {
+        "head": "relaxing",
+        "tail": "resting",
+        "rel": "UsedFor",
+        "gpt2_perp": 1156.8480224609375,
+        "gpt2_entropy": 7.042690753936768,
+        "best_gpt2_input": " A relaxing are used for resting",
+        "best_gpt2_label": " A relaxing are used for resting"
+    },
+    {
+        "head": "stone",
+        "tail": "pond",
+        "rel": "AtLocation",
+        "gpt2_perp": 186.87896728515625,
+        "gpt2_entropy": 7.000300884246826,
+        "best_gpt2_input": " A stone are in a pond",
+        "best_gpt2_label": " A stone are in a pond"
+    },
+    {
+        "head": "fish",
+        "tail": "buy",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 75.34526824951172,
+        "gpt2_entropy": 6.038964748382568,
+        "best_gpt2_input": "Fish have the prerequisite to buy",
+        "best_gpt2_label": "Fish have the prerequisite to buy"
+    },
+    {
+        "head": "diving",
+        "tail": "working",
+        "rel": "UsedFor",
+        "gpt2_perp": 2121.150146484375,
+        "gpt2_entropy": 6.715260982513428,
+        "best_gpt2_input": " Diving are designed for working",
+        "best_gpt2_label": " Diving are designed for working"
+    },
+    {
+        "head": "fish",
+        "tail": "tail",
+        "rel": "HasA",
+        "gpt2_perp": 120.41707611083984,
+        "gpt2_entropy": 7.1635637283325195,
+        "best_gpt2_input": " A fish has a tail",
+        "best_gpt2_label": " A fish has a tail"
+    },
+    {
+        "head": "waves",
+        "tail": "surf",
+        "rel": "CausesDesire",
+        "gpt2_perp": 932.4738159179688,
+        "gpt2_entropy": 6.152890205383301,
+        "best_gpt2_input": "A waves cause a desire to surf",
+        "best_gpt2_label": "A waves cause a desire to surf"
+    },
+    {
+        "head": "swimming",
+        "tail": "propulsion",
+        "rel": "Causes",
+        "gpt2_perp": 6462.12255859375,
+        "gpt2_entropy": 6.273352146148682,
+        "best_gpt2_input": " A swimming causes propulsion",
+        "best_gpt2_label": " A swimming causes propulsion"
+    },
+    {
+        "head": "relaxing",
+        "tail": "die",
+        "rel": "HasSubevent",
+        "gpt2_perp": 2169.472900390625,
+        "gpt2_entropy": 6.566839218139648,
+        "best_gpt2_input": "Relaxing can have the subevent die",
+        "best_gpt2_label": "Relaxing can have the subevent die"
+    },
+    {
+        "head": "dive",
+        "tail": "safe",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 89.68577575683594,
+        "gpt2_entropy": 7.387400150299072,
+        "best_gpt2_input": "A dive has the prerequisite to a safe",
+        "best_gpt2_label": "A dive has the prerequisite to a safe"
+    },
+    {
+        "head": "fish",
+        "tail": "aquarium",
+        "rel": "AtLocation",
+        "gpt2_perp": 6.027522563934326,
+        "gpt2_entropy": 5.470090866088867,
+        "best_gpt2_input": " A fish is in an aquarium",
+        "best_gpt2_label": " A fish is in an aquarium"
+    },
+    {
+        "head": "fish",
+        "tail": "enjoy",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 53343.18359375,
+        "gpt2_entropy": 6.217655658721924,
+        "best_gpt2_input": " A fish is motivated by the goal of an enjoy",
+        "best_gpt2_label": " A fish is motivated by the goal of an enjoy"
+    }
+]

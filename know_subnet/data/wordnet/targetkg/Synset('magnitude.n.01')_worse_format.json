@@ -1,0 +1,1474 @@
+[
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A width is a kind of dimension",
+        "best_gpt2_label": "A width is a kind of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Width is a kind of dimension",
+        "best_gpt2_label": "Width is a kind of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A width is a kind of dimension",
+        "best_gpt2_label": " A width is a kind of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Width is a kind of dimension",
+        "best_gpt2_label": " Width is a kind of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A width is a sort of dimension",
+        "best_gpt2_label": "A width is a sort of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Width is a sort of dimension",
+        "best_gpt2_label": "Width is a sort of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A width is a sort of dimension",
+        "best_gpt2_label": " A width is a sort of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Width is a sort of dimension",
+        "best_gpt2_label": " Width is a sort of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Width is a hyponym of dimension",
+        "best_gpt2_label": "Width is a hyponym of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Width is a hyponym of dimension",
+        "best_gpt2_label": " Width is a hyponym of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A width is a type of dimension",
+        "best_gpt2_label": "A width is a type of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Width is a type of dimension",
+        "best_gpt2_label": "Width is a type of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A width is a type of dimension",
+        "best_gpt2_label": " A width is a type of dimension"
+    },
+    {
+        "head": "width.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Width is a type of dimension",
+        "best_gpt2_label": " Width is a type of dimension"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A number is a kind of amount",
+        "best_gpt2_label": "A number is a kind of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Number is a kind of amount",
+        "best_gpt2_label": "Number is a kind of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A number is a kind of amount",
+        "best_gpt2_label": " A number is a kind of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Number is a kind of amount",
+        "best_gpt2_label": " Number is a kind of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A number is a sort of amount",
+        "best_gpt2_label": "A number is a sort of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Number is a sort of amount",
+        "best_gpt2_label": "Number is a sort of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A number is a sort of amount",
+        "best_gpt2_label": " A number is a sort of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Number is a sort of amount",
+        "best_gpt2_label": " Number is a sort of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Number is a hyponym of amount",
+        "best_gpt2_label": "Number is a hyponym of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Number is a hyponym of amount",
+        "best_gpt2_label": " Number is a hyponym of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A number is a type of amount",
+        "best_gpt2_label": "A number is a type of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Number is a type of amount",
+        "best_gpt2_label": "Number is a type of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A number is a type of amount",
+        "best_gpt2_label": " A number is a type of amount"
+    },
+    {
+        "head": "number.n.01",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Number is a type of amount",
+        "best_gpt2_label": " Number is a type of amount"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A property is a kind of attribute",
+        "best_gpt2_label": "A property is a kind of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Property is a kind of attribute",
+        "best_gpt2_label": "Property is a kind of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A property is a kind of attribute",
+        "best_gpt2_label": " A property is a kind of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Property is a kind of attribute",
+        "best_gpt2_label": " Property is a kind of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A property is a sort of attribute",
+        "best_gpt2_label": "A property is a sort of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Property is a sort of attribute",
+        "best_gpt2_label": "Property is a sort of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A property is a sort of attribute",
+        "best_gpt2_label": " A property is a sort of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Property is a sort of attribute",
+        "best_gpt2_label": " Property is a sort of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Property is a hyponym of attribute",
+        "best_gpt2_label": "Property is a hyponym of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Property is a hyponym of attribute",
+        "best_gpt2_label": " Property is a hyponym of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A property is a type of attribute",
+        "best_gpt2_label": "A property is a type of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Property is a type of attribute",
+        "best_gpt2_label": "Property is a type of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A property is a type of attribute",
+        "best_gpt2_label": " A property is a type of attribute"
+    },
+    {
+        "head": "property.n.02",
+        "tail": "attribute.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Property is a type of attribute",
+        "best_gpt2_label": " Property is a type of attribute"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An intensity is a magnitude",
+        "best_gpt2_label": "An intensity is a magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An intensity is magnitude",
+        "best_gpt2_label": "An intensity is magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Intensity is a magnitude",
+        "best_gpt2_label": "Intensity is a magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Intensity is magnitude",
+        "best_gpt2_label": "Intensity is magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An intensity is a magnitude",
+        "best_gpt2_label": " An intensity is a magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An intensity is magnitude",
+        "best_gpt2_label": " An intensity is magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Intensity is a magnitude",
+        "best_gpt2_label": " Intensity is a magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Intensity is magnitude",
+        "best_gpt2_label": " Intensity is magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An intensity is a kind of magnitude",
+        "best_gpt2_label": "An intensity is a kind of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Intensity is a kind of magnitude",
+        "best_gpt2_label": "Intensity is a kind of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An intensity is a kind of magnitude",
+        "best_gpt2_label": " An intensity is a kind of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Intensity is a kind of magnitude",
+        "best_gpt2_label": " Intensity is a kind of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An intensity is a sort of magnitude",
+        "best_gpt2_label": "An intensity is a sort of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Intensity is a sort of magnitude",
+        "best_gpt2_label": "Intensity is a sort of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An intensity is a sort of magnitude",
+        "best_gpt2_label": " An intensity is a sort of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Intensity is a sort of magnitude",
+        "best_gpt2_label": " Intensity is a sort of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Intensity is a hyponym of magnitude",
+        "best_gpt2_label": "Intensity is a hyponym of magnitude"
+    },
+    {
+        "head": "intensity.n.01",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Intensity is a hyponym of magnitude",
+        "best_gpt2_label": " Intensity is a hyponym of magnitude"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An increase is a kind of amount",
+        "best_gpt2_label": "An increase is a kind of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Increase is a kind of amount",
+        "best_gpt2_label": "Increase is a kind of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An increase is a kind of amount",
+        "best_gpt2_label": " An increase is a kind of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Increase is a kind of amount",
+        "best_gpt2_label": " Increase is a kind of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An increase is a sort of amount",
+        "best_gpt2_label": "An increase is a sort of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Increase is a sort of amount",
+        "best_gpt2_label": "Increase is a sort of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An increase is a sort of amount",
+        "best_gpt2_label": " An increase is a sort of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Increase is a sort of amount",
+        "best_gpt2_label": " Increase is a sort of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Increase is a hyponym of amount",
+        "best_gpt2_label": "Increase is a hyponym of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Increase is a hyponym of amount",
+        "best_gpt2_label": " Increase is a hyponym of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An increase is a type of amount",
+        "best_gpt2_label": "An increase is a type of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Increase is a type of amount",
+        "best_gpt2_label": "Increase is a type of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An increase is a type of amount",
+        "best_gpt2_label": " An increase is a type of amount"
+    },
+    {
+        "head": "increase.n.04",
+        "tail": "amount.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Increase is a type of amount",
+        "best_gpt2_label": " Increase is a type of amount"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A circumference is a size",
+        "best_gpt2_label": "A circumference is a size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A circumference is size",
+        "best_gpt2_label": "A circumference is size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Circumference is a size",
+        "best_gpt2_label": "Circumference is a size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Circumference is size",
+        "best_gpt2_label": "Circumference is size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A circumference is a size",
+        "best_gpt2_label": " A circumference is a size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A circumference is size",
+        "best_gpt2_label": " A circumference is size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Circumference is a size",
+        "best_gpt2_label": " Circumference is a size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Circumference is size",
+        "best_gpt2_label": " Circumference is size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A circumference is a kind of size",
+        "best_gpt2_label": "A circumference is a kind of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Circumference is a kind of size",
+        "best_gpt2_label": "Circumference is a kind of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A circumference is a kind of size",
+        "best_gpt2_label": " A circumference is a kind of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Circumference is a kind of size",
+        "best_gpt2_label": " Circumference is a kind of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A circumference is a sort of size",
+        "best_gpt2_label": "A circumference is a sort of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Circumference is a sort of size",
+        "best_gpt2_label": "Circumference is a sort of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A circumference is a sort of size",
+        "best_gpt2_label": " A circumference is a sort of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Circumference is a sort of size",
+        "best_gpt2_label": " Circumference is a sort of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Circumference is a hyponym of size",
+        "best_gpt2_label": "Circumference is a hyponym of size"
+    },
+    {
+        "head": "circumference.n.01",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Circumference is a hyponym of size",
+        "best_gpt2_label": " Circumference is a hyponym of size"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A magnitude is a kind of property",
+        "best_gpt2_label": "A magnitude is a kind of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Magnitude is a kind of property",
+        "best_gpt2_label": "Magnitude is a kind of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A magnitude is a kind of property",
+        "best_gpt2_label": " A magnitude is a kind of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Magnitude is a kind of property",
+        "best_gpt2_label": " Magnitude is a kind of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A magnitude is a sort of property",
+        "best_gpt2_label": "A magnitude is a sort of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Magnitude is a sort of property",
+        "best_gpt2_label": "Magnitude is a sort of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A magnitude is a sort of property",
+        "best_gpt2_label": " A magnitude is a sort of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Magnitude is a sort of property",
+        "best_gpt2_label": " Magnitude is a sort of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Magnitude is a hyponym of property",
+        "best_gpt2_label": "Magnitude is a hyponym of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Magnitude is a hyponym of property",
+        "best_gpt2_label": " Magnitude is a hyponym of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A magnitude is a type of property",
+        "best_gpt2_label": "A magnitude is a type of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Magnitude is a type of property",
+        "best_gpt2_label": "Magnitude is a type of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A magnitude is a type of property",
+        "best_gpt2_label": " A magnitude is a type of property"
+    },
+    {
+        "head": "magnitude.n.01",
+        "tail": "property.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Magnitude is a type of property",
+        "best_gpt2_label": " Magnitude is a type of property"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A limit is a kind of extent",
+        "best_gpt2_label": "A limit is a kind of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Limit is a kind of extent",
+        "best_gpt2_label": "Limit is a kind of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A limit is a kind of extent",
+        "best_gpt2_label": " A limit is a kind of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Limit is a kind of extent",
+        "best_gpt2_label": " Limit is a kind of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A limit is a sort of extent",
+        "best_gpt2_label": "A limit is a sort of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Limit is a sort of extent",
+        "best_gpt2_label": "Limit is a sort of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A limit is a sort of extent",
+        "best_gpt2_label": " A limit is a sort of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Limit is a sort of extent",
+        "best_gpt2_label": " Limit is a sort of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Limit is a hyponym of extent",
+        "best_gpt2_label": "Limit is a hyponym of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Limit is a hyponym of extent",
+        "best_gpt2_label": " Limit is a hyponym of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A limit is a type of extent",
+        "best_gpt2_label": "A limit is a type of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Limit is a type of extent",
+        "best_gpt2_label": "Limit is a type of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A limit is a type of extent",
+        "best_gpt2_label": " A limit is a type of extent"
+    },
+    {
+        "head": "limit.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Limit is a type of extent",
+        "best_gpt2_label": " Limit is a type of extent"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A distance is a size",
+        "best_gpt2_label": "A distance is a size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A distance is size",
+        "best_gpt2_label": "A distance is size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Distance is a size",
+        "best_gpt2_label": "Distance is a size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Distance is size",
+        "best_gpt2_label": "Distance is size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A distance is a size",
+        "best_gpt2_label": " A distance is a size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A distance is size",
+        "best_gpt2_label": " A distance is size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Distance is a size",
+        "best_gpt2_label": " Distance is a size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Distance is size",
+        "best_gpt2_label": " Distance is size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A distance is a kind of size",
+        "best_gpt2_label": "A distance is a kind of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Distance is a kind of size",
+        "best_gpt2_label": "Distance is a kind of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A distance is a kind of size",
+        "best_gpt2_label": " A distance is a kind of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Distance is a kind of size",
+        "best_gpt2_label": " Distance is a kind of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A distance is a sort of size",
+        "best_gpt2_label": "A distance is a sort of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Distance is a sort of size",
+        "best_gpt2_label": "Distance is a sort of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A distance is a sort of size",
+        "best_gpt2_label": " A distance is a sort of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Distance is a sort of size",
+        "best_gpt2_label": " Distance is a sort of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Distance is a hyponym of size",
+        "best_gpt2_label": "Distance is a hyponym of size"
+    },
+    {
+        "head": "distance.n.03",
+        "tail": "size.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Distance is a hyponym of size",
+        "best_gpt2_label": " Distance is a hyponym of size"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A depth is a kind of extent",
+        "best_gpt2_label": "A depth is a kind of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Depth is a kind of extent",
+        "best_gpt2_label": "Depth is a kind of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A depth is a kind of extent",
+        "best_gpt2_label": " A depth is a kind of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Depth is a kind of extent",
+        "best_gpt2_label": " Depth is a kind of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A depth is a sort of extent",
+        "best_gpt2_label": "A depth is a sort of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Depth is a sort of extent",
+        "best_gpt2_label": "Depth is a sort of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A depth is a sort of extent",
+        "best_gpt2_label": " A depth is a sort of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Depth is a sort of extent",
+        "best_gpt2_label": " Depth is a sort of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Depth is a hyponym of extent",
+        "best_gpt2_label": "Depth is a hyponym of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Depth is a hyponym of extent",
+        "best_gpt2_label": " Depth is a hyponym of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A depth is a type of extent",
+        "best_gpt2_label": "A depth is a type of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Depth is a type of extent",
+        "best_gpt2_label": "Depth is a type of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A depth is a type of extent",
+        "best_gpt2_label": " A depth is a type of extent"
+    },
+    {
+        "head": "depth.n.01",
+        "tail": "extent.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Depth is a type of extent",
+        "best_gpt2_label": " Depth is a type of extent"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A length is a kind of dimension",
+        "best_gpt2_label": "A length is a kind of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Length is a kind of dimension",
+        "best_gpt2_label": "Length is a kind of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A length is a kind of dimension",
+        "best_gpt2_label": " A length is a kind of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Length is a kind of dimension",
+        "best_gpt2_label": " Length is a kind of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A length is a sort of dimension",
+        "best_gpt2_label": "A length is a sort of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Length is a sort of dimension",
+        "best_gpt2_label": "Length is a sort of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A length is a sort of dimension",
+        "best_gpt2_label": " A length is a sort of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Length is a sort of dimension",
+        "best_gpt2_label": " Length is a sort of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Length is a hyponym of dimension",
+        "best_gpt2_label": "Length is a hyponym of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Length is a hyponym of dimension",
+        "best_gpt2_label": " Length is a hyponym of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A length is a type of dimension",
+        "best_gpt2_label": "A length is a type of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Length is a type of dimension",
+        "best_gpt2_label": "Length is a type of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A length is a type of dimension",
+        "best_gpt2_label": " A length is a type of dimension"
+    },
+    {
+        "head": "length.n.01",
+        "tail": "dimension.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Length is a type of dimension",
+        "best_gpt2_label": " Length is a type of dimension"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An amount is a magnitude",
+        "best_gpt2_label": "An amount is a magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An amount is magnitude",
+        "best_gpt2_label": "An amount is magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Amount is a magnitude",
+        "best_gpt2_label": "Amount is a magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Amount is magnitude",
+        "best_gpt2_label": "Amount is magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An amount is a magnitude",
+        "best_gpt2_label": " An amount is a magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An amount is magnitude",
+        "best_gpt2_label": " An amount is magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Amount is a magnitude",
+        "best_gpt2_label": " Amount is a magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Amount is magnitude",
+        "best_gpt2_label": " Amount is magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An amount is a kind of magnitude",
+        "best_gpt2_label": "An amount is a kind of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Amount is a kind of magnitude",
+        "best_gpt2_label": "Amount is a kind of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An amount is a kind of magnitude",
+        "best_gpt2_label": " An amount is a kind of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Amount is a kind of magnitude",
+        "best_gpt2_label": " Amount is a kind of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An amount is a sort of magnitude",
+        "best_gpt2_label": "An amount is a sort of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Amount is a sort of magnitude",
+        "best_gpt2_label": "Amount is a sort of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An amount is a sort of magnitude",
+        "best_gpt2_label": " An amount is a sort of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Amount is a sort of magnitude",
+        "best_gpt2_label": " Amount is a sort of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Amount is a hyponym of magnitude",
+        "best_gpt2_label": "Amount is a hyponym of magnitude"
+    },
+    {
+        "head": "amount.n.02",
+        "tail": "magnitude.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Amount is a hyponym of magnitude",
+        "best_gpt2_label": " Amount is a hyponym of magnitude"
+    }
+]

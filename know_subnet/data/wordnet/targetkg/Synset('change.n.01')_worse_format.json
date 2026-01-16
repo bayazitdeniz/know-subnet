@@ -1,0 +1,1746 @@
+[
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A fatality is a death",
+        "best_gpt2_label": "A fatality is a death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A fatality is death",
+        "best_gpt2_label": "A fatality is death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Fatality is a death",
+        "best_gpt2_label": "Fatality is a death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Fatality is death",
+        "best_gpt2_label": "Fatality is death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A fatality is a death",
+        "best_gpt2_label": " A fatality is a death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A fatality is death",
+        "best_gpt2_label": " A fatality is death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Fatality is a death",
+        "best_gpt2_label": " Fatality is a death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Fatality is death",
+        "best_gpt2_label": " Fatality is death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A fatality is a kind of death",
+        "best_gpt2_label": "A fatality is a kind of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Fatality is a kind of death",
+        "best_gpt2_label": "Fatality is a kind of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A fatality is a kind of death",
+        "best_gpt2_label": " A fatality is a kind of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Fatality is a kind of death",
+        "best_gpt2_label": " Fatality is a kind of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A fatality is a sort of death",
+        "best_gpt2_label": "A fatality is a sort of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Fatality is a sort of death",
+        "best_gpt2_label": "Fatality is a sort of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A fatality is a sort of death",
+        "best_gpt2_label": " A fatality is a sort of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Fatality is a sort of death",
+        "best_gpt2_label": " Fatality is a sort of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Fatality is a hyponym of death",
+        "best_gpt2_label": "Fatality is a hyponym of death"
+    },
+    {
+        "head": "fatality.n.01",
+        "tail": "death.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Fatality is a hyponym of death",
+        "best_gpt2_label": " Fatality is a hyponym of death"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A transition is a change",
+        "best_gpt2_label": "A transition is a change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A transition is change",
+        "best_gpt2_label": "A transition is change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Transition is a change",
+        "best_gpt2_label": "Transition is a change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Transition is change",
+        "best_gpt2_label": "Transition is change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A transition is a change",
+        "best_gpt2_label": " A transition is a change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A transition is change",
+        "best_gpt2_label": " A transition is change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Transition is a change",
+        "best_gpt2_label": " Transition is a change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Transition is change",
+        "best_gpt2_label": " Transition is change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A transition is a kind of change",
+        "best_gpt2_label": "A transition is a kind of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Transition is a kind of change",
+        "best_gpt2_label": "Transition is a kind of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A transition is a kind of change",
+        "best_gpt2_label": " A transition is a kind of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Transition is a kind of change",
+        "best_gpt2_label": " Transition is a kind of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A transition is a sort of change",
+        "best_gpt2_label": "A transition is a sort of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Transition is a sort of change",
+        "best_gpt2_label": "Transition is a sort of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A transition is a sort of change",
+        "best_gpt2_label": " A transition is a sort of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Transition is a sort of change",
+        "best_gpt2_label": " Transition is a sort of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Transition is a hyponym of change",
+        "best_gpt2_label": "Transition is a hyponym of change"
+    },
+    {
+        "head": "transition.n.03",
+        "tail": "change.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Transition is a hyponym of change",
+        "best_gpt2_label": " Transition is a hyponym of change"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A jump is a kind of increase",
+        "best_gpt2_label": "A jump is a kind of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Jump is a kind of increase",
+        "best_gpt2_label": "Jump is a kind of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A jump is a kind of increase",
+        "best_gpt2_label": " A jump is a kind of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Jump is a kind of increase",
+        "best_gpt2_label": " Jump is a kind of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A jump is a sort of increase",
+        "best_gpt2_label": "A jump is a sort of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Jump is a sort of increase",
+        "best_gpt2_label": "Jump is a sort of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A jump is a sort of increase",
+        "best_gpt2_label": " A jump is a sort of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Jump is a sort of increase",
+        "best_gpt2_label": " Jump is a sort of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Jump is a hyponym of increase",
+        "best_gpt2_label": "Jump is a hyponym of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Jump is a hyponym of increase",
+        "best_gpt2_label": " Jump is a hyponym of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A jump is a type of increase",
+        "best_gpt2_label": "A jump is a type of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Jump is a type of increase",
+        "best_gpt2_label": "Jump is a type of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A jump is a type of increase",
+        "best_gpt2_label": " A jump is a type of increase"
+    },
+    {
+        "head": "jump.n.01",
+        "tail": "increase.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Jump is a type of increase",
+        "best_gpt2_label": " Jump is a type of increase"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A dwindling is a decrease",
+        "best_gpt2_label": "A dwindling is a decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A dwindling is decrease",
+        "best_gpt2_label": "A dwindling is decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Dwindling is a decrease",
+        "best_gpt2_label": "Dwindling is a decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Dwindling is decrease",
+        "best_gpt2_label": "Dwindling is decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A dwindling is a decrease",
+        "best_gpt2_label": " A dwindling is a decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A dwindling is decrease",
+        "best_gpt2_label": " A dwindling is decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Dwindling is a decrease",
+        "best_gpt2_label": " Dwindling is a decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Dwindling is decrease",
+        "best_gpt2_label": " Dwindling is decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A dwindling is a kind of decrease",
+        "best_gpt2_label": "A dwindling is a kind of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Dwindling is a kind of decrease",
+        "best_gpt2_label": "Dwindling is a kind of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A dwindling is a kind of decrease",
+        "best_gpt2_label": " A dwindling is a kind of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Dwindling is a kind of decrease",
+        "best_gpt2_label": " Dwindling is a kind of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A dwindling is a sort of decrease",
+        "best_gpt2_label": "A dwindling is a sort of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Dwindling is a sort of decrease",
+        "best_gpt2_label": "Dwindling is a sort of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A dwindling is a sort of decrease",
+        "best_gpt2_label": " A dwindling is a sort of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Dwindling is a sort of decrease",
+        "best_gpt2_label": " Dwindling is a sort of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Dwindling is a hyponym of decrease",
+        "best_gpt2_label": "Dwindling is a hyponym of decrease"
+    },
+    {
+        "head": "dwindling.n.01",
+        "tail": "decrease.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Dwindling is a hyponym of decrease",
+        "best_gpt2_label": " Dwindling is a hyponym of decrease"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A change is a kind of happening",
+        "best_gpt2_label": "A change is a kind of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Change is a kind of happening",
+        "best_gpt2_label": "Change is a kind of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A change is a kind of happening",
+        "best_gpt2_label": " A change is a kind of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Change is a kind of happening",
+        "best_gpt2_label": " Change is a kind of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A change is a sort of happening",
+        "best_gpt2_label": "A change is a sort of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Change is a sort of happening",
+        "best_gpt2_label": "Change is a sort of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A change is a sort of happening",
+        "best_gpt2_label": " A change is a sort of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Change is a sort of happening",
+        "best_gpt2_label": " Change is a sort of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Change is a hyponym of happening",
+        "best_gpt2_label": "Change is a hyponym of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Change is a hyponym of happening",
+        "best_gpt2_label": " Change is a hyponym of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A change is a type of happening",
+        "best_gpt2_label": "A change is a type of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Change is a type of happening",
+        "best_gpt2_label": "Change is a type of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A change is a type of happening",
+        "best_gpt2_label": " A change is a type of happening"
+    },
+    {
+        "head": "change.n.01",
+        "tail": "happening.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Change is a type of happening",
+        "best_gpt2_label": " Change is a type of happening"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A weakening is a transformation",
+        "best_gpt2_label": "A weakening is a transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A weakening is transformation",
+        "best_gpt2_label": "A weakening is transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Weakening is a transformation",
+        "best_gpt2_label": "Weakening is a transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Weakening is transformation",
+        "best_gpt2_label": "Weakening is transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A weakening is a transformation",
+        "best_gpt2_label": " A weakening is a transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A weakening is transformation",
+        "best_gpt2_label": " A weakening is transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Weakening is a transformation",
+        "best_gpt2_label": " Weakening is a transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Weakening is transformation",
+        "best_gpt2_label": " Weakening is transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A weakening is a sort of transformation",
+        "best_gpt2_label": "A weakening is a sort of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Weakening is a sort of transformation",
+        "best_gpt2_label": "Weakening is a sort of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A weakening is a sort of transformation",
+        "best_gpt2_label": " A weakening is a sort of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Weakening is a sort of transformation",
+        "best_gpt2_label": " Weakening is a sort of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Weakening is a hyponym of transformation",
+        "best_gpt2_label": "Weakening is a hyponym of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Weakening is a hyponym of transformation",
+        "best_gpt2_label": " Weakening is a hyponym of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A weakening is a type of transformation",
+        "best_gpt2_label": "A weakening is a type of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Weakening is a type of transformation",
+        "best_gpt2_label": "Weakening is a type of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A weakening is a type of transformation",
+        "best_gpt2_label": " A weakening is a type of transformation"
+    },
+    {
+        "head": "weakening.n.01",
+        "tail": "transformation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Weakening is a type of transformation",
+        "best_gpt2_label": " Weakening is a type of transformation"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A detriment is a damage",
+        "best_gpt2_label": "A detriment is a damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A detriment is damage",
+        "best_gpt2_label": "A detriment is damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Detriment is a damage",
+        "best_gpt2_label": "Detriment is a damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Detriment is damage",
+        "best_gpt2_label": "Detriment is damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A detriment is a damage",
+        "best_gpt2_label": " A detriment is a damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A detriment is damage",
+        "best_gpt2_label": " A detriment is damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Detriment is a damage",
+        "best_gpt2_label": " Detriment is a damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Detriment is damage",
+        "best_gpt2_label": " Detriment is damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A detriment is a kind of damage",
+        "best_gpt2_label": "A detriment is a kind of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Detriment is a kind of damage",
+        "best_gpt2_label": "Detriment is a kind of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A detriment is a kind of damage",
+        "best_gpt2_label": " A detriment is a kind of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Detriment is a kind of damage",
+        "best_gpt2_label": " Detriment is a kind of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A detriment is a sort of damage",
+        "best_gpt2_label": "A detriment is a sort of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Detriment is a sort of damage",
+        "best_gpt2_label": "Detriment is a sort of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A detriment is a sort of damage",
+        "best_gpt2_label": " A detriment is a sort of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Detriment is a sort of damage",
+        "best_gpt2_label": " Detriment is a sort of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Detriment is a hyponym of damage",
+        "best_gpt2_label": "Detriment is a hyponym of damage"
+    },
+    {
+        "head": "detriment.n.01",
+        "tail": "damage.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Detriment is a hyponym of damage",
+        "best_gpt2_label": " Detriment is a hyponym of damage"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A reincarnation is a birth",
+        "best_gpt2_label": "A reincarnation is a birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A reincarnation is birth",
+        "best_gpt2_label": "A reincarnation is birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Reincarnation is a birth",
+        "best_gpt2_label": "Reincarnation is a birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Reincarnation is birth",
+        "best_gpt2_label": "Reincarnation is birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A reincarnation is a birth",
+        "best_gpt2_label": " A reincarnation is a birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A reincarnation is birth",
+        "best_gpt2_label": " A reincarnation is birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Reincarnation is a birth",
+        "best_gpt2_label": " Reincarnation is a birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Reincarnation is birth",
+        "best_gpt2_label": " Reincarnation is birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A reincarnation is a kind of birth",
+        "best_gpt2_label": "A reincarnation is a kind of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Reincarnation is a kind of birth",
+        "best_gpt2_label": "Reincarnation is a kind of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A reincarnation is a kind of birth",
+        "best_gpt2_label": " A reincarnation is a kind of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Reincarnation is a kind of birth",
+        "best_gpt2_label": " Reincarnation is a kind of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A reincarnation is a sort of birth",
+        "best_gpt2_label": "A reincarnation is a sort of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Reincarnation is a sort of birth",
+        "best_gpt2_label": "Reincarnation is a sort of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A reincarnation is a sort of birth",
+        "best_gpt2_label": " A reincarnation is a sort of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Reincarnation is a sort of birth",
+        "best_gpt2_label": " Reincarnation is a sort of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Reincarnation is a hyponym of birth",
+        "best_gpt2_label": "Reincarnation is a hyponym of birth"
+    },
+    {
+        "head": "reincarnation.n.02",
+        "tail": "birth.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Reincarnation is a hyponym of birth",
+        "best_gpt2_label": " Reincarnation is a hyponym of birth"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A shock is a kind of surprise",
+        "best_gpt2_label": "A shock is a kind of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Shock is a kind of surprise",
+        "best_gpt2_label": "Shock is a kind of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A shock is a kind of surprise",
+        "best_gpt2_label": " A shock is a kind of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Shock is a kind of surprise",
+        "best_gpt2_label": " Shock is a kind of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A shock is a sort of surprise",
+        "best_gpt2_label": "A shock is a sort of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Shock is a sort of surprise",
+        "best_gpt2_label": "Shock is a sort of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A shock is a sort of surprise",
+        "best_gpt2_label": " A shock is a sort of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Shock is a sort of surprise",
+        "best_gpt2_label": " Shock is a sort of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Shock is a hyponym of surprise",
+        "best_gpt2_label": "Shock is a hyponym of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Shock is a hyponym of surprise",
+        "best_gpt2_label": " Shock is a hyponym of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A shock is a type of surprise",
+        "best_gpt2_label": "A shock is a type of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Shock is a type of surprise",
+        "best_gpt2_label": "Shock is a type of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A shock is a type of surprise",
+        "best_gpt2_label": " A shock is a type of surprise"
+    },
+    {
+        "head": "shock.n.06",
+        "tail": "surprise.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Shock is a type of surprise",
+        "best_gpt2_label": " Shock is a type of surprise"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A happening is a kind of event",
+        "best_gpt2_label": "A happening is a kind of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Happening is a kind of event",
+        "best_gpt2_label": "Happening is a kind of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A happening is a kind of event",
+        "best_gpt2_label": " A happening is a kind of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Happening is a kind of event",
+        "best_gpt2_label": " Happening is a kind of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A happening is a sort of event",
+        "best_gpt2_label": "A happening is a sort of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Happening is a sort of event",
+        "best_gpt2_label": "Happening is a sort of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A happening is a sort of event",
+        "best_gpt2_label": " A happening is a sort of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Happening is a sort of event",
+        "best_gpt2_label": " Happening is a sort of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Happening is a hyponym of event",
+        "best_gpt2_label": "Happening is a hyponym of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Happening is a hyponym of event",
+        "best_gpt2_label": " Happening is a hyponym of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A happening is a type of event",
+        "best_gpt2_label": "A happening is a type of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Happening is a type of event",
+        "best_gpt2_label": "Happening is a type of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A happening is a type of event",
+        "best_gpt2_label": " A happening is a type of event"
+    },
+    {
+        "head": "happening.n.01",
+        "tail": "event.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Happening is a type of event",
+        "best_gpt2_label": " Happening is a type of event"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A break is a separation",
+        "best_gpt2_label": "A break is a separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A break is separation",
+        "best_gpt2_label": "A break is separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Break is a separation",
+        "best_gpt2_label": "Break is a separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Break is separation",
+        "best_gpt2_label": "Break is separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A break is a separation",
+        "best_gpt2_label": " A break is a separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A break is separation",
+        "best_gpt2_label": " A break is separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Break is a separation",
+        "best_gpt2_label": " Break is a separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Break is separation",
+        "best_gpt2_label": " Break is separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A break is a kind of separation",
+        "best_gpt2_label": "A break is a kind of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Break is a kind of separation",
+        "best_gpt2_label": "Break is a kind of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A break is a kind of separation",
+        "best_gpt2_label": " A break is a kind of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Break is a kind of separation",
+        "best_gpt2_label": " Break is a kind of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A break is a sort of separation",
+        "best_gpt2_label": "A break is a sort of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Break is a sort of separation",
+        "best_gpt2_label": "Break is a sort of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A break is a sort of separation",
+        "best_gpt2_label": " A break is a sort of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Break is a sort of separation",
+        "best_gpt2_label": " Break is a sort of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Break is a hyponym of separation",
+        "best_gpt2_label": "Break is a hyponym of separation"
+    },
+    {
+        "head": "break.n.09",
+        "tail": "separation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Break is a hyponym of separation",
+        "best_gpt2_label": " Break is a hyponym of separation"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A leap is a transition",
+        "best_gpt2_label": "A leap is a transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A leap is transition",
+        "best_gpt2_label": "A leap is transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Leap is a transition",
+        "best_gpt2_label": "Leap is a transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Leap is transition",
+        "best_gpt2_label": "Leap is transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A leap is a transition",
+        "best_gpt2_label": " A leap is a transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A leap is transition",
+        "best_gpt2_label": " A leap is transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Leap is a transition",
+        "best_gpt2_label": " Leap is a transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Leap is transition",
+        "best_gpt2_label": " Leap is transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A leap is a kind of transition",
+        "best_gpt2_label": "A leap is a kind of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Leap is a kind of transition",
+        "best_gpt2_label": "Leap is a kind of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A leap is a kind of transition",
+        "best_gpt2_label": " A leap is a kind of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Leap is a kind of transition",
+        "best_gpt2_label": " Leap is a kind of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A leap is a sort of transition",
+        "best_gpt2_label": "A leap is a sort of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Leap is a sort of transition",
+        "best_gpt2_label": "Leap is a sort of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A leap is a sort of transition",
+        "best_gpt2_label": " A leap is a sort of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Leap is a sort of transition",
+        "best_gpt2_label": " Leap is a sort of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Leap is a hyponym of transition",
+        "best_gpt2_label": "Leap is a hyponym of transition"
+    },
+    {
+        "head": "leap.n.02",
+        "tail": "transition.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Leap is a hyponym of transition",
+        "best_gpt2_label": " Leap is a hyponym of transition"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A deviation is a variation",
+        "best_gpt2_label": "A deviation is a variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A deviation is variation",
+        "best_gpt2_label": "A deviation is variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Deviation is a variation",
+        "best_gpt2_label": "Deviation is a variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Deviation is variation",
+        "best_gpt2_label": "Deviation is variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A deviation is a variation",
+        "best_gpt2_label": " A deviation is a variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A deviation is variation",
+        "best_gpt2_label": " A deviation is variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Deviation is a variation",
+        "best_gpt2_label": " Deviation is a variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Deviation is variation",
+        "best_gpt2_label": " Deviation is variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A deviation is a kind of variation",
+        "best_gpt2_label": "A deviation is a kind of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Deviation is a kind of variation",
+        "best_gpt2_label": "Deviation is a kind of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A deviation is a kind of variation",
+        "best_gpt2_label": " A deviation is a kind of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Deviation is a kind of variation",
+        "best_gpt2_label": " Deviation is a kind of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A deviation is a sort of variation",
+        "best_gpt2_label": "A deviation is a sort of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Deviation is a sort of variation",
+        "best_gpt2_label": "Deviation is a sort of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A deviation is a sort of variation",
+        "best_gpt2_label": " A deviation is a sort of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Deviation is a sort of variation",
+        "best_gpt2_label": " Deviation is a sort of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Deviation is a hyponym of variation",
+        "best_gpt2_label": "Deviation is a hyponym of variation"
+    },
+    {
+        "head": "deviation.n.01",
+        "tail": "variation.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Deviation is a hyponym of variation",
+        "best_gpt2_label": " Deviation is a hyponym of variation"
+    }
+]

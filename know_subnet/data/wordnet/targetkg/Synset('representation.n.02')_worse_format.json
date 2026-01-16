@@ -1,0 +1,1474 @@
+[
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A chart is a kind of map",
+        "best_gpt2_label": "A chart is a kind of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Chart is a kind of map",
+        "best_gpt2_label": "Chart is a kind of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A chart is a kind of map",
+        "best_gpt2_label": " A chart is a kind of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Chart is a kind of map",
+        "best_gpt2_label": " Chart is a kind of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A chart is a sort of map",
+        "best_gpt2_label": "A chart is a sort of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Chart is a sort of map",
+        "best_gpt2_label": "Chart is a sort of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A chart is a sort of map",
+        "best_gpt2_label": " A chart is a sort of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Chart is a sort of map",
+        "best_gpt2_label": " Chart is a sort of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Chart is a hyponym of map",
+        "best_gpt2_label": "Chart is a hyponym of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Chart is a hyponym of map",
+        "best_gpt2_label": " Chart is a hyponym of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A chart is a type of map",
+        "best_gpt2_label": "A chart is a type of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Chart is a type of map",
+        "best_gpt2_label": "Chart is a type of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A chart is a type of map",
+        "best_gpt2_label": " A chart is a type of map"
+    },
+    {
+        "head": "chart.n.02",
+        "tail": "map.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Chart is a type of map",
+        "best_gpt2_label": " Chart is a type of map"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A globe is a kind of model",
+        "best_gpt2_label": "A globe is a kind of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Globe is a kind of model",
+        "best_gpt2_label": "Globe is a kind of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A globe is a kind of model",
+        "best_gpt2_label": " A globe is a kind of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Globe is a kind of model",
+        "best_gpt2_label": " Globe is a kind of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A globe is a sort of model",
+        "best_gpt2_label": "A globe is a sort of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Globe is a sort of model",
+        "best_gpt2_label": "Globe is a sort of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A globe is a sort of model",
+        "best_gpt2_label": " A globe is a sort of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Globe is a sort of model",
+        "best_gpt2_label": " Globe is a sort of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Globe is a hyponym of model",
+        "best_gpt2_label": "Globe is a hyponym of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Globe is a hyponym of model",
+        "best_gpt2_label": " Globe is a hyponym of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A globe is a type of model",
+        "best_gpt2_label": "A globe is a type of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Globe is a type of model",
+        "best_gpt2_label": "Globe is a type of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A globe is a type of model",
+        "best_gpt2_label": " A globe is a type of model"
+    },
+    {
+        "head": "globe.n.03",
+        "tail": "model.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Globe is a type of model",
+        "best_gpt2_label": " Globe is a type of model"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A letter is a document",
+        "best_gpt2_label": "A letter is a document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A letter is document",
+        "best_gpt2_label": "A letter is document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Letter is a document",
+        "best_gpt2_label": "Letter is a document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Letter is document",
+        "best_gpt2_label": "Letter is document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A letter is a document",
+        "best_gpt2_label": " A letter is a document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A letter is document",
+        "best_gpt2_label": " A letter is document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Letter is a document",
+        "best_gpt2_label": " Letter is a document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Letter is document",
+        "best_gpt2_label": " Letter is document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A letter is a kind of document",
+        "best_gpt2_label": "A letter is a kind of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Letter is a kind of document",
+        "best_gpt2_label": "Letter is a kind of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A letter is a kind of document",
+        "best_gpt2_label": " A letter is a kind of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Letter is a kind of document",
+        "best_gpt2_label": " Letter is a kind of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A letter is a sort of document",
+        "best_gpt2_label": "A letter is a sort of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Letter is a sort of document",
+        "best_gpt2_label": "Letter is a sort of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A letter is a sort of document",
+        "best_gpt2_label": " A letter is a sort of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Letter is a sort of document",
+        "best_gpt2_label": " Letter is a sort of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Letter is a hyponym of document",
+        "best_gpt2_label": "Letter is a hyponym of document"
+    },
+    {
+        "head": "letter.n.01",
+        "tail": "document.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Letter is a hyponym of document",
+        "best_gpt2_label": " Letter is a hyponym of document"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A delineation is a drawing",
+        "best_gpt2_label": "A delineation is a drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A delineation is drawing",
+        "best_gpt2_label": "A delineation is drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Delineation is a drawing",
+        "best_gpt2_label": "Delineation is a drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Delineation is drawing",
+        "best_gpt2_label": "Delineation is drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A delineation is a drawing",
+        "best_gpt2_label": " A delineation is a drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A delineation is drawing",
+        "best_gpt2_label": " A delineation is drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Delineation is a drawing",
+        "best_gpt2_label": " Delineation is a drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Delineation is drawing",
+        "best_gpt2_label": " Delineation is drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A delineation is a kind of drawing",
+        "best_gpt2_label": "A delineation is a kind of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Delineation is a kind of drawing",
+        "best_gpt2_label": "Delineation is a kind of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A delineation is a kind of drawing",
+        "best_gpt2_label": " A delineation is a kind of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Delineation is a kind of drawing",
+        "best_gpt2_label": " Delineation is a kind of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A delineation is a sort of drawing",
+        "best_gpt2_label": "A delineation is a sort of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Delineation is a sort of drawing",
+        "best_gpt2_label": "Delineation is a sort of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A delineation is a sort of drawing",
+        "best_gpt2_label": " A delineation is a sort of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Delineation is a sort of drawing",
+        "best_gpt2_label": " Delineation is a sort of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Delineation is a hyponym of drawing",
+        "best_gpt2_label": "Delineation is a hyponym of drawing"
+    },
+    {
+        "head": "delineation.n.02",
+        "tail": "drawing.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Delineation is a hyponym of drawing",
+        "best_gpt2_label": " Delineation is a hyponym of drawing"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A plate is a kind of illustration",
+        "best_gpt2_label": "A plate is a kind of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Plate is a kind of illustration",
+        "best_gpt2_label": "Plate is a kind of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A plate is a kind of illustration",
+        "best_gpt2_label": " A plate is a kind of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Plate is a kind of illustration",
+        "best_gpt2_label": " Plate is a kind of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A plate is a sort of illustration",
+        "best_gpt2_label": "A plate is a sort of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Plate is a sort of illustration",
+        "best_gpt2_label": "Plate is a sort of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A plate is a sort of illustration",
+        "best_gpt2_label": " A plate is a sort of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Plate is a sort of illustration",
+        "best_gpt2_label": " Plate is a sort of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Plate is a hyponym of illustration",
+        "best_gpt2_label": "Plate is a hyponym of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Plate is a hyponym of illustration",
+        "best_gpt2_label": " Plate is a hyponym of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A plate is a type of illustration",
+        "best_gpt2_label": "A plate is a type of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Plate is a type of illustration",
+        "best_gpt2_label": "Plate is a type of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A plate is a type of illustration",
+        "best_gpt2_label": " A plate is a type of illustration"
+    },
+    {
+        "head": "plate.n.03",
+        "tail": "illustration.n.04",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Plate is a type of illustration",
+        "best_gpt2_label": " Plate is a type of illustration"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A creation is a kind of artifact",
+        "best_gpt2_label": "A creation is a kind of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Creation is a kind of artifact",
+        "best_gpt2_label": "Creation is a kind of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A creation is a kind of artifact",
+        "best_gpt2_label": " A creation is a kind of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Creation is a kind of artifact",
+        "best_gpt2_label": " Creation is a kind of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A creation is a sort of artifact",
+        "best_gpt2_label": "A creation is a sort of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Creation is a sort of artifact",
+        "best_gpt2_label": "Creation is a sort of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A creation is a sort of artifact",
+        "best_gpt2_label": " A creation is a sort of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Creation is a sort of artifact",
+        "best_gpt2_label": " Creation is a sort of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Creation is a hyponym of artifact",
+        "best_gpt2_label": "Creation is a hyponym of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Creation is a hyponym of artifact",
+        "best_gpt2_label": " Creation is a hyponym of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A creation is a type of artifact",
+        "best_gpt2_label": "A creation is a type of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Creation is a type of artifact",
+        "best_gpt2_label": "Creation is a type of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A creation is a type of artifact",
+        "best_gpt2_label": " A creation is a type of artifact"
+    },
+    {
+        "head": "creation.n.02",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Creation is a type of artifact",
+        "best_gpt2_label": " Creation is a type of artifact"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An imitation is a kind of copy",
+        "best_gpt2_label": "An imitation is a kind of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Imitation is a kind of copy",
+        "best_gpt2_label": "Imitation is a kind of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An imitation is a kind of copy",
+        "best_gpt2_label": " An imitation is a kind of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Imitation is a kind of copy",
+        "best_gpt2_label": " Imitation is a kind of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An imitation is a sort of copy",
+        "best_gpt2_label": "An imitation is a sort of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Imitation is a sort of copy",
+        "best_gpt2_label": "Imitation is a sort of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An imitation is a sort of copy",
+        "best_gpt2_label": " An imitation is a sort of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Imitation is a sort of copy",
+        "best_gpt2_label": " Imitation is a sort of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Imitation is a hyponym of copy",
+        "best_gpt2_label": "Imitation is a hyponym of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Imitation is a hyponym of copy",
+        "best_gpt2_label": " Imitation is a hyponym of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An imitation is a type of copy",
+        "best_gpt2_label": "An imitation is a type of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Imitation is a type of copy",
+        "best_gpt2_label": "Imitation is a type of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An imitation is a type of copy",
+        "best_gpt2_label": " An imitation is a type of copy"
+    },
+    {
+        "head": "imitation.n.02",
+        "tail": "copy.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Imitation is a type of copy",
+        "best_gpt2_label": " Imitation is a type of copy"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A representation is a creation",
+        "best_gpt2_label": "A representation is a creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A representation is creation",
+        "best_gpt2_label": "A representation is creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Representation is a creation",
+        "best_gpt2_label": "Representation is a creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Representation is creation",
+        "best_gpt2_label": "Representation is creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A representation is a creation",
+        "best_gpt2_label": " A representation is a creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A representation is creation",
+        "best_gpt2_label": " A representation is creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Representation is a creation",
+        "best_gpt2_label": " Representation is a creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Representation is creation",
+        "best_gpt2_label": " Representation is creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A representation is a sort of creation",
+        "best_gpt2_label": "A representation is a sort of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Representation is a sort of creation",
+        "best_gpt2_label": "Representation is a sort of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A representation is a sort of creation",
+        "best_gpt2_label": " A representation is a sort of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Representation is a sort of creation",
+        "best_gpt2_label": " Representation is a sort of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Representation is a hyponym of creation",
+        "best_gpt2_label": "Representation is a hyponym of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Representation is a hyponym of creation",
+        "best_gpt2_label": " Representation is a hyponym of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A representation is a type of creation",
+        "best_gpt2_label": "A representation is a type of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Representation is a type of creation",
+        "best_gpt2_label": "Representation is a type of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A representation is a type of creation",
+        "best_gpt2_label": " A representation is a type of creation"
+    },
+    {
+        "head": "representation.n.02",
+        "tail": "creation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Representation is a type of creation",
+        "best_gpt2_label": " Representation is a type of creation"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A photocopy is a photograph",
+        "best_gpt2_label": "A photocopy is a photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A photocopy is photograph",
+        "best_gpt2_label": "A photocopy is photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Photocopy is a photograph",
+        "best_gpt2_label": "Photocopy is a photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Photocopy is photograph",
+        "best_gpt2_label": "Photocopy is photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A photocopy is a photograph",
+        "best_gpt2_label": " A photocopy is a photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A photocopy is photograph",
+        "best_gpt2_label": " A photocopy is photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Photocopy is a photograph",
+        "best_gpt2_label": " Photocopy is a photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Photocopy is photograph",
+        "best_gpt2_label": " Photocopy is photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A photocopy is a kind of photograph",
+        "best_gpt2_label": "A photocopy is a kind of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Photocopy is a kind of photograph",
+        "best_gpt2_label": "Photocopy is a kind of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A photocopy is a kind of photograph",
+        "best_gpt2_label": " A photocopy is a kind of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Photocopy is a kind of photograph",
+        "best_gpt2_label": " Photocopy is a kind of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A photocopy is a sort of photograph",
+        "best_gpt2_label": "A photocopy is a sort of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Photocopy is a sort of photograph",
+        "best_gpt2_label": "Photocopy is a sort of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A photocopy is a sort of photograph",
+        "best_gpt2_label": " A photocopy is a sort of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Photocopy is a sort of photograph",
+        "best_gpt2_label": " Photocopy is a sort of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Photocopy is a hyponym of photograph",
+        "best_gpt2_label": "Photocopy is a hyponym of photograph"
+    },
+    {
+        "head": "photocopy.n.01",
+        "tail": "photograph.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Photocopy is a hyponym of photograph",
+        "best_gpt2_label": " Photocopy is a hyponym of photograph"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A spectacle is a kind of display",
+        "best_gpt2_label": "A spectacle is a kind of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Spectacle is a kind of display",
+        "best_gpt2_label": "Spectacle is a kind of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A spectacle is a kind of display",
+        "best_gpt2_label": " A spectacle is a kind of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Spectacle is a kind of display",
+        "best_gpt2_label": " Spectacle is a kind of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A spectacle is a sort of display",
+        "best_gpt2_label": "A spectacle is a sort of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Spectacle is a sort of display",
+        "best_gpt2_label": "Spectacle is a sort of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A spectacle is a sort of display",
+        "best_gpt2_label": " A spectacle is a sort of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Spectacle is a sort of display",
+        "best_gpt2_label": " Spectacle is a sort of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Spectacle is a hyponym of display",
+        "best_gpt2_label": "Spectacle is a hyponym of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Spectacle is a hyponym of display",
+        "best_gpt2_label": " Spectacle is a hyponym of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A spectacle is a type of display",
+        "best_gpt2_label": "A spectacle is a type of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Spectacle is a type of display",
+        "best_gpt2_label": "Spectacle is a type of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A spectacle is a type of display",
+        "best_gpt2_label": " A spectacle is a type of display"
+    },
+    {
+        "head": "spectacle.n.02",
+        "tail": "display.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Spectacle is a type of display",
+        "best_gpt2_label": " Spectacle is a type of display"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A display is a kind of representation",
+        "best_gpt2_label": "A display is a kind of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Display is a kind of representation",
+        "best_gpt2_label": "Display is a kind of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A display is a kind of representation",
+        "best_gpt2_label": " A display is a kind of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Display is a kind of representation",
+        "best_gpt2_label": " Display is a kind of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A display is a sort of representation",
+        "best_gpt2_label": "A display is a sort of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Display is a sort of representation",
+        "best_gpt2_label": "Display is a sort of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A display is a sort of representation",
+        "best_gpt2_label": " A display is a sort of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Display is a sort of representation",
+        "best_gpt2_label": " Display is a sort of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Display is a hyponym of representation",
+        "best_gpt2_label": "Display is a hyponym of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Display is a hyponym of representation",
+        "best_gpt2_label": " Display is a hyponym of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A display is a type of representation",
+        "best_gpt2_label": "A display is a type of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Display is a type of representation",
+        "best_gpt2_label": "Display is a type of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A display is a type of representation",
+        "best_gpt2_label": " A display is a type of representation"
+    },
+    {
+        "head": "display.n.03",
+        "tail": "representation.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Display is a type of representation",
+        "best_gpt2_label": " Display is a type of representation"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A collage is a kind of picture",
+        "best_gpt2_label": "A collage is a kind of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Collage is a kind of picture",
+        "best_gpt2_label": "Collage is a kind of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A collage is a kind of picture",
+        "best_gpt2_label": " A collage is a kind of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Collage is a kind of picture",
+        "best_gpt2_label": " Collage is a kind of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A collage is a sort of picture",
+        "best_gpt2_label": "A collage is a sort of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Collage is a sort of picture",
+        "best_gpt2_label": "Collage is a sort of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A collage is a sort of picture",
+        "best_gpt2_label": " A collage is a sort of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Collage is a sort of picture",
+        "best_gpt2_label": " Collage is a sort of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Collage is a hyponym of picture",
+        "best_gpt2_label": "Collage is a hyponym of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Collage is a hyponym of picture",
+        "best_gpt2_label": " Collage is a hyponym of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A collage is a type of picture",
+        "best_gpt2_label": "A collage is a type of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Collage is a type of picture",
+        "best_gpt2_label": "Collage is a type of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A collage is a type of picture",
+        "best_gpt2_label": " A collage is a type of picture"
+    },
+    {
+        "head": "collage.n.01",
+        "tail": "picture.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Collage is a type of picture",
+        "best_gpt2_label": " Collage is a type of picture"
+    }
+]

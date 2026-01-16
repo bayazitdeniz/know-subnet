@@ -1,0 +1,2226 @@
+[
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A waterline is a line",
+        "best_gpt2_label": "A waterline is a line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A waterline is line",
+        "best_gpt2_label": "A waterline is line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Waterline is a line",
+        "best_gpt2_label": "Waterline is a line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Waterline is line",
+        "best_gpt2_label": "Waterline is line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A waterline is a line",
+        "best_gpt2_label": " A waterline is a line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A waterline is line",
+        "best_gpt2_label": " A waterline is line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Waterline is a line",
+        "best_gpt2_label": " Waterline is a line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Waterline is line",
+        "best_gpt2_label": " Waterline is line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A waterline is a kind of line",
+        "best_gpt2_label": "A waterline is a kind of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Waterline is a kind of line",
+        "best_gpt2_label": "Waterline is a kind of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A waterline is a kind of line",
+        "best_gpt2_label": " A waterline is a kind of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Waterline is a kind of line",
+        "best_gpt2_label": " Waterline is a kind of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A waterline is a sort of line",
+        "best_gpt2_label": "A waterline is a sort of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Waterline is a sort of line",
+        "best_gpt2_label": "Waterline is a sort of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A waterline is a sort of line",
+        "best_gpt2_label": " A waterline is a sort of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Waterline is a sort of line",
+        "best_gpt2_label": " Waterline is a sort of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Waterline is a hyponym of line",
+        "best_gpt2_label": "Waterline is a hyponym of line"
+    },
+    {
+        "head": "waterline.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Waterline is a hyponym of line",
+        "best_gpt2_label": " Waterline is a hyponym of line"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A domain is a kind of region",
+        "best_gpt2_label": "A domain is a kind of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Domain is a kind of region",
+        "best_gpt2_label": "Domain is a kind of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A domain is a kind of region",
+        "best_gpt2_label": " A domain is a kind of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Domain is a kind of region",
+        "best_gpt2_label": " Domain is a kind of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A domain is a sort of region",
+        "best_gpt2_label": "A domain is a sort of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Domain is a sort of region",
+        "best_gpt2_label": "Domain is a sort of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A domain is a sort of region",
+        "best_gpt2_label": " A domain is a sort of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Domain is a sort of region",
+        "best_gpt2_label": " Domain is a sort of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Domain is a hyponym of region",
+        "best_gpt2_label": "Domain is a hyponym of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Domain is a hyponym of region",
+        "best_gpt2_label": " Domain is a hyponym of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A domain is a type of region",
+        "best_gpt2_label": "A domain is a type of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Domain is a type of region",
+        "best_gpt2_label": "Domain is a type of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A domain is a type of region",
+        "best_gpt2_label": " A domain is a type of region"
+    },
+    {
+        "head": "domain.n.02",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Domain is a type of region",
+        "best_gpt2_label": " Domain is a type of region"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A corner is a kind of point",
+        "best_gpt2_label": "A corner is a kind of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Corner is a kind of point",
+        "best_gpt2_label": "Corner is a kind of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A corner is a kind of point",
+        "best_gpt2_label": " A corner is a kind of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Corner is a kind of point",
+        "best_gpt2_label": " Corner is a kind of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A corner is a sort of point",
+        "best_gpt2_label": "A corner is a sort of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Corner is a sort of point",
+        "best_gpt2_label": "Corner is a sort of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A corner is a sort of point",
+        "best_gpt2_label": " A corner is a sort of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Corner is a sort of point",
+        "best_gpt2_label": " Corner is a sort of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Corner is a hyponym of point",
+        "best_gpt2_label": "Corner is a hyponym of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Corner is a hyponym of point",
+        "best_gpt2_label": " Corner is a hyponym of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A corner is a type of point",
+        "best_gpt2_label": "A corner is a type of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Corner is a type of point",
+        "best_gpt2_label": "Corner is a type of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A corner is a type of point",
+        "best_gpt2_label": " A corner is a type of point"
+    },
+    {
+        "head": "corner.n.02",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Corner is a type of point",
+        "best_gpt2_label": " Corner is a type of point"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A district is a kind of region",
+        "best_gpt2_label": "A district is a kind of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "District is a kind of region",
+        "best_gpt2_label": "District is a kind of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A district is a kind of region",
+        "best_gpt2_label": " A district is a kind of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " District is a kind of region",
+        "best_gpt2_label": " District is a kind of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A district is a sort of region",
+        "best_gpt2_label": "A district is a sort of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "District is a sort of region",
+        "best_gpt2_label": "District is a sort of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A district is a sort of region",
+        "best_gpt2_label": " A district is a sort of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " District is a sort of region",
+        "best_gpt2_label": " District is a sort of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "District is a hyponym of region",
+        "best_gpt2_label": "District is a hyponym of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " District is a hyponym of region",
+        "best_gpt2_label": " District is a hyponym of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A district is a type of region",
+        "best_gpt2_label": "A district is a type of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "District is a type of region",
+        "best_gpt2_label": "District is a type of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A district is a type of region",
+        "best_gpt2_label": " A district is a type of region"
+    },
+    {
+        "head": "district.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " District is a type of region",
+        "best_gpt2_label": " District is a type of region"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An expanse is a space",
+        "best_gpt2_label": "An expanse is a space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An expanse is space",
+        "best_gpt2_label": "An expanse is space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Expanse is a space",
+        "best_gpt2_label": "Expanse is a space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Expanse is space",
+        "best_gpt2_label": "Expanse is space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An expanse is a space",
+        "best_gpt2_label": " An expanse is a space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An expanse is space",
+        "best_gpt2_label": " An expanse is space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Expanse is a space",
+        "best_gpt2_label": " Expanse is a space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Expanse is space",
+        "best_gpt2_label": " Expanse is space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An expanse is a kind of space",
+        "best_gpt2_label": "An expanse is a kind of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Expanse is a kind of space",
+        "best_gpt2_label": "Expanse is a kind of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An expanse is a kind of space",
+        "best_gpt2_label": " An expanse is a kind of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Expanse is a kind of space",
+        "best_gpt2_label": " Expanse is a kind of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An expanse is a sort of space",
+        "best_gpt2_label": "An expanse is a sort of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Expanse is a sort of space",
+        "best_gpt2_label": "Expanse is a sort of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An expanse is a sort of space",
+        "best_gpt2_label": " An expanse is a sort of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Expanse is a sort of space",
+        "best_gpt2_label": " Expanse is a sort of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Expanse is a hyponym of space",
+        "best_gpt2_label": "Expanse is a hyponym of space"
+    },
+    {
+        "head": "expanse.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Expanse is a hyponym of space",
+        "best_gpt2_label": " Expanse is a hyponym of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A compartment is a kind of space",
+        "best_gpt2_label": "A compartment is a kind of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Compartment is a kind of space",
+        "best_gpt2_label": "Compartment is a kind of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A compartment is a kind of space",
+        "best_gpt2_label": " A compartment is a kind of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Compartment is a kind of space",
+        "best_gpt2_label": " Compartment is a kind of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A compartment is a sort of space",
+        "best_gpt2_label": "A compartment is a sort of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Compartment is a sort of space",
+        "best_gpt2_label": "Compartment is a sort of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A compartment is a sort of space",
+        "best_gpt2_label": " A compartment is a sort of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Compartment is a sort of space",
+        "best_gpt2_label": " Compartment is a sort of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Compartment is a hyponym of space",
+        "best_gpt2_label": "Compartment is a hyponym of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Compartment is a hyponym of space",
+        "best_gpt2_label": " Compartment is a hyponym of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A compartment is a type of space",
+        "best_gpt2_label": "A compartment is a type of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Compartment is a type of space",
+        "best_gpt2_label": "Compartment is a type of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A compartment is a type of space",
+        "best_gpt2_label": " A compartment is a type of space"
+    },
+    {
+        "head": "compartment.n.01",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Compartment is a type of space",
+        "best_gpt2_label": " Compartment is a type of space"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An area is a kind of region",
+        "best_gpt2_label": "An area is a kind of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Area is a kind of region",
+        "best_gpt2_label": "Area is a kind of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An area is a kind of region",
+        "best_gpt2_label": " An area is a kind of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Area is a kind of region",
+        "best_gpt2_label": " Area is a kind of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An area is a sort of region",
+        "best_gpt2_label": "An area is a sort of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Area is a sort of region",
+        "best_gpt2_label": "Area is a sort of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An area is a sort of region",
+        "best_gpt2_label": " An area is a sort of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Area is a sort of region",
+        "best_gpt2_label": " Area is a sort of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Area is a hyponym of region",
+        "best_gpt2_label": "Area is a hyponym of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Area is a hyponym of region",
+        "best_gpt2_label": " Area is a hyponym of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An area is a type of region",
+        "best_gpt2_label": "An area is a type of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Area is a type of region",
+        "best_gpt2_label": "Area is a type of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An area is a type of region",
+        "best_gpt2_label": " An area is a type of region"
+    },
+    {
+        "head": "area.n.01",
+        "tail": "region.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Area is a type of region",
+        "best_gpt2_label": " Area is a type of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A top is a kind of region",
+        "best_gpt2_label": "A top is a kind of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Top is a kind of region",
+        "best_gpt2_label": "Top is a kind of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A top is a kind of region",
+        "best_gpt2_label": " A top is a kind of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Top is a kind of region",
+        "best_gpt2_label": " Top is a kind of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A top is a sort of region",
+        "best_gpt2_label": "A top is a sort of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Top is a sort of region",
+        "best_gpt2_label": "Top is a sort of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A top is a sort of region",
+        "best_gpt2_label": " A top is a sort of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Top is a sort of region",
+        "best_gpt2_label": " Top is a sort of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Top is a hyponym of region",
+        "best_gpt2_label": "Top is a hyponym of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Top is a hyponym of region",
+        "best_gpt2_label": " Top is a hyponym of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A top is a type of region",
+        "best_gpt2_label": "A top is a type of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Top is a type of region",
+        "best_gpt2_label": "Top is a type of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A top is a type of region",
+        "best_gpt2_label": " A top is a type of region"
+    },
+    {
+        "head": "top.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Top is a type of region",
+        "best_gpt2_label": " Top is a type of region"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An enclosure is a kind of space",
+        "best_gpt2_label": "An enclosure is a kind of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Enclosure is a kind of space",
+        "best_gpt2_label": "Enclosure is a kind of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An enclosure is a kind of space",
+        "best_gpt2_label": " An enclosure is a kind of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Enclosure is a kind of space",
+        "best_gpt2_label": " Enclosure is a kind of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An enclosure is a sort of space",
+        "best_gpt2_label": "An enclosure is a sort of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Enclosure is a sort of space",
+        "best_gpt2_label": "Enclosure is a sort of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An enclosure is a sort of space",
+        "best_gpt2_label": " An enclosure is a sort of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Enclosure is a sort of space",
+        "best_gpt2_label": " Enclosure is a sort of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Enclosure is a hyponym of space",
+        "best_gpt2_label": "Enclosure is a hyponym of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Enclosure is a hyponym of space",
+        "best_gpt2_label": " Enclosure is a hyponym of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An enclosure is a type of space",
+        "best_gpt2_label": "An enclosure is a type of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Enclosure is a type of space",
+        "best_gpt2_label": "Enclosure is a type of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An enclosure is a type of space",
+        "best_gpt2_label": " An enclosure is a type of space"
+    },
+    {
+        "head": "enclosure.n.03",
+        "tail": "space.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Enclosure is a type of space",
+        "best_gpt2_label": " Enclosure is a type of space"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An atmosphere is a kind of region",
+        "best_gpt2_label": "An atmosphere is a kind of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Atmosphere is a kind of region",
+        "best_gpt2_label": "Atmosphere is a kind of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An atmosphere is a kind of region",
+        "best_gpt2_label": " An atmosphere is a kind of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Atmosphere is a kind of region",
+        "best_gpt2_label": " Atmosphere is a kind of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An atmosphere is a sort of region",
+        "best_gpt2_label": "An atmosphere is a sort of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Atmosphere is a sort of region",
+        "best_gpt2_label": "Atmosphere is a sort of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An atmosphere is a sort of region",
+        "best_gpt2_label": " An atmosphere is a sort of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Atmosphere is a sort of region",
+        "best_gpt2_label": " Atmosphere is a sort of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Atmosphere is a hyponym of region",
+        "best_gpt2_label": "Atmosphere is a hyponym of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Atmosphere is a hyponym of region",
+        "best_gpt2_label": " Atmosphere is a hyponym of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An atmosphere is a type of region",
+        "best_gpt2_label": "An atmosphere is a type of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Atmosphere is a type of region",
+        "best_gpt2_label": "Atmosphere is a type of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An atmosphere is a type of region",
+        "best_gpt2_label": " An atmosphere is a type of region"
+    },
+    {
+        "head": "atmosphere.n.03",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Atmosphere is a type of region",
+        "best_gpt2_label": " Atmosphere is a type of region"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A space is a location",
+        "best_gpt2_label": "A space is a location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A space is location",
+        "best_gpt2_label": "A space is location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Space is a location",
+        "best_gpt2_label": "Space is a location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Space is location",
+        "best_gpt2_label": "Space is location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A space is a location",
+        "best_gpt2_label": " A space is a location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A space is location",
+        "best_gpt2_label": " A space is location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Space is a location",
+        "best_gpt2_label": " Space is a location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Space is location",
+        "best_gpt2_label": " Space is location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A space is a kind of location",
+        "best_gpt2_label": "A space is a kind of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Space is a kind of location",
+        "best_gpt2_label": "Space is a kind of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A space is a kind of location",
+        "best_gpt2_label": " A space is a kind of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Space is a kind of location",
+        "best_gpt2_label": " Space is a kind of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A space is a sort of location",
+        "best_gpt2_label": "A space is a sort of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Space is a sort of location",
+        "best_gpt2_label": "Space is a sort of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A space is a sort of location",
+        "best_gpt2_label": " A space is a sort of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Space is a sort of location",
+        "best_gpt2_label": " Space is a sort of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Space is a hyponym of location",
+        "best_gpt2_label": "Space is a hyponym of location"
+    },
+    {
+        "head": "space.n.02",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Space is a hyponym of location",
+        "best_gpt2_label": " Space is a hyponym of location"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A watershed is a kind of line",
+        "best_gpt2_label": "A watershed is a kind of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Watershed is a kind of line",
+        "best_gpt2_label": "Watershed is a kind of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A watershed is a kind of line",
+        "best_gpt2_label": " A watershed is a kind of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Watershed is a kind of line",
+        "best_gpt2_label": " Watershed is a kind of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A watershed is a sort of line",
+        "best_gpt2_label": "A watershed is a sort of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Watershed is a sort of line",
+        "best_gpt2_label": "Watershed is a sort of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A watershed is a sort of line",
+        "best_gpt2_label": " A watershed is a sort of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Watershed is a sort of line",
+        "best_gpt2_label": " Watershed is a sort of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Watershed is a hyponym of line",
+        "best_gpt2_label": "Watershed is a hyponym of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Watershed is a hyponym of line",
+        "best_gpt2_label": " Watershed is a hyponym of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A watershed is a type of line",
+        "best_gpt2_label": "A watershed is a type of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Watershed is a type of line",
+        "best_gpt2_label": "Watershed is a type of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A watershed is a type of line",
+        "best_gpt2_label": " A watershed is a type of line"
+    },
+    {
+        "head": "watershed.n.01",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Watershed is a type of line",
+        "best_gpt2_label": " Watershed is a type of line"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A location is a kind of object",
+        "best_gpt2_label": "A location is a kind of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Location is a kind of object",
+        "best_gpt2_label": "Location is a kind of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A location is a kind of object",
+        "best_gpt2_label": " A location is a kind of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Location is a kind of object",
+        "best_gpt2_label": " Location is a kind of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A location is a sort of object",
+        "best_gpt2_label": "A location is a sort of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Location is a sort of object",
+        "best_gpt2_label": "Location is a sort of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A location is a sort of object",
+        "best_gpt2_label": " A location is a sort of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Location is a sort of object",
+        "best_gpt2_label": " Location is a sort of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Location is a hyponym of object",
+        "best_gpt2_label": "Location is a hyponym of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Location is a hyponym of object",
+        "best_gpt2_label": " Location is a hyponym of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A location is a type of object",
+        "best_gpt2_label": "A location is a type of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Location is a type of object",
+        "best_gpt2_label": "Location is a type of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A location is a type of object",
+        "best_gpt2_label": " A location is a type of object"
+    },
+    {
+        "head": "location.n.01",
+        "tail": "object.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Location is a type of object",
+        "best_gpt2_label": " Location is a type of object"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An outside is a kind of region",
+        "best_gpt2_label": "An outside is a kind of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Outside is a kind of region",
+        "best_gpt2_label": "Outside is a kind of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An outside is a kind of region",
+        "best_gpt2_label": " An outside is a kind of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Outside is a kind of region",
+        "best_gpt2_label": " Outside is a kind of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An outside is a sort of region",
+        "best_gpt2_label": "An outside is a sort of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Outside is a sort of region",
+        "best_gpt2_label": "Outside is a sort of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An outside is a sort of region",
+        "best_gpt2_label": " An outside is a sort of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Outside is a sort of region",
+        "best_gpt2_label": " Outside is a sort of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Outside is a hyponym of region",
+        "best_gpt2_label": "Outside is a hyponym of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Outside is a hyponym of region",
+        "best_gpt2_label": " Outside is a hyponym of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "An outside is a type of region",
+        "best_gpt2_label": "An outside is a type of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Outside is a type of region",
+        "best_gpt2_label": "Outside is a type of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " An outside is a type of region",
+        "best_gpt2_label": " An outside is a type of region"
+    },
+    {
+        "head": "outside.n.01",
+        "tail": "region.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Outside is a type of region",
+        "best_gpt2_label": " Outside is a type of region"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A path is a kind of line",
+        "best_gpt2_label": "A path is a kind of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Path is a kind of line",
+        "best_gpt2_label": "Path is a kind of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A path is a kind of line",
+        "best_gpt2_label": " A path is a kind of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Path is a kind of line",
+        "best_gpt2_label": " Path is a kind of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A path is a sort of line",
+        "best_gpt2_label": "A path is a sort of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Path is a sort of line",
+        "best_gpt2_label": "Path is a sort of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A path is a sort of line",
+        "best_gpt2_label": " A path is a sort of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Path is a sort of line",
+        "best_gpt2_label": " Path is a sort of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Path is a hyponym of line",
+        "best_gpt2_label": "Path is a hyponym of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Path is a hyponym of line",
+        "best_gpt2_label": " Path is a hyponym of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A path is a type of line",
+        "best_gpt2_label": "A path is a type of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Path is a type of line",
+        "best_gpt2_label": "Path is a type of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A path is a type of line",
+        "best_gpt2_label": " A path is a type of line"
+    },
+    {
+        "head": "path.n.03",
+        "tail": "line.n.11",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Path is a type of line",
+        "best_gpt2_label": " Path is a type of line"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A region is a kind of location",
+        "best_gpt2_label": "A region is a kind of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Region is a kind of location",
+        "best_gpt2_label": "Region is a kind of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A region is a kind of location",
+        "best_gpt2_label": " A region is a kind of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Region is a kind of location",
+        "best_gpt2_label": " Region is a kind of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A region is a sort of location",
+        "best_gpt2_label": "A region is a sort of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Region is a sort of location",
+        "best_gpt2_label": "Region is a sort of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A region is a sort of location",
+        "best_gpt2_label": " A region is a sort of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Region is a sort of location",
+        "best_gpt2_label": " Region is a sort of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Region is a hyponym of location",
+        "best_gpt2_label": "Region is a hyponym of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Region is a hyponym of location",
+        "best_gpt2_label": " Region is a hyponym of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A region is a type of location",
+        "best_gpt2_label": "A region is a type of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Region is a type of location",
+        "best_gpt2_label": "Region is a type of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A region is a type of location",
+        "best_gpt2_label": " A region is a type of location"
+    },
+    {
+        "head": "region.n.01",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Region is a type of location",
+        "best_gpt2_label": " Region is a type of location"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A position is a kind of point",
+        "best_gpt2_label": "A position is a kind of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Position is a kind of point",
+        "best_gpt2_label": "Position is a kind of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A position is a kind of point",
+        "best_gpt2_label": " A position is a kind of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Position is a kind of point",
+        "best_gpt2_label": " Position is a kind of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A position is a sort of point",
+        "best_gpt2_label": "A position is a sort of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Position is a sort of point",
+        "best_gpt2_label": "Position is a sort of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A position is a sort of point",
+        "best_gpt2_label": " A position is a sort of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Position is a sort of point",
+        "best_gpt2_label": " Position is a sort of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Position is a hyponym of point",
+        "best_gpt2_label": "Position is a hyponym of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Position is a hyponym of point",
+        "best_gpt2_label": " Position is a hyponym of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A position is a type of point",
+        "best_gpt2_label": "A position is a type of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Position is a type of point",
+        "best_gpt2_label": "Position is a type of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A position is a type of point",
+        "best_gpt2_label": " A position is a type of point"
+    },
+    {
+        "head": "position.n.01",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Position is a type of point",
+        "best_gpt2_label": " Position is a type of point"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A region is a kind of location",
+        "best_gpt2_label": "A region is a kind of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Region is a kind of location",
+        "best_gpt2_label": "Region is a kind of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A region is a kind of location",
+        "best_gpt2_label": " A region is a kind of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Region is a kind of location",
+        "best_gpt2_label": " Region is a kind of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A region is a sort of location",
+        "best_gpt2_label": "A region is a sort of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Region is a sort of location",
+        "best_gpt2_label": "Region is a sort of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A region is a sort of location",
+        "best_gpt2_label": " A region is a sort of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Region is a sort of location",
+        "best_gpt2_label": " Region is a sort of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Region is a hyponym of location",
+        "best_gpt2_label": "Region is a hyponym of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Region is a hyponym of location",
+        "best_gpt2_label": " Region is a hyponym of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A region is a type of location",
+        "best_gpt2_label": "A region is a type of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Region is a type of location",
+        "best_gpt2_label": "Region is a type of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A region is a type of location",
+        "best_gpt2_label": " A region is a type of location"
+    },
+    {
+        "head": "region.n.03",
+        "tail": "location.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Region is a type of location",
+        "best_gpt2_label": " Region is a type of location"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A beginning is a kind of point",
+        "best_gpt2_label": "A beginning is a kind of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Beginning is a kind of point",
+        "best_gpt2_label": "Beginning is a kind of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A beginning is a kind of point",
+        "best_gpt2_label": " A beginning is a kind of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Beginning is a kind of point",
+        "best_gpt2_label": " Beginning is a kind of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A beginning is a sort of point",
+        "best_gpt2_label": "A beginning is a sort of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Beginning is a sort of point",
+        "best_gpt2_label": "Beginning is a sort of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A beginning is a sort of point",
+        "best_gpt2_label": " A beginning is a sort of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Beginning is a sort of point",
+        "best_gpt2_label": " Beginning is a sort of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Beginning is a hyponym of point",
+        "best_gpt2_label": "Beginning is a hyponym of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Beginning is a hyponym of point",
+        "best_gpt2_label": " Beginning is a hyponym of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A beginning is a type of point",
+        "best_gpt2_label": "A beginning is a type of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Beginning is a type of point",
+        "best_gpt2_label": "Beginning is a type of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A beginning is a type of point",
+        "best_gpt2_label": " A beginning is a type of point"
+    },
+    {
+        "head": "beginning.n.04",
+        "tail": "point.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Beginning is a type of point",
+        "best_gpt2_label": " Beginning is a type of point"
+    }
+]

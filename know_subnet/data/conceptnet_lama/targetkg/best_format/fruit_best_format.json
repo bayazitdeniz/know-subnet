@@ -1,0 +1,335 @@
+[
+    {
+        "head": "eating",
+        "tail": "appetite",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 17.838029861450195,
+        "gpt2_entropy": 6.284539699554443,
+        "best_gpt2_input": " An eating has the prerequisite to an appetite",
+        "best_gpt2_label": " An eating has the prerequisite to an appetite"
+    },
+    {
+        "head": "limb",
+        "tail": "tree",
+        "rel": "PartOf",
+        "gpt2_perp": 99.51338958740234,
+        "gpt2_entropy": 6.7382307052612305,
+        "best_gpt2_input": "A limb is an element of a tree",
+        "best_gpt2_label": "A limb is an element of a tree"
+    },
+    {
+        "head": "wine",
+        "tail": "fruit",
+        "rel": "MadeOf",
+        "gpt2_perp": 429.0432434082031,
+        "gpt2_entropy": 5.97771692276001,
+        "best_gpt2_input": " A wine comprises of a fruit",
+        "best_gpt2_label": " A wine comprises of a fruit"
+    },
+    {
+        "head": "cooking",
+        "tail": "eat",
+        "rel": "HasSubevent",
+        "gpt2_perp": 3676.427490234375,
+        "gpt2_entropy": 7.221405029296875,
+        "best_gpt2_input": " A cooking has subevent an eat",
+        "best_gpt2_label": " A cooking has subevent an eat"
+    },
+    {
+        "head": "vitamins",
+        "tail": "suitcase",
+        "rel": "AtLocation",
+        "gpt2_perp": 16348.2421875,
+        "gpt2_entropy": 7.303863525390625,
+        "best_gpt2_input": "Vitamins is in a suitcase",
+        "best_gpt2_label": "Vitamins is in a suitcase"
+    },
+    {
+        "head": "cooking",
+        "tail": "spoon",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 1316.471923828125,
+        "gpt2_entropy": 6.595729351043701,
+        "best_gpt2_input": " A cooking require a spoon",
+        "best_gpt2_label": " A cooking require a spoon"
+    },
+    {
+        "head": "champagne",
+        "tail": "wine",
+        "rel": "IsA",
+        "gpt2_perp": 6.271549701690674,
+        "gpt2_entropy": 6.472637176513672,
+        "best_gpt2_input": " Champagne is a type of wine",
+        "best_gpt2_label": " Champagne is a type of wine"
+    },
+    {
+        "head": "fruit",
+        "tail": "rarely",
+        "rel": "IsA",
+        "gpt2_perp": 2428.100830078125,
+        "gpt2_entropy": 5.782524108886719,
+        "best_gpt2_input": " A fruit is rarely",
+        "best_gpt2_label": " A fruit is rarely"
+    },
+    {
+        "head": "water",
+        "tail": "utility",
+        "rel": "IsA",
+        "gpt2_perp": 6474.447265625,
+        "gpt2_entropy": 8.303894996643066,
+        "best_gpt2_input": "Water is a sort of utility",
+        "best_gpt2_label": "Water is a sort of utility"
+    },
+    {
+        "head": "fruit",
+        "tail": "eaten",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 32.1706657409668,
+        "gpt2_entropy": 6.0801801681518555,
+        "best_gpt2_input": " A fruit can be eaten",
+        "best_gpt2_label": " A fruit can be eaten"
+    },
+    {
+        "head": "cooking",
+        "tail": "skilled",
+        "rel": "HasProperty",
+        "gpt2_perp": 2965.105712890625,
+        "gpt2_entropy": 6.3632988929748535,
+        "best_gpt2_input": "A cooking is a skilled",
+        "best_gpt2_label": "A cooking is a skilled"
+    },
+    {
+        "head": "jar",
+        "tail": "container",
+        "rel": "IsA",
+        "gpt2_perp": 11.88326358795166,
+        "gpt2_entropy": 6.427772521972656,
+        "best_gpt2_input": " A jar is a container",
+        "best_gpt2_label": " A jar is a container"
+    },
+    {
+        "head": "sugar",
+        "tail": "melted",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 1208.9014892578125,
+        "gpt2_entropy": 5.2476911544799805,
+        "best_gpt2_input": " Sugar can be melted",
+        "best_gpt2_label": " Sugar can be melted"
+    },
+    {
+        "head": "fruit",
+        "tail": "decay",
+        "rel": "CapableOf",
+        "gpt2_perp": 4488.333984375,
+        "gpt2_entropy": 6.347743988037109,
+        "best_gpt2_input": "A fruit are able to decay",
+        "best_gpt2_label": "A fruit are able to decay"
+    },
+    {
+        "head": "fruit",
+        "tail": "jar",
+        "rel": "AtLocation",
+        "gpt2_perp": 22.95490837097168,
+        "gpt2_entropy": 6.695936679840088,
+        "best_gpt2_input": " A fruit is in a jar",
+        "best_gpt2_label": " A fruit is in a jar"
+    },
+    {
+        "head": "sugar",
+        "tail": "molecule",
+        "rel": "IsA",
+        "gpt2_perp": 67.97591400146484,
+        "gpt2_entropy": 5.87673807144165,
+        "best_gpt2_input": "A sugar is a molecule",
+        "best_gpt2_label": "A sugar is a molecule"
+    },
+    {
+        "head": "jar",
+        "tail": "storage",
+        "rel": "UsedFor",
+        "gpt2_perp": 42.8837890625,
+        "gpt2_entropy": 5.091561317443848,
+        "best_gpt2_input": "A jar is intended for storage",
+        "best_gpt2_label": "A jar is intended for storage"
+    },
+    {
+        "head": "fruit",
+        "tail": "consumption",
+        "rel": "UsedFor",
+        "gpt2_perp": 27.773395538330078,
+        "gpt2_entropy": 5.729743480682373,
+        "best_gpt2_input": " A fruit is intended for consumption",
+        "best_gpt2_label": " A fruit is intended for consumption"
+    },
+    {
+        "head": "water",
+        "tail": "wash",
+        "rel": "UsedFor",
+        "gpt2_perp": 695.8509521484375,
+        "gpt2_entropy": 7.055729389190674,
+        "best_gpt2_input": " A water is used for a wash",
+        "best_gpt2_label": " A water is used for a wash"
+    },
+    {
+        "head": "water",
+        "tail": "mud",
+        "rel": "AtLocation",
+        "gpt2_perp": 1624.472900390625,
+        "gpt2_entropy": 7.059988021850586,
+        "best_gpt2_input": " A water are at the location a mud",
+        "best_gpt2_label": " A water are at the location a mud"
+    },
+    {
+        "head": "cooking",
+        "tail": "hunger",
+        "rel": "Causes",
+        "gpt2_perp": 676.2807006835938,
+        "gpt2_entropy": 5.8695244789123535,
+        "best_gpt2_input": " A cooking causes hunger",
+        "best_gpt2_label": " A cooking causes hunger"
+    },
+    {
+        "head": "jar",
+        "tail": "lid",
+        "rel": "HasA",
+        "gpt2_perp": 89.1855697631836,
+        "gpt2_entropy": 7.4354729652404785,
+        "best_gpt2_input": " A jar has a lid",
+        "best_gpt2_label": " A jar has a lid"
+    },
+    {
+        "head": "eating",
+        "tail": "feces",
+        "rel": "Causes",
+        "gpt2_perp": 14600.5263671875,
+        "gpt2_entropy": 6.05396032333374,
+        "best_gpt2_input": " An eating causes feces",
+        "best_gpt2_label": " An eating causes feces"
+    },
+    {
+        "head": "eating",
+        "tail": "chew",
+        "rel": "HasSubevent",
+        "gpt2_perp": 3065.577880859375,
+        "gpt2_entropy": 7.748052597045898,
+        "best_gpt2_input": " An eating can have the subevent of a chew",
+        "best_gpt2_label": " An eating can have the subevent of a chew"
+    },
+    {
+        "head": "eating",
+        "tail": "digestion",
+        "rel": "UsedFor",
+        "gpt2_perp": 105.34622955322266,
+        "gpt2_entropy": 6.577211380004883,
+        "best_gpt2_input": " An eating is used for digestion",
+        "best_gpt2_label": " An eating is used for digestion"
+    },
+    {
+        "head": "fruit",
+        "tail": "water",
+        "rel": "HasA",
+        "gpt2_perp": 575.3938598632812,
+        "gpt2_entropy": 6.800698280334473,
+        "best_gpt2_input": "A fruit has a water",
+        "best_gpt2_label": "A fruit has a water"
+    },
+    {
+        "head": "water",
+        "tail": "boiled",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 50.00950241088867,
+        "gpt2_entropy": 6.072616100311279,
+        "best_gpt2_input": " A water can be boiled",
+        "best_gpt2_label": " A water can be boiled"
+    },
+    {
+        "head": "sugar",
+        "tail": "minerals",
+        "rel": "MadeOf",
+        "gpt2_perp": 475.53961181640625,
+        "gpt2_entropy": 5.733105182647705,
+        "best_gpt2_input": "Sugar can comprise of minerals",
+        "best_gpt2_label": "Sugar can comprise of minerals"
+    },
+    {
+        "head": "water",
+        "tail": "cycle",
+        "rel": "HasA",
+        "gpt2_perp": 2061.758056640625,
+        "gpt2_entropy": 6.721249103546143,
+        "best_gpt2_input": " A water has a cycle",
+        "best_gpt2_label": " A water has a cycle"
+    },
+    {
+        "head": "sugar",
+        "tail": "candy",
+        "rel": "PartOf",
+        "gpt2_perp": 498.74847412109375,
+        "gpt2_entropy": 6.941336154937744,
+        "best_gpt2_input": "Sugar is an element of a candy",
+        "best_gpt2_label": "Sugar is an element of a candy"
+    },
+    {
+        "head": "eating",
+        "tail": "satisfying",
+        "rel": "HasProperty",
+        "gpt2_perp": 259.0151672363281,
+        "gpt2_entropy": 6.42927360534668,
+        "best_gpt2_input": "An eating has the property of satisfying",
+        "best_gpt2_label": "An eating has the property of satisfying"
+    },
+    {
+        "head": "fruit",
+        "tail": "sour",
+        "rel": "HasProperty",
+        "gpt2_perp": 1720.122802734375,
+        "gpt2_entropy": 7.745298862457275,
+        "best_gpt2_input": " Fruit is a sour",
+        "best_gpt2_label": " Fruit is a sour"
+    },
+    {
+        "head": "jar",
+        "tail": "refrigerator",
+        "rel": "AtLocation",
+        "gpt2_perp": 241.8508758544922,
+        "gpt2_entropy": 7.095798969268799,
+        "best_gpt2_input": " A jar is normally located at a refrigerator",
+        "best_gpt2_label": " A jar is normally located at a refrigerator"
+    },
+    {
+        "head": "seeds",
+        "tail": "pod",
+        "rel": "AtLocation",
+        "gpt2_perp": 132.27870178222656,
+        "gpt2_entropy": 7.2809319496154785,
+        "best_gpt2_input": " A seeds are in a pod",
+        "best_gpt2_label": " A seeds are in a pod"
+    },
+    {
+        "head": "water",
+        "tail": "freeze",
+        "rel": "CapableOf",
+        "gpt2_perp": 110.3573226928711,
+        "gpt2_entropy": 6.2974371910095215,
+        "best_gpt2_input": " A water has the skill to freeze",
+        "best_gpt2_label": " A water has the skill to freeze"
+    },
+    {
+        "head": "water",
+        "tail": "transparent",
+        "rel": "HasProperty",
+        "gpt2_perp": 264.3460693359375,
+        "gpt2_entropy": 6.1256422996521,
+        "best_gpt2_input": "A water has the property of being transparent",
+        "best_gpt2_label": "A water has the property of being transparent"
+    },
+    {
+        "head": "cooking",
+        "tail": "relaxation",
+        "rel": "UsedFor",
+        "gpt2_perp": 2598.424072265625,
+        "gpt2_entropy": 7.051562309265137,
+        "best_gpt2_input": " Cooking is used for relaxation",
+        "best_gpt2_label": " Cooking is used for relaxation"
+    }
+]

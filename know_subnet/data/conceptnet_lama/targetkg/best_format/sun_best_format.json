@@ -1,0 +1,326 @@
+[
+    {
+        "head": "space",
+        "tail": "silent",
+        "rel": "HasProperty",
+        "gpt2_perp": 1448.3463134765625,
+        "gpt2_entropy": 6.401577472686768,
+        "best_gpt2_input": "A space has the property of being silent",
+        "best_gpt2_label": "A space has the property of being silent"
+    },
+    {
+        "head": "life",
+        "tail": "brutal",
+        "rel": "HasProperty",
+        "gpt2_perp": 1801.5877685546875,
+        "gpt2_entropy": 6.287569046020508,
+        "best_gpt2_input": "Life can be a brutal",
+        "best_gpt2_label": "Life can be a brutal"
+    },
+    {
+        "head": "iron",
+        "tail": "heavy",
+        "rel": "HasProperty",
+        "gpt2_perp": 85.10784149169922,
+        "gpt2_entropy": 6.94355583190918,
+        "best_gpt2_input": " An iron is a heavy",
+        "best_gpt2_label": " An iron is a heavy"
+    },
+    {
+        "head": "iron",
+        "tail": "ore",
+        "rel": "AtLocation",
+        "gpt2_perp": 165.62071228027344,
+        "gpt2_entropy": 4.111190319061279,
+        "best_gpt2_input": " An iron are placed at an ore",
+        "best_gpt2_label": " An iron are placed at an ore"
+    },
+    {
+        "head": "life",
+        "tail": "grow",
+        "rel": "Desires",
+        "gpt2_perp": 5060.52880859375,
+        "gpt2_entropy": 7.259692192077637,
+        "best_gpt2_input": "Life want a grow",
+        "best_gpt2_label": "Life want a grow"
+    },
+    {
+        "head": "life",
+        "tail": "earth",
+        "rel": "AtLocation",
+        "gpt2_perp": 502.9373779296875,
+        "gpt2_entropy": 7.418323516845703,
+        "best_gpt2_input": " A life are at the location an earth",
+        "best_gpt2_label": " A life are at the location an earth"
+    },
+    {
+        "head": "gravity",
+        "tail": "falling",
+        "rel": "Causes",
+        "gpt2_perp": 351.2716369628906,
+        "gpt2_entropy": 7.233281135559082,
+        "best_gpt2_input": "A gravity can cause to a falling",
+        "best_gpt2_label": "A gravity can cause to a falling"
+    },
+    {
+        "head": "sun",
+        "tail": "shining",
+        "rel": "HasProperty",
+        "gpt2_perp": 16.51283073425293,
+        "gpt2_entropy": 5.880125522613525,
+        "best_gpt2_input": " A sun is shining",
+        "best_gpt2_label": " A sun is shining"
+    },
+    {
+        "head": "hydrogen",
+        "tail": "fuel",
+        "rel": "IsA",
+        "gpt2_perp": 12.371688842773438,
+        "gpt2_entropy": 5.653436660766602,
+        "best_gpt2_input": "A hydrogen is a type of fuel",
+        "best_gpt2_label": "A hydrogen is a type of fuel"
+    },
+    {
+        "head": "space",
+        "tail": "table",
+        "rel": "AtLocation",
+        "gpt2_perp": 317.9867248535156,
+        "gpt2_entropy": 5.967965126037598,
+        "best_gpt2_input": " A space are placed at a table",
+        "best_gpt2_label": " A space are placed at a table"
+    },
+    {
+        "head": "sun",
+        "tail": "iron",
+        "rel": "HasA",
+        "gpt2_perp": 151.5841827392578,
+        "gpt2_entropy": 6.351709842681885,
+        "best_gpt2_input": "A sun have an iron",
+        "best_gpt2_label": "A sun have an iron"
+    },
+    {
+        "head": "sun",
+        "tail": "sphere",
+        "rel": "IsA",
+        "gpt2_perp": 756.6985473632812,
+        "gpt2_entropy": 7.028982639312744,
+        "best_gpt2_input": "A sun is a sphere",
+        "best_gpt2_label": "A sun is a sphere"
+    },
+    {
+        "head": "iron",
+        "tail": "rust",
+        "rel": "CapableOf",
+        "gpt2_perp": 350.56201171875,
+        "gpt2_entropy": 7.013200283050537,
+        "best_gpt2_input": "An iron has the skill of rust",
+        "best_gpt2_label": "An iron has the skill of rust"
+    },
+    {
+        "head": "space",
+        "tail": "area",
+        "rel": "IsA",
+        "gpt2_perp": 13.171195030212402,
+        "gpt2_entropy": 5.999843120574951,
+        "best_gpt2_input": "A space is an area",
+        "best_gpt2_label": "A space is an area"
+    },
+    {
+        "head": "life",
+        "tail": "school",
+        "rel": "IsA",
+        "gpt2_perp": 1124.41015625,
+        "gpt2_entropy": 7.522123336791992,
+        "best_gpt2_input": " Life is a hyponym of a school",
+        "best_gpt2_label": " Life is a hyponym of a school"
+    },
+    {
+        "head": "sun",
+        "tail": "shine",
+        "rel": "Desires",
+        "gpt2_perp": 634.0624389648438,
+        "gpt2_entropy": 6.725302696228027,
+        "best_gpt2_input": " A sun want a shine",
+        "best_gpt2_label": " A sun want a shine"
+    },
+    {
+        "head": "universe",
+        "tail": "strings",
+        "rel": "MadeOf",
+        "gpt2_perp": 1593.5283203125,
+        "gpt2_entropy": 6.209115505218506,
+        "best_gpt2_input": " An universe is made of strings",
+        "best_gpt2_label": " An universe is made of strings"
+    },
+    {
+        "head": "life",
+        "tail": "living",
+        "rel": "UsedFor",
+        "gpt2_perp": 30.799379348754883,
+        "gpt2_entropy": 5.876654624938965,
+        "best_gpt2_input": " A life serves for a living",
+        "best_gpt2_label": " A life serves for a living"
+    },
+    {
+        "head": "hydrogen",
+        "tail": "water",
+        "rel": "PartOf",
+        "gpt2_perp": 34.911521911621094,
+        "gpt2_entropy": 4.176308631896973,
+        "best_gpt2_input": " A hydrogen is an element of water",
+        "best_gpt2_label": " A hydrogen is an element of water"
+    },
+    {
+        "head": "sun",
+        "tail": "universe",
+        "rel": "AtLocation",
+        "gpt2_perp": 15245.3603515625,
+        "gpt2_entropy": 7.268808364868164,
+        "best_gpt2_input": "A sun is at location an universe",
+        "best_gpt2_label": "A sun is at location an universe"
+    },
+    {
+        "head": "rattler",
+        "tail": "snake",
+        "rel": "IsA",
+        "gpt2_perp": 17.928953170776367,
+        "gpt2_entropy": 6.692318439483643,
+        "best_gpt2_input": " A rattler is a type of snake",
+        "best_gpt2_label": " A rattler is a type of snake"
+    },
+    {
+        "head": "life",
+        "tail": "poop",
+        "rel": "Causes",
+        "gpt2_perp": 23711.720703125,
+        "gpt2_entropy": 7.077493190765381,
+        "best_gpt2_input": " Life can cause to poop",
+        "best_gpt2_label": " Life can cause to poop"
+    },
+    {
+        "head": "life",
+        "tail": "created",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 327.4942932128906,
+        "gpt2_entropy": 6.5766520500183105,
+        "best_gpt2_input": " Life can be created",
+        "best_gpt2_label": " Life can be created"
+    },
+    {
+        "head": "energy",
+        "tail": "wrestle",
+        "rel": "CausesDesire",
+        "gpt2_perp": 19058.97265625,
+        "gpt2_entropy": 6.208343982696533,
+        "best_gpt2_input": "Energy causes a desire to wrestle",
+        "best_gpt2_label": "Energy causes a desire to wrestle"
+    },
+    {
+        "head": "sun",
+        "tail": "gases",
+        "rel": "MadeOf",
+        "gpt2_perp": 568.8487548828125,
+        "gpt2_entropy": 4.822134971618652,
+        "best_gpt2_input": "A sun consists of gases",
+        "best_gpt2_label": "A sun consists of gases"
+    },
+    {
+        "head": "space",
+        "tail": "occupying",
+        "rel": "UsedFor",
+        "gpt2_perp": 3728.981201171875,
+        "gpt2_entropy": 6.7146782875061035,
+        "best_gpt2_input": " A space serves for an occupying",
+        "best_gpt2_label": " A space serves for an occupying"
+    },
+    {
+        "head": "universe",
+        "tail": "mess",
+        "rel": "Desires",
+        "gpt2_perp": 1867.6929931640625,
+        "gpt2_entropy": 7.28327751159668,
+        "best_gpt2_input": " An universe wants a mess",
+        "best_gpt2_label": " An universe wants a mess"
+    },
+    {
+        "head": "sphere",
+        "tail": "object",
+        "rel": "IsA",
+        "gpt2_perp": 2.456233263015747,
+        "gpt2_entropy": 4.442783355712891,
+        "best_gpt2_input": " A sphere is a type of an object",
+        "best_gpt2_label": " A sphere is a type of an object"
+    },
+    {
+        "head": "sun",
+        "tail": "wrinkles",
+        "rel": "Causes",
+        "gpt2_perp": 1067.3536376953125,
+        "gpt2_entropy": 6.388373374938965,
+        "best_gpt2_input": "A sun can cause wrinkles",
+        "best_gpt2_label": "A sun can cause wrinkles"
+    },
+    {
+        "head": "universe",
+        "tail": "old",
+        "rel": "HasProperty",
+        "gpt2_perp": 234.2181854248047,
+        "gpt2_entropy": 6.562380313873291,
+        "best_gpt2_input": " Universe is an old",
+        "best_gpt2_label": " Universe is an old"
+    },
+    {
+        "head": "snake",
+        "tail": "sun",
+        "rel": "AtLocation",
+        "gpt2_perp": 3180.0419921875,
+        "gpt2_entropy": 7.366302967071533,
+        "best_gpt2_input": "A snake is at location a sun",
+        "best_gpt2_label": "A snake is at location a sun"
+    },
+    {
+        "head": "life",
+        "tail": "die",
+        "rel": "CapableOf",
+        "gpt2_perp": 95.47146606445312,
+        "gpt2_entropy": 5.916904449462891,
+        "best_gpt2_input": "A life have the skill to die",
+        "best_gpt2_label": "A life have the skill to die"
+    },
+    {
+        "head": "gravity",
+        "tail": "fun",
+        "rel": "HasProperty",
+        "gpt2_perp": 376.3914794921875,
+        "gpt2_entropy": 7.313830852508545,
+        "best_gpt2_input": "Gravity is a fun",
+        "best_gpt2_label": "Gravity is a fun"
+    },
+    {
+        "head": "iron",
+        "tail": "formed",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 161.69749450683594,
+        "gpt2_entropy": 6.0306172370910645,
+        "best_gpt2_input": "An iron is formed",
+        "best_gpt2_label": "An iron is formed"
+    },
+    {
+        "head": "life",
+        "tail": "memories",
+        "rel": "MadeOf",
+        "gpt2_perp": 300.7552795410156,
+        "gpt2_entropy": 6.944009780883789,
+        "best_gpt2_input": "A life is made of memories",
+        "best_gpt2_label": "A life is made of memories"
+    },
+    {
+        "head": "sun",
+        "tail": "gravity",
+        "rel": "UsedFor",
+        "gpt2_perp": 1983.61865234375,
+        "gpt2_entropy": 6.585063934326172,
+        "best_gpt2_input": "A sun is used for gravity",
+        "best_gpt2_label": "A sun is used for gravity"
+    }
+]

@@ -1,0 +1,3632 @@
+[
+    {
+        "head": "drawstring bag",
+        "tail": "airport",
+        "rel": "AtLocation",
+        "gpt2_perp": 33.39101791381836,
+        "gpt2_entropy": 5.686535835266113,
+        "best_gpt2_input": " A drawstring bag is usually located at an airport",
+        "best_gpt2_label": " A drawstring bag is usually located at an airport",
+        "id": "09555c056f3cf0b7e0b84d8df4be1db7"
+    },
+    {
+        "head": "house",
+        "tail": "kitchen",
+        "rel": "HasA",
+        "gpt2_perp": 152.7987060546875,
+        "gpt2_entropy": 7.107781410217285,
+        "best_gpt2_input": "A house has a kitchen",
+        "best_gpt2_label": "A house has a kitchen",
+        "id": "527e72eb38950b8031ee6217ef531960"
+    },
+    {
+        "head": "line",
+        "tail": "graph",
+        "rel": "AtLocation",
+        "gpt2_perp": 3190.3515625,
+        "gpt2_entropy": 6.558528900146484,
+        "best_gpt2_input": " A line is in a graph",
+        "best_gpt2_label": " A line is in a graph",
+        "id": "e99da2b1d9ec4be89c2b42407aa5a15f"
+    },
+    {
+        "head": "all humans",
+        "tail": "feelings",
+        "rel": "HasA",
+        "gpt2_perp": 2183.3056640625,
+        "gpt2_entropy": 5.563508987426758,
+        "best_gpt2_input": "All humans have feelings",
+        "best_gpt2_label": "All humans have feelings",
+        "id": "6aa6caa33c91e2a08bc2e18a1d4da225"
+    },
+    {
+        "head": "squash court",
+        "tail": "park",
+        "rel": "AtLocation",
+        "gpt2_perp": 90.86046600341797,
+        "gpt2_entropy": 6.571638584136963,
+        "best_gpt2_input": " A squash court is usually located at a park",
+        "best_gpt2_label": " A squash court is usually located at a park",
+        "id": "b2e81809ec3b362fe74ee3ffcabcfdb2"
+    },
+    {
+        "head": "floor",
+        "tail": "synagogue",
+        "rel": "AtLocation",
+        "gpt2_perp": 27210.26171875,
+        "gpt2_entropy": 7.457256317138672,
+        "best_gpt2_input": " Floor are usually by a synagogue",
+        "best_gpt2_label": " Floor are usually by a synagogue",
+        "id": "cfdd7683578d568936fbe383eeabf59f"
+    },
+    {
+        "head": "second floor",
+        "tail": "school",
+        "rel": "AtLocation",
+        "gpt2_perp": 206.23822021484375,
+        "gpt2_entropy": 6.5913801193237305,
+        "best_gpt2_input": " A second floor is usually located at a school",
+        "best_gpt2_label": " A second floor is usually located at a school",
+        "id": "0df9a119ef8988d51b9c7ec3692a8b8f"
+    },
+    {
+        "head": "sword",
+        "tail": "collection",
+        "rel": "AtLocation",
+        "gpt2_perp": 797.2540283203125,
+        "gpt2_entropy": 7.329591274261475,
+        "best_gpt2_input": "A sword are in a collection",
+        "best_gpt2_label": "A sword are in a collection",
+        "id": "5ce460f91deb51a4a75f27b02055400f"
+    },
+    {
+        "head": "tower",
+        "tail": "city",
+        "rel": "AtLocation",
+        "gpt2_perp": 156.6297149658203,
+        "gpt2_entropy": 7.175260066986084,
+        "best_gpt2_input": " Tower is in a city",
+        "best_gpt2_label": " Tower is in a city",
+        "id": "d923f289af795f322c3c6fe6b8885c0c"
+    },
+    {
+        "head": "breathing",
+        "tail": "oxygen",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 29.366445541381836,
+        "gpt2_entropy": 6.196218967437744,
+        "best_gpt2_input": "A breathing requires an oxygen",
+        "best_gpt2_label": "A breathing requires an oxygen",
+        "id": "ccae2e7b2cba63d8f1b29f1eb26b098a"
+    },
+    {
+        "head": "shelf",
+        "tail": "wall",
+        "rel": "AtLocation",
+        "gpt2_perp": 57.26826858520508,
+        "gpt2_entropy": 7.150794506072998,
+        "best_gpt2_input": " A shelf is usually by a wall",
+        "best_gpt2_label": " A shelf is usually by a wall",
+        "id": "ce1a634887cc454cedcc1fc4ae3eacea"
+    },
+    {
+        "head": "coffee mug",
+        "tail": "shelf",
+        "rel": "AtLocation",
+        "gpt2_perp": 326.8977966308594,
+        "gpt2_entropy": 6.308507442474365,
+        "best_gpt2_input": "A coffee mug is normally at a shelf",
+        "best_gpt2_label": "A coffee mug is normally at a shelf",
+        "id": "4e3df51970d1e3803e6970606155baae"
+    },
+    {
+        "head": "beauty salon",
+        "tail": "clerk",
+        "rel": "AtLocation",
+        "gpt2_perp": 842.5797729492188,
+        "gpt2_entropy": 6.805601596832275,
+        "best_gpt2_input": " A beauty salon is normally placed by a clerk",
+        "best_gpt2_label": " A beauty salon is normally placed by a clerk",
+        "id": "9ef188df239f1490f6adab7d466df369"
+    },
+    {
+        "head": "information",
+        "tail": "newspaper",
+        "rel": "AtLocation",
+        "gpt2_perp": 861.5004272460938,
+        "gpt2_entropy": 7.259235382080078,
+        "best_gpt2_input": " An information is usually by a newspaper",
+        "best_gpt2_label": " An information is usually by a newspaper",
+        "id": "e4a298fcd64c855123828fc75a73eae9"
+    },
+    {
+        "head": "highway",
+        "tail": "countryside",
+        "rel": "AtLocation",
+        "gpt2_perp": 36785.41015625,
+        "gpt2_entropy": 7.008573532104492,
+        "best_gpt2_input": "Highway is in a countryside",
+        "best_gpt2_label": "Highway is in a countryside",
+        "id": "0301477ef5eb8a36281524182e6fa0c0"
+    },
+    {
+        "head": "chatting with friends",
+        "tail": "answers",
+        "rel": "Causes",
+        "gpt2_perp": 4237.55126953125,
+        "gpt2_entropy": 5.79866361618042,
+        "best_gpt2_input": " A chatting with friends can lead to answers",
+        "best_gpt2_label": " A chatting with friends can lead to answers",
+        "id": "bfaeec7dcfe0148311b5461af881dad4"
+    },
+    {
+        "head": "human",
+        "tail": "factory",
+        "rel": "AtLocation",
+        "gpt2_perp": 2127.722412109375,
+        "gpt2_entropy": 6.580310821533203,
+        "best_gpt2_input": "A human is in a factory",
+        "best_gpt2_label": "A human is in a factory",
+        "id": "184309e3c303b3dd486d1cbe3f5a462e"
+    },
+    {
+        "head": "pepper and salt",
+        "tail": "soup",
+        "rel": "AtLocation",
+        "gpt2_perp": 288.1614074707031,
+        "gpt2_entropy": 5.783226013183594,
+        "best_gpt2_input": " A pepper and salt are in a soup",
+        "best_gpt2_label": " A pepper and salt are in a soup",
+        "id": "7aaea94e73b4141a9ffa6c6a10bfcc00"
+    },
+    {
+        "head": "student",
+        "tail": "library",
+        "rel": "AtLocation",
+        "gpt2_perp": 68.4183578491211,
+        "gpt2_entropy": 6.214900970458984,
+        "best_gpt2_input": "A student is usually located at a library",
+        "best_gpt2_label": "A student is usually located at a library",
+        "id": "8aa5952d0447d8e838fea79ae8e02b58"
+    },
+    {
+        "head": "reproducing",
+        "tail": "problems",
+        "rel": "Causes",
+        "gpt2_perp": 21.52203941345215,
+        "gpt2_entropy": 6.517942905426025,
+        "best_gpt2_input": "Reproducing can cause problems",
+        "best_gpt2_label": "Reproducing can cause problems",
+        "id": "864af7e38350371dfce51603eef2309f"
+    },
+    {
+        "head": "bean bag chair",
+        "tail": "floor",
+        "rel": "AtLocation",
+        "gpt2_perp": 960.30908203125,
+        "gpt2_entropy": 6.7409844398498535,
+        "best_gpt2_input": " A bean bag chair is at location a floor",
+        "best_gpt2_label": " A bean bag chair is at location a floor",
+        "id": "27889547e864974c892577b6a1663aa4"
+    },
+    {
+        "head": "program",
+        "tail": "opera",
+        "rel": "AtLocation",
+        "gpt2_perp": 7484.91357421875,
+        "gpt2_entropy": 5.938063621520996,
+        "best_gpt2_input": " Program is typically located at an opera",
+        "best_gpt2_label": " Program is typically located at an opera",
+        "id": "eba4007b47338133a6aab4dc0707556a"
+    },
+    {
+        "head": "product",
+        "tail": "demonstration",
+        "rel": "AtLocation",
+        "gpt2_perp": 6344.1181640625,
+        "gpt2_entropy": 6.996072769165039,
+        "best_gpt2_input": "A product is at location a demonstration",
+        "best_gpt2_label": "A product is at location a demonstration",
+        "id": "0d7d0795de259a6ea594eb9fce6c61f1"
+    },
+    {
+        "head": "candle",
+        "tail": "bedroom",
+        "rel": "AtLocation",
+        "gpt2_perp": 1123.1981201171875,
+        "gpt2_entropy": 7.1328864097595215,
+        "best_gpt2_input": "Candle is normally located at a bedroom",
+        "best_gpt2_label": "Candle is normally located at a bedroom",
+        "id": "627cda74155eafa4dab9eb7040103d69"
+    },
+    {
+        "head": "excitement",
+        "tail": "library",
+        "rel": "AtLocation",
+        "gpt2_perp": 969.696044921875,
+        "gpt2_entropy": 7.639291286468506,
+        "best_gpt2_input": " Excitement is located at a library",
+        "best_gpt2_label": " Excitement is located at a library",
+        "id": "3d655f8f05d164f540debea7275b36fe"
+    },
+    {
+        "head": "book",
+        "tail": "suitcase",
+        "rel": "AtLocation",
+        "gpt2_perp": 1376.327880859375,
+        "gpt2_entropy": 6.687530040740967,
+        "best_gpt2_input": " A book is in a suitcase",
+        "best_gpt2_label": " A book is in a suitcase",
+        "id": "b448ec04bbff943f8e04d631e574fb79"
+    },
+    {
+        "head": "boat",
+        "tail": "ocean",
+        "rel": "AtLocation",
+        "gpt2_perp": 32.87419509887695,
+        "gpt2_entropy": 6.182110786437988,
+        "best_gpt2_input": "A boat are by an ocean",
+        "best_gpt2_label": "A boat are by an ocean",
+        "id": "da57118f41efeb5f3d524e8425de3ed7"
+    },
+    {
+        "head": "plane ticket",
+        "tail": "pocket",
+        "rel": "AtLocation",
+        "gpt2_perp": 276.440185546875,
+        "gpt2_entropy": 6.806705474853516,
+        "best_gpt2_input": " A plane ticket is in a pocket",
+        "best_gpt2_label": " A plane ticket is in a pocket",
+        "id": "c07e86be86b046940acd9eb1068b0782"
+    },
+    {
+        "head": "floor",
+        "tail": "bed",
+        "rel": "AtLocation",
+        "gpt2_perp": 164.6928253173828,
+        "gpt2_entropy": 6.9772233963012695,
+        "best_gpt2_input": " A floor is usually by a bed",
+        "best_gpt2_label": " A floor is usually by a bed",
+        "id": "69cf29d7e9a9cc719f12a707b61f7276"
+    },
+    {
+        "head": "office",
+        "tail": "work",
+        "rel": "AtLocation",
+        "gpt2_perp": 22.53021812438965,
+        "gpt2_entropy": 4.6421942710876465,
+        "best_gpt2_input": "Office are normally at work",
+        "best_gpt2_label": "Office are normally at work",
+        "id": "e7e427f81b5ea8e66e87449332fa9e00"
+    },
+    {
+        "head": "answering questions",
+        "tail": "satisfaction",
+        "rel": "Causes",
+        "gpt2_perp": 5973.17578125,
+        "gpt2_entropy": 6.140679359436035,
+        "best_gpt2_input": " An answering questions can lead to satisfaction",
+        "best_gpt2_label": " An answering questions can lead to satisfaction",
+        "id": "dbb4df554b6ddd2ba32cde1ac78d6d30"
+    },
+    {
+        "head": "meeting people",
+        "tail": "stress",
+        "rel": "Causes",
+        "gpt2_perp": 40.545188903808594,
+        "gpt2_entropy": 5.602447509765625,
+        "best_gpt2_input": "Meeting people can cause stress",
+        "best_gpt2_label": "Meeting people can cause stress",
+        "id": "a7f7ae5bc10e54c2c5809abac706a766"
+    },
+    {
+        "head": "drop of blood",
+        "tail": "person",
+        "rel": "AtLocation",
+        "gpt2_perp": 15.332389831542969,
+        "gpt2_entropy": 7.213346481323242,
+        "best_gpt2_input": "Drop of blood is at the location a person",
+        "best_gpt2_label": "Drop of blood is at the location a person",
+        "id": "32f246d9b6ea629295ce21b55fd1b2e9"
+    },
+    {
+        "head": "tack",
+        "tail": "carpet",
+        "rel": "AtLocation",
+        "gpt2_perp": 4573.2587890625,
+        "gpt2_entropy": 7.675638675689697,
+        "best_gpt2_input": "Tack are typically placed by a carpet",
+        "best_gpt2_label": "Tack are typically placed by a carpet",
+        "id": "e0833c05bce7d3c9972a34c2ebb8bf29"
+    },
+    {
+        "head": "drink",
+        "tail": "food",
+        "rel": "IsA",
+        "gpt2_perp": 12.329756736755371,
+        "gpt2_entropy": 6.266953468322754,
+        "best_gpt2_input": " A drink is a type of food",
+        "best_gpt2_label": " A drink is a type of food",
+        "id": "41710842188fbbc465030accddaa1732"
+    },
+    {
+        "head": "killing people",
+        "tail": "remorse",
+        "rel": "Causes",
+        "gpt2_perp": 12630.9423828125,
+        "gpt2_entropy": 5.842043876647949,
+        "best_gpt2_input": "A killing people can lead to remorse",
+        "best_gpt2_label": "A killing people can lead to remorse",
+        "id": "2a1b3c459a4c1db219418f4923fee453"
+    },
+    {
+        "head": "human",
+        "tail": "love",
+        "rel": "AtLocation",
+        "gpt2_perp": 59.661983489990234,
+        "gpt2_entropy": 5.038351058959961,
+        "best_gpt2_input": " A human are in love",
+        "best_gpt2_label": " A human are in love",
+        "id": "76138597c8e1f5a3bc8ed663794b7ac4"
+    },
+    {
+        "head": "human",
+        "tail": "park",
+        "rel": "AtLocation",
+        "gpt2_perp": 924.8735961914062,
+        "gpt2_entropy": 7.0646891593933105,
+        "best_gpt2_input": "A human are placed at a park",
+        "best_gpt2_label": "A human are placed at a park",
+        "id": "7f761b386f1d73123469c759bcf00e34"
+    },
+    {
+        "head": "creating art",
+        "tail": "communication",
+        "rel": "Causes",
+        "gpt2_perp": 1804.71923828125,
+        "gpt2_entropy": 6.3717851638793945,
+        "best_gpt2_input": "Creating art can lead to communication",
+        "best_gpt2_label": "Creating art can lead to communication",
+        "id": "eb0e2531d6ca95cd708fd0c955cc90cc"
+    },
+    {
+        "head": "surface",
+        "tail": "object",
+        "rel": "AtLocation",
+        "gpt2_perp": 8.3193998336792,
+        "gpt2_entropy": 6.256898880004883,
+        "best_gpt2_input": "A surface is at the location an object",
+        "best_gpt2_label": "A surface is at the location an object",
+        "id": "ca904db5861f745c71cf8254aad861ce"
+    },
+    {
+        "head": "death",
+        "tail": "war",
+        "rel": "AtLocation",
+        "gpt2_perp": 57.73625564575195,
+        "gpt2_entropy": 5.250614643096924,
+        "best_gpt2_input": " Death are at war",
+        "best_gpt2_label": " Death are at war",
+        "id": "89a3971e3786a598da3057043f787083"
+    },
+    {
+        "head": "bus station",
+        "tail": "street",
+        "rel": "AtLocation",
+        "gpt2_perp": 75.25140380859375,
+        "gpt2_entropy": 6.819325923919678,
+        "best_gpt2_input": " A bus station is by a street",
+        "best_gpt2_label": " A bus station is by a street",
+        "id": "65178ad58300ac694f0f033732e92769"
+    },
+    {
+        "head": "every person",
+        "tail": "mouth",
+        "rel": "HasA",
+        "gpt2_perp": 3446.103515625,
+        "gpt2_entropy": 6.119644641876221,
+        "best_gpt2_input": " An every person have a mouth",
+        "best_gpt2_label": " An every person have a mouth",
+        "id": "8087e5da3c92f21049509a303b5e1a81"
+    },
+    {
+        "head": "horse",
+        "tail": "countryside",
+        "rel": "AtLocation",
+        "gpt2_perp": 44647.28125,
+        "gpt2_entropy": 7.038567066192627,
+        "best_gpt2_input": "A horse are in a countryside",
+        "best_gpt2_label": "A horse are in a countryside",
+        "id": "77f31de8d4b8c658c19d2dead06c6caa"
+    },
+    {
+        "head": "fruit",
+        "tail": "refrigerator",
+        "rel": "AtLocation",
+        "gpt2_perp": 522.1000366210938,
+        "gpt2_entropy": 6.680503845214844,
+        "best_gpt2_input": "A fruit is placed at a refrigerator",
+        "best_gpt2_label": "A fruit is placed at a refrigerator",
+        "id": "bffd664de2ace8628807453fdcd9072c"
+    },
+    {
+        "head": "garbage",
+        "tail": "container",
+        "rel": "AtLocation",
+        "gpt2_perp": 31.0686092376709,
+        "gpt2_entropy": 6.203758239746094,
+        "best_gpt2_input": "A garbage is in a container",
+        "best_gpt2_label": "A garbage is in a container",
+        "id": "8716977df7ace28827ff07353da0a71b"
+    },
+    {
+        "head": "getting in line",
+        "tail": "anxiety",
+        "rel": "Causes",
+        "gpt2_perp": 516.9414672851562,
+        "gpt2_entropy": 5.481854438781738,
+        "best_gpt2_input": " Getting in line can cause anxiety",
+        "best_gpt2_label": " Getting in line can cause anxiety",
+        "id": "e9f0f25450386a695eee121eeee48a25"
+    },
+    {
+        "head": "disposable razor",
+        "tail": "supermarket",
+        "rel": "AtLocation",
+        "gpt2_perp": 883.1953735351562,
+        "gpt2_entropy": 6.697465419769287,
+        "best_gpt2_input": " A disposable razor are usually located at a supermarket",
+        "best_gpt2_label": " A disposable razor are usually located at a supermarket",
+        "id": "9a7a274cc112c9e9ca5ca812754f4e75"
+    },
+    {
+        "head": "communicating",
+        "tail": "learning",
+        "rel": "Causes",
+        "gpt2_perp": 499.631591796875,
+        "gpt2_entropy": 6.567811489105225,
+        "best_gpt2_input": " Communicating can lead to a learning",
+        "best_gpt2_label": " Communicating can lead to a learning",
+        "id": "99612679b6d77bb5f41a0ee293b7b23c"
+    },
+    {
+        "head": "bar",
+        "tail": "nightclub",
+        "rel": "AtLocation",
+        "gpt2_perp": 1256.9952392578125,
+        "gpt2_entropy": 6.186714172363281,
+        "best_gpt2_input": "A bar is typically located at a nightclub",
+        "best_gpt2_label": "A bar is typically located at a nightclub",
+        "id": "c1f08b6e8fc0b7f3a3f8d702f87f42cf"
+    },
+    {
+        "head": "getting drunk",
+        "tail": "nausea",
+        "rel": "Causes",
+        "gpt2_perp": 170.6764373779297,
+        "gpt2_entropy": 5.442140102386475,
+        "best_gpt2_input": " Getting drunk can cause nausea",
+        "best_gpt2_label": " Getting drunk can cause nausea",
+        "id": "0abf342a1e79ad512937a194474480ed"
+    },
+    {
+        "head": "driving to work",
+        "tail": "stress",
+        "rel": "Causes",
+        "gpt2_perp": 22.737699508666992,
+        "gpt2_entropy": 6.143577575683594,
+        "best_gpt2_input": "Driving to work causes stress",
+        "best_gpt2_label": "Driving to work causes stress",
+        "id": "3e990f1dc884a35acea26d5ce3d34013"
+    },
+    {
+        "head": "creating art",
+        "tail": "frustration",
+        "rel": "Causes",
+        "gpt2_perp": 1102.60009765625,
+        "gpt2_entropy": 5.944252967834473,
+        "best_gpt2_input": "Creating art can cause frustration",
+        "best_gpt2_label": "Creating art can cause frustration",
+        "id": "fbbce64640b7cf667c1b7032532d9581"
+    },
+    {
+        "head": "court",
+        "tail": "palace",
+        "rel": "AtLocation",
+        "gpt2_perp": 6185.8671875,
+        "gpt2_entropy": 6.5106048583984375,
+        "best_gpt2_input": "A court are normally located at a palace",
+        "best_gpt2_label": "A court are normally located at a palace",
+        "id": "96b5476b1c55c1ca60dfbceba33e9203"
+    },
+    {
+        "head": "toy balloon",
+        "tail": "circus",
+        "rel": "AtLocation",
+        "gpt2_perp": 255.96388244628906,
+        "gpt2_entropy": 7.253291130065918,
+        "best_gpt2_input": " A toy balloon is at a circus",
+        "best_gpt2_label": " A toy balloon is at a circus",
+        "id": "58826817279b8f83a674fba49e7e1785"
+    },
+    {
+        "head": "bbq",
+        "tail": "backyard",
+        "rel": "AtLocation",
+        "gpt2_perp": 22251.46875,
+        "gpt2_entropy": 6.743802070617676,
+        "best_gpt2_input": "Bbq is usually located at a backyard",
+        "best_gpt2_label": "Bbq is usually located at a backyard",
+        "id": "cc2f6aa9c3000a79aa3d53552bc597f4"
+    },
+    {
+        "head": "board game",
+        "tail": "den",
+        "rel": "AtLocation",
+        "gpt2_perp": 15573.2763671875,
+        "gpt2_entropy": 6.415602207183838,
+        "best_gpt2_input": "A board game is normally located at a den",
+        "best_gpt2_label": "A board game is normally located at a den",
+        "id": "c169b6ab80ceac3d13646b01b75efb82"
+    },
+    {
+        "head": "all people",
+        "tail": "parents",
+        "rel": "HasA",
+        "gpt2_perp": 16626.46484375,
+        "gpt2_entropy": 5.763693809509277,
+        "best_gpt2_input": " All people have parents",
+        "best_gpt2_label": " All people have parents",
+        "id": "eb8764a09397366e54451ef31ad4fd8f"
+    },
+    {
+        "head": "serve customers",
+        "tail": "help",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 3045.50341796875,
+        "gpt2_entropy": 5.677990436553955,
+        "best_gpt2_input": " Serve customers is motivated by the aim of help",
+        "best_gpt2_label": " Serve customers is motivated by the aim of help",
+        "id": "414433a6ef515ef5e12fb222200c4ca2"
+    },
+    {
+        "head": "bass drum",
+        "tail": "orchestra",
+        "rel": "AtLocation",
+        "gpt2_perp": 114.72834014892578,
+        "gpt2_entropy": 6.06037712097168,
+        "best_gpt2_input": " A bass drum are typically by an orchestra",
+        "best_gpt2_label": " A bass drum are typically by an orchestra",
+        "id": "0e45fe9188dd9980e231c816e1c6f953"
+    },
+    {
+        "head": "dust",
+        "tail": "table",
+        "rel": "AtLocation",
+        "gpt2_perp": 84.95384979248047,
+        "gpt2_entropy": 6.795252323150635,
+        "best_gpt2_input": " A dust are placed at a table",
+        "best_gpt2_label": " A dust are placed at a table",
+        "id": "0b277724b2058ba8be5be6df2a1cf9ce"
+    },
+    {
+        "head": "marmot",
+        "tail": "wilderness",
+        "rel": "AtLocation",
+        "gpt2_perp": 8177.32958984375,
+        "gpt2_entropy": 7.334036827087402,
+        "best_gpt2_input": " A marmot are in a wilderness",
+        "best_gpt2_label": " A marmot are in a wilderness",
+        "id": "6270c123f7910ce90b57f9221fa9a82b"
+    },
+    {
+        "head": "drinking alcohol",
+        "tail": "death",
+        "rel": "Causes",
+        "gpt2_perp": 61.92208480834961,
+        "gpt2_entropy": 6.351907730102539,
+        "best_gpt2_input": "Drinking alcohol can cause to death",
+        "best_gpt2_label": "Drinking alcohol can cause to death",
+        "id": "b78d398f50af2393fa46fdc5c8004836"
+    },
+    {
+        "head": "billfold",
+        "tail": "identification",
+        "rel": "AtLocation",
+        "gpt2_perp": 1635.2523193359375,
+        "gpt2_entropy": 6.261846542358398,
+        "best_gpt2_input": " A billfold is at the location an identification",
+        "best_gpt2_label": " A billfold is at the location an identification",
+        "id": "eec48f09c0480651fb8caa4660ef4ee7"
+    },
+    {
+        "head": "runway",
+        "tail": "city",
+        "rel": "AtLocation",
+        "gpt2_perp": 226.14942932128906,
+        "gpt2_entropy": 7.401992321014404,
+        "best_gpt2_input": " Runway is in a city",
+        "best_gpt2_label": " Runway is in a city",
+        "id": "103e20cbc2cb60258af31d981f8ea90b"
+    },
+    {
+        "head": "wine",
+        "tail": "church",
+        "rel": "AtLocation",
+        "gpt2_perp": 724.2985229492188,
+        "gpt2_entropy": 7.030346870422363,
+        "best_gpt2_input": " Wine is located at a church",
+        "best_gpt2_label": " Wine is located at a church",
+        "id": "bb152b2bd8a22370edfd6bd1e25c2ad6"
+    },
+    {
+        "head": "kleenex",
+        "tail": "purse",
+        "rel": "AtLocation",
+        "gpt2_perp": 1621.8203125,
+        "gpt2_entropy": 7.440341472625732,
+        "best_gpt2_input": " A kleenex is in a purse",
+        "best_gpt2_label": " A kleenex is in a purse",
+        "id": "df02abfe4267e436f18e9de77ed6ee56"
+    },
+    {
+        "head": "keyboard instrument",
+        "tail": "band",
+        "rel": "AtLocation",
+        "gpt2_perp": 207.62020874023438,
+        "gpt2_entropy": 6.867234706878662,
+        "best_gpt2_input": " A keyboard instrument are usually by a band",
+        "best_gpt2_label": " A keyboard instrument are usually by a band",
+        "id": "bcc1daaf3dd7bff241c4252000163467"
+    },
+    {
+        "head": "returning to work",
+        "tail": "boredom",
+        "rel": "Causes",
+        "gpt2_perp": 318.2652282714844,
+        "gpt2_entropy": 6.3275861740112305,
+        "best_gpt2_input": "Returning to work can lead to boredom",
+        "best_gpt2_label": "Returning to work can lead to boredom",
+        "id": "6affd4f696ec0d70c53e239e339dc6db"
+    },
+    {
+        "head": "bus",
+        "tail": "city",
+        "rel": "AtLocation",
+        "gpt2_perp": 248.20950317382812,
+        "gpt2_entropy": 6.952096462249756,
+        "best_gpt2_input": " Bus is in a city",
+        "best_gpt2_label": " Bus is in a city",
+        "id": "45e4ff5e9e85d8967a373c514766914e"
+    },
+    {
+        "head": "knowledge",
+        "tail": "university",
+        "rel": "AtLocation",
+        "gpt2_perp": 311.4197692871094,
+        "gpt2_entropy": 4.1334099769592285,
+        "best_gpt2_input": "Knowledge is typically located at university",
+        "best_gpt2_label": "Knowledge is typically located at university",
+        "id": "375f76c479c4430010e57518aaad1ddf"
+    },
+    {
+        "head": "credit card",
+        "tail": "envelope",
+        "rel": "AtLocation",
+        "gpt2_perp": 24.105316162109375,
+        "gpt2_entropy": 5.836520671844482,
+        "best_gpt2_input": " A credit card is in an envelope",
+        "best_gpt2_label": " A credit card is in an envelope",
+        "id": "a69e0f087619bdac77c9d0a4db588b1f"
+    },
+    {
+        "head": "bowl",
+        "tail": "apartment",
+        "rel": "AtLocation",
+        "gpt2_perp": 94.72940063476562,
+        "gpt2_entropy": 5.739295482635498,
+        "best_gpt2_input": "A bowl is located at an apartment",
+        "best_gpt2_label": "A bowl is located at an apartment",
+        "id": "db0df427cf8dcdf84bc5b3c7f08ce8cc"
+    },
+    {
+        "head": "excavation",
+        "tail": "quarry",
+        "rel": "AtLocation",
+        "gpt2_perp": 134.40234375,
+        "gpt2_entropy": 5.978826522827148,
+        "best_gpt2_input": "An excavation are located at a quarry",
+        "best_gpt2_label": "An excavation are located at a quarry",
+        "id": "e133d042384de14f6d53f6e74deb893a"
+    },
+    {
+        "head": "drinking alcohol",
+        "tail": "nausea",
+        "rel": "Causes",
+        "gpt2_perp": 106.46163177490234,
+        "gpt2_entropy": 5.690115451812744,
+        "best_gpt2_input": "A drinking alcohol can cause nausea",
+        "best_gpt2_label": "A drinking alcohol can cause nausea",
+        "id": "f731d48c24a0466f02aea5e26464afd3"
+    },
+    {
+        "head": "light",
+        "tail": "attic",
+        "rel": "AtLocation",
+        "gpt2_perp": 379.14227294921875,
+        "gpt2_entropy": 6.3009796142578125,
+        "best_gpt2_input": "A light is in an attic",
+        "best_gpt2_label": "A light is in an attic",
+        "id": "46e2b8ed9738c0f2a652d94c567053aa"
+    },
+    {
+        "head": "becoming inebriated",
+        "tail": "staggering",
+        "rel": "Causes",
+        "gpt2_perp": 1464.4403076171875,
+        "gpt2_entropy": 6.567519664764404,
+        "best_gpt2_input": "Becoming inebriated causes a staggering",
+        "best_gpt2_label": "Becoming inebriated causes a staggering",
+        "id": "d2a3651c9b6353ee087686c59a95f6b6"
+    },
+    {
+        "head": "lizard",
+        "tail": "captivity",
+        "rel": "AtLocation",
+        "gpt2_perp": 125.78303527832031,
+        "gpt2_entropy": 5.51403284072876,
+        "best_gpt2_input": "A lizard are in captivity",
+        "best_gpt2_label": "A lizard are in captivity",
+        "id": "cb51fd255d5ecc90d0152dc3abf16275"
+    },
+    {
+        "head": "humans",
+        "tail": "emotional",
+        "rel": "HasProperty",
+        "gpt2_perp": 113.0347671508789,
+        "gpt2_entropy": 6.081502437591553,
+        "best_gpt2_input": "Humans have the property of an emotional",
+        "best_gpt2_label": "Humans have the property of an emotional",
+        "id": "089838aae42386f24452f0613237cc4c"
+    },
+    {
+        "head": "drinks",
+        "tail": "dinner",
+        "rel": "AtLocation",
+        "gpt2_perp": 529.0587768554688,
+        "gpt2_entropy": 4.041064739227295,
+        "best_gpt2_input": " A drinks is usually at dinner",
+        "best_gpt2_label": " A drinks is usually at dinner",
+        "id": "52a5915efa4369169760217eb7761d06"
+    },
+    {
+        "head": "read book",
+        "tail": "experience",
+        "rel": "HasSubevent",
+        "gpt2_perp": 397.9423522949219,
+        "gpt2_entropy": 6.222998142242432,
+        "best_gpt2_input": " Read book can have the subevent an experience",
+        "best_gpt2_label": " Read book can have the subevent an experience",
+        "id": "4c1d5622a9a10bc3742504f7f42a6cbd"
+    },
+    {
+        "head": "projectile ball",
+        "tail": "arcade",
+        "rel": "AtLocation",
+        "gpt2_perp": 769.3606567382812,
+        "gpt2_entropy": 6.508862495422363,
+        "best_gpt2_input": "Projectile ball is in an arcade",
+        "best_gpt2_label": "Projectile ball is in an arcade",
+        "id": "fb88de7718faf09e4df7a5176e4ace4c"
+    },
+    {
+        "head": "vase",
+        "tail": "shelf",
+        "rel": "AtLocation",
+        "gpt2_perp": 549.87109375,
+        "gpt2_entropy": 6.797000408172607,
+        "best_gpt2_input": " A vase is normally placed at a shelf",
+        "best_gpt2_label": " A vase is normally placed at a shelf",
+        "id": "a8455c07e4dfd0a1a92c4d8ab7d62aef"
+    },
+    {
+        "head": "knowledge",
+        "tail": "book",
+        "rel": "AtLocation",
+        "gpt2_perp": 144.46458435058594,
+        "gpt2_entropy": 6.7887163162231445,
+        "best_gpt2_input": "A knowledge is in a book",
+        "best_gpt2_label": "A knowledge is in a book",
+        "id": "44b188d64520f00b5ea09265aadd4aef"
+    },
+    {
+        "head": "picture",
+        "tail": "wall",
+        "rel": "AtLocation",
+        "gpt2_perp": 327.6351623535156,
+        "gpt2_entropy": 7.839047431945801,
+        "best_gpt2_input": " Picture is normally placed by a wall",
+        "best_gpt2_label": " Picture is normally placed by a wall",
+        "id": "becf29c45fdbd9f17241bf4309ea23e6"
+    },
+    {
+        "head": "thermometer",
+        "tail": "drawer",
+        "rel": "AtLocation",
+        "gpt2_perp": 111.28763580322266,
+        "gpt2_entropy": 7.100705146789551,
+        "best_gpt2_input": " A thermometer is in a drawer",
+        "best_gpt2_label": " A thermometer is in a drawer",
+        "id": "fe196aead47bbf5d34636d25afe099b5"
+    },
+    {
+        "head": "grain of sand",
+        "tail": "beach",
+        "rel": "AtLocation",
+        "gpt2_perp": 289.847900390625,
+        "gpt2_entropy": 5.515597343444824,
+        "best_gpt2_input": "Grain of sand are located at a beach",
+        "best_gpt2_label": "Grain of sand are located at a beach",
+        "id": "bdd98913780c7ba6489995559a9d0abd"
+    },
+    {
+        "head": "telephone",
+        "tail": "office",
+        "rel": "AtLocation",
+        "gpt2_perp": 9.794014930725098,
+        "gpt2_entropy": 5.230019569396973,
+        "best_gpt2_input": "Telephone is usually located at an office",
+        "best_gpt2_label": "Telephone is usually located at an office",
+        "id": "68b4323ec02ec74527218c7ee0c5ce8b"
+    },
+    {
+        "head": "killing people",
+        "tail": "terrible",
+        "rel": "Causes",
+        "gpt2_perp": 202.2823944091797,
+        "gpt2_entropy": 6.515447616577148,
+        "best_gpt2_input": " Killing people can lead to a terrible",
+        "best_gpt2_label": " Killing people can lead to a terrible",
+        "id": "110c90206f395d0fc9c0599e351b1d2d"
+    },
+    {
+        "head": "violence",
+        "tail": "war",
+        "rel": "AtLocation",
+        "gpt2_perp": 128.1875762939453,
+        "gpt2_entropy": 6.208075523376465,
+        "best_gpt2_input": "A violence is in a war",
+        "best_gpt2_label": "A violence is in a war",
+        "id": "33c8b745d21bf9441fe30a6310f06f7b"
+    },
+    {
+        "head": "cow",
+        "tail": "advertisement",
+        "rel": "AtLocation",
+        "gpt2_perp": 537.30029296875,
+        "gpt2_entropy": 6.696540832519531,
+        "best_gpt2_input": " A cow are at the location an advertisement",
+        "best_gpt2_label": " A cow are at the location an advertisement",
+        "id": "8e302ba064c345b40ef81f255e1e5490"
+    },
+    {
+        "head": "science",
+        "tail": "university",
+        "rel": "AtLocation",
+        "gpt2_perp": 538.4298095703125,
+        "gpt2_entropy": 5.022751331329346,
+        "best_gpt2_input": "A science are usually located at university",
+        "best_gpt2_label": "A science are usually located at university",
+        "id": "95694f038c3b348de96da23b96b02dae"
+    },
+    {
+        "head": "staircase",
+        "tail": "cellar",
+        "rel": "AtLocation",
+        "gpt2_perp": 959.879638671875,
+        "gpt2_entropy": 7.540213584899902,
+        "best_gpt2_input": " Staircase is in a cellar",
+        "best_gpt2_label": " Staircase is in a cellar",
+        "id": "983b5f9252aeb5e4b81e916e470bdaa6"
+    },
+    {
+        "head": "dust",
+        "tail": "fridge",
+        "rel": "AtLocation",
+        "gpt2_perp": 1950.538818359375,
+        "gpt2_entropy": 7.363180637359619,
+        "best_gpt2_input": "A dust are in a fridge",
+        "best_gpt2_label": "A dust are in a fridge",
+        "id": "bbb50d3b9ad0d31008901b4852ec4b98"
+    },
+    {
+        "head": "river",
+        "tail": "valley",
+        "rel": "AtLocation",
+        "gpt2_perp": 97.41725158691406,
+        "gpt2_entropy": 5.9937543869018555,
+        "best_gpt2_input": "A river is in a valley",
+        "best_gpt2_label": "A river is in a valley",
+        "id": "9d028adccf37c8021d50f434273cffe8"
+    },
+    {
+        "head": "canoe",
+        "tail": "water",
+        "rel": "AtLocation",
+        "gpt2_perp": 103.44084930419922,
+        "gpt2_entropy": 5.622827053070068,
+        "best_gpt2_input": " A canoe is normally by water",
+        "best_gpt2_label": " A canoe is normally by water",
+        "id": "9753e02f1a83da71645aa20e9932eb51"
+    },
+    {
+        "head": "all people",
+        "tail": "different",
+        "rel": "HasProperty",
+        "gpt2_perp": 93.8701171875,
+        "gpt2_entropy": 6.797671318054199,
+        "best_gpt2_input": " All people has the property a different",
+        "best_gpt2_label": " All people has the property a different",
+        "id": "249705a76ba823de834f5864daa5f127"
+    },
+    {
+        "head": "mold",
+        "tail": "refrigerator",
+        "rel": "AtLocation",
+        "gpt2_perp": 244.92201232910156,
+        "gpt2_entropy": 7.129127502441406,
+        "best_gpt2_input": " A mold is in a refrigerator",
+        "best_gpt2_label": " A mold is in a refrigerator",
+        "id": "4320017b6fcb270a063238f75aa4b3bb"
+    },
+    {
+        "head": "passageway",
+        "tail": "maze",
+        "rel": "AtLocation",
+        "gpt2_perp": 213.70445251464844,
+        "gpt2_entropy": 7.186594009399414,
+        "best_gpt2_input": "A passageway are in a maze",
+        "best_gpt2_label": "A passageway are in a maze",
+        "id": "3462bf0a059f5b1a7e348db76aaa24bc"
+    },
+    {
+        "head": "cake",
+        "tail": "oven",
+        "rel": "AtLocation",
+        "gpt2_perp": 6.7804131507873535,
+        "gpt2_entropy": 5.836463928222656,
+        "best_gpt2_input": " A cake is in an oven",
+        "best_gpt2_label": " A cake is in an oven",
+        "id": "3f2dc4d85ee30b171e7ae48653769299"
+    },
+    {
+        "head": "committing murder",
+        "tail": "problems",
+        "rel": "Causes",
+        "gpt2_perp": 470.5972595214844,
+        "gpt2_entropy": 5.356544017791748,
+        "best_gpt2_input": " Committing murder can cause problems",
+        "best_gpt2_label": " Committing murder can cause problems",
+        "id": "2cda062247b94c2b753b1850c29ab9bc"
+    },
+    {
+        "head": "tabby cat",
+        "tail": "lap",
+        "rel": "AtLocation",
+        "gpt2_perp": 1315.6185302734375,
+        "gpt2_entropy": 4.819788932800293,
+        "best_gpt2_input": " A tabby cat are typically placed by lap",
+        "best_gpt2_label": " A tabby cat are typically placed by lap",
+        "id": "a14f9b20745fe43422438698c88f89d7"
+    },
+    {
+        "head": "cookie",
+        "tail": "jar",
+        "rel": "AtLocation",
+        "gpt2_perp": 11.944519996643066,
+        "gpt2_entropy": 5.9812164306640625,
+        "best_gpt2_input": " A cookie is in a jar",
+        "best_gpt2_label": " A cookie is in a jar",
+        "id": "06ff54e987a9dbf865260cae782e76e4"
+    },
+    {
+        "head": "voice",
+        "tail": "sound",
+        "rel": "HasProperty",
+        "gpt2_perp": 32.25657272338867,
+        "gpt2_entropy": 7.124710559844971,
+        "best_gpt2_input": " A voice is a sound",
+        "best_gpt2_label": " A voice is a sound",
+        "id": "057136e637ee8358c576097ecc5f63fe"
+    },
+    {
+        "head": "earth",
+        "tail": "universe",
+        "rel": "AtLocation",
+        "gpt2_perp": 7578.63427734375,
+        "gpt2_entropy": 7.017447471618652,
+        "best_gpt2_input": " Earth is at location an universe",
+        "best_gpt2_label": " Earth is at location an universe",
+        "id": "9d9157993340a305ab877c7793387b80"
+    },
+    {
+        "head": "rosebush",
+        "tail": "pot",
+        "rel": "AtLocation",
+        "gpt2_perp": 150.568359375,
+        "gpt2_entropy": 7.109810829162598,
+        "best_gpt2_input": " A rosebush is in a pot",
+        "best_gpt2_label": " A rosebush is in a pot",
+        "id": "4aa0a4d3b7590e9a91aed7e7c54aa364"
+    },
+    {
+        "head": "mouse",
+        "tail": "trap",
+        "rel": "AtLocation",
+        "gpt2_perp": 2173.194091796875,
+        "gpt2_entropy": 7.447921276092529,
+        "best_gpt2_input": " A mouse are placed by a trap",
+        "best_gpt2_label": " A mouse are placed by a trap",
+        "id": "fe709745713549af232fe71c847d4d05"
+    },
+    {
+        "head": "eat hamburger",
+        "tail": "protein",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 507.5966796875,
+        "gpt2_entropy": 6.0202507972717285,
+        "best_gpt2_input": "An eat hamburger is motivated by the aim of a protein",
+        "best_gpt2_label": "An eat hamburger is motivated by the aim of a protein",
+        "id": "e57a917452efa64d0b48ad6101bba1a0"
+    },
+    {
+        "head": "having fun",
+        "tail": "smiling",
+        "rel": "Causes",
+        "gpt2_perp": 5249.3115234375,
+        "gpt2_entropy": 6.886638641357422,
+        "best_gpt2_input": " A having fun cause a smiling",
+        "best_gpt2_label": " A having fun cause a smiling",
+        "id": "9fccf6fde6cefd910204581197bccf3e"
+    },
+    {
+        "head": "dirt",
+        "tail": "street",
+        "rel": "AtLocation",
+        "gpt2_perp": 432.8893737792969,
+        "gpt2_entropy": 7.0986409187316895,
+        "best_gpt2_input": " A dirt is by a street",
+        "best_gpt2_label": " A dirt is by a street",
+        "id": "010f5060e22f95d250da4eb493309952"
+    },
+    {
+        "head": "apple tree",
+        "tail": "outside",
+        "rel": "AtLocation",
+        "gpt2_perp": 161.31887817382812,
+        "gpt2_entropy": 5.630857467651367,
+        "best_gpt2_input": "An apple tree are usually by an outside",
+        "best_gpt2_label": "An apple tree are usually by an outside",
+        "id": "6f41ff28540391abb4a3df1b6e18fe2a"
+    },
+    {
+        "head": "animal",
+        "tail": "cafe",
+        "rel": "AtLocation",
+        "gpt2_perp": 1044.667236328125,
+        "gpt2_entropy": 6.943960666656494,
+        "best_gpt2_input": " Animal is usually located at a cafe",
+        "best_gpt2_label": " Animal is usually located at a cafe",
+        "id": "9a8ac68c0d8f4ce273adcdfbe0311aab"
+    },
+    {
+        "head": "honey",
+        "tail": "jar",
+        "rel": "AtLocation",
+        "gpt2_perp": 6.6192755699157715,
+        "gpt2_entropy": 6.096706867218018,
+        "best_gpt2_input": " A honey is in a jar",
+        "best_gpt2_label": " A honey is in a jar",
+        "id": "ae43d8e7b35aca06faacdbcef5cb5c30"
+    },
+    {
+        "head": "alcoholic",
+        "tail": "bridge",
+        "rel": "AtLocation",
+        "gpt2_perp": 2071.636474609375,
+        "gpt2_entropy": 6.450508117675781,
+        "best_gpt2_input": " An alcoholic is placed at a bridge",
+        "best_gpt2_label": " An alcoholic is placed at a bridge",
+        "id": "3e947cb8c14db8671911d019eb2908cf"
+    },
+    {
+        "head": "eye",
+        "tail": "potato",
+        "rel": "AtLocation",
+        "gpt2_perp": 7345.89892578125,
+        "gpt2_entropy": 6.499233245849609,
+        "best_gpt2_input": "An eye is in a potato",
+        "best_gpt2_label": "An eye is in a potato",
+        "id": "2610979fa5297ac9277b3a748e6054a1_1"
+    },
+    {
+        "head": "sleeping",
+        "tail": "relaxation",
+        "rel": "Causes",
+        "gpt2_perp": 1842.1806640625,
+        "gpt2_entropy": 7.185698986053467,
+        "best_gpt2_input": "A sleeping causes a relaxation",
+        "best_gpt2_label": "A sleeping causes a relaxation",
+        "id": "335c4e8dde98002738f6bdc9abad6d32"
+    },
+    {
+        "head": "cleaning",
+        "tail": "injury",
+        "rel": "Causes",
+        "gpt2_perp": 23.44721221923828,
+        "gpt2_entropy": 6.550520896911621,
+        "best_gpt2_input": "Cleaning cause an injury",
+        "best_gpt2_label": "Cleaning cause an injury",
+        "id": "3d3a743695e932109fedae5cdc31a879"
+    },
+    {
+        "head": "giving assistance",
+        "tail": "hardship",
+        "rel": "Causes",
+        "gpt2_perp": 292.4269714355469,
+        "gpt2_entropy": 7.137065887451172,
+        "best_gpt2_input": " Giving assistance cause a hardship",
+        "best_gpt2_label": " Giving assistance cause a hardship",
+        "id": "2df2ef4d7ecabbb464426fd9a0073b53"
+    },
+    {
+        "head": "sugar",
+        "tail": "kitchen",
+        "rel": "AtLocation",
+        "gpt2_perp": 383.0483093261719,
+        "gpt2_entropy": 7.340566635131836,
+        "best_gpt2_input": " Sugar is usually placed by a kitchen",
+        "best_gpt2_label": " Sugar is usually placed by a kitchen",
+        "id": "e7d8e00cd4e9469884d2e1d505de8d91"
+    },
+    {
+        "head": "commit suicide",
+        "tail": "pain",
+        "rel": "HasSubevent",
+        "gpt2_perp": 1706.263916015625,
+        "gpt2_entropy": 7.01442813873291,
+        "best_gpt2_input": "Commit suicide can have the subevent a pain",
+        "best_gpt2_label": "Commit suicide can have the subevent a pain",
+        "id": "34d28fb5bbfe01a56bf82e9fd27e847a"
+    },
+    {
+        "head": "learning about science",
+        "tail": "atheism",
+        "rel": "Causes",
+        "gpt2_perp": 19659.75,
+        "gpt2_entropy": 6.146716117858887,
+        "best_gpt2_input": "Learning about science cause atheism",
+        "best_gpt2_label": "Learning about science cause atheism",
+        "id": "0d94b55ead9a0b571951c1c32a2fca40"
+    },
+    {
+        "head": "bread",
+        "tail": "supermarket",
+        "rel": "AtLocation",
+        "gpt2_perp": 276.6273193359375,
+        "gpt2_entropy": 6.857222557067871,
+        "best_gpt2_input": " Bread is usually located at a supermarket",
+        "best_gpt2_label": " Bread is usually located at a supermarket",
+        "id": "9c9e6feaf3bc7cee6d1caffa61a9f635"
+    },
+    {
+        "head": "plate",
+        "tail": "restaurant",
+        "rel": "AtLocation",
+        "gpt2_perp": 134.39048767089844,
+        "gpt2_entropy": 7.012277126312256,
+        "best_gpt2_input": "Plate is usually located at a restaurant",
+        "best_gpt2_label": "Plate is usually located at a restaurant",
+        "id": "c94532cc18d63217ce636ffe2d83846c"
+    },
+    {
+        "head": "person",
+        "tail": "society",
+        "rel": "PartOf",
+        "gpt2_perp": 120.45938873291016,
+        "gpt2_entropy": 3.1749393939971924,
+        "best_gpt2_input": " A person is an element of society",
+        "best_gpt2_label": " A person is an element of society",
+        "id": "3e3e4ff55e4256efcbf87d8c7c137d3c"
+    },
+    {
+        "head": "purse",
+        "tail": "home",
+        "rel": "AtLocation",
+        "gpt2_perp": 28.615741729736328,
+        "gpt2_entropy": 4.724392414093018,
+        "best_gpt2_input": " Purse are usually at home",
+        "best_gpt2_label": " Purse are usually at home",
+        "id": "810fc793c25ac49a17e38019a251435c"
+    },
+    {
+        "head": "go to performance",
+        "tail": "admiration",
+        "rel": "HasSubevent",
+        "gpt2_perp": 94488.203125,
+        "gpt2_entropy": 6.675466537475586,
+        "best_gpt2_input": "A go to performance has the subevent of admiration",
+        "best_gpt2_label": "A go to performance has the subevent of admiration",
+        "id": "bc8ce8ea47c903e14523700422b1af90"
+    },
+    {
+        "head": "having food",
+        "tail": "talk",
+        "rel": "HasSubevent",
+        "gpt2_perp": 7060.02294921875,
+        "gpt2_entropy": 7.987411975860596,
+        "best_gpt2_input": "A having food has subevent a talk",
+        "best_gpt2_label": "A having food has subevent a talk",
+        "id": "4ec5fd34887f603a52bdc45a098859c2"
+    },
+    {
+        "head": "carrots",
+        "tail": "salad",
+        "rel": "AtLocation",
+        "gpt2_perp": 138.8226318359375,
+        "gpt2_entropy": 6.593627452850342,
+        "best_gpt2_input": " A carrots are in a salad",
+        "best_gpt2_label": " A carrots are in a salad",
+        "id": "a161390ea4416be717334f08d350d1c4"
+    },
+    {
+        "head": "amphitheatre",
+        "tail": "park",
+        "rel": "AtLocation",
+        "gpt2_perp": 94.14408874511719,
+        "gpt2_entropy": 7.004787921905518,
+        "best_gpt2_input": " An amphitheatre is in a park",
+        "best_gpt2_label": " An amphitheatre is in a park",
+        "id": "8cd5e482b6ae9fc1d63abf5bd3d83b94"
+    },
+    {
+        "head": "rain",
+        "tail": "forest",
+        "rel": "AtLocation",
+        "gpt2_perp": 212.5446014404297,
+        "gpt2_entropy": 6.879787921905518,
+        "best_gpt2_input": " A rain are in a forest",
+        "best_gpt2_label": " A rain are in a forest",
+        "id": "15f1ca9b09bcc6314e67e9bb4161c3ec"
+    },
+    {
+        "head": "mess",
+        "tail": "desk",
+        "rel": "AtLocation",
+        "gpt2_perp": 91.12431335449219,
+        "gpt2_entropy": 7.177181243896484,
+        "best_gpt2_input": " Mess is placed at a desk",
+        "best_gpt2_label": " Mess is placed at a desk",
+        "id": "a7a4f1ccc0f7002386c4bdecbe6e7dd8"
+    },
+    {
+        "head": "telephone",
+        "tail": "hotel",
+        "rel": "AtLocation",
+        "gpt2_perp": 43.582950592041016,
+        "gpt2_entropy": 6.493239879608154,
+        "best_gpt2_input": " Telephone is usually located at a hotel",
+        "best_gpt2_label": " Telephone is usually located at a hotel",
+        "id": "23b6b49bfe21b905b850b22adb7fbe2c"
+    },
+    {
+        "head": "bar service",
+        "tail": "train",
+        "rel": "AtLocation",
+        "gpt2_perp": 62.720420837402344,
+        "gpt2_entropy": 5.968255996704102,
+        "best_gpt2_input": "A bar service are usually by train",
+        "best_gpt2_label": "A bar service are usually by train",
+        "id": "73a85d7b1a9064ec018ea1286f0b5d12"
+    },
+    {
+        "head": "pillowcase",
+        "tail": "bedroom",
+        "rel": "AtLocation",
+        "gpt2_perp": 192.81370544433594,
+        "gpt2_entropy": 6.611349582672119,
+        "best_gpt2_input": " A pillowcase is normally located at a bedroom",
+        "best_gpt2_label": " A pillowcase is normally located at a bedroom",
+        "id": "37fd700cf59a5b0f08760a1d7a2a7645"
+    },
+    {
+        "head": "jellyfish",
+        "tail": "tank",
+        "rel": "AtLocation",
+        "gpt2_perp": 179.06491088867188,
+        "gpt2_entropy": 6.846948623657227,
+        "best_gpt2_input": " A jellyfish is in a tank",
+        "best_gpt2_label": " A jellyfish is in a tank",
+        "id": "9d748409fd01e71bccdfc0607e45d5b5"
+    },
+    {
+        "head": "grooming",
+        "tail": "injury",
+        "rel": "Causes",
+        "gpt2_perp": 22.913185119628906,
+        "gpt2_entropy": 5.8868842124938965,
+        "best_gpt2_input": " Grooming can cause an injury",
+        "best_gpt2_label": " Grooming can cause an injury",
+        "id": "1063bdf08fbf9989d8f7614035cbac1f"
+    },
+    {
+        "head": "going to market",
+        "tail": "stress",
+        "rel": "Causes",
+        "gpt2_perp": 330.35919189453125,
+        "gpt2_entropy": 5.797760963439941,
+        "best_gpt2_input": "Going to market can cause stress",
+        "best_gpt2_label": "Going to market can cause stress",
+        "id": "eb77cabd07ab230d20d08abb4cbf5696"
+    },
+    {
+        "head": "standing in line",
+        "tail": "order",
+        "rel": "Causes",
+        "gpt2_perp": 89.89402770996094,
+        "gpt2_entropy": 6.51578426361084,
+        "best_gpt2_input": " A standing in line cause an order",
+        "best_gpt2_label": " A standing in line cause an order",
+        "id": "9dd9e2409dd63c618c0d5b81e67fa46e"
+    },
+    {
+        "head": "soldier",
+        "tail": "battlefield",
+        "rel": "AtLocation",
+        "gpt2_perp": 455.9993591308594,
+        "gpt2_entropy": 5.9677252769470215,
+        "best_gpt2_input": "A soldier is at a battlefield",
+        "best_gpt2_label": "A soldier is at a battlefield",
+        "id": "3944c8a7639ece99ab7a1847b69d75cf"
+    },
+    {
+        "head": "conversation",
+        "tail": "dinner",
+        "rel": "AtLocation",
+        "gpt2_perp": 92.9184341430664,
+        "gpt2_entropy": 6.4147443771362305,
+        "best_gpt2_input": " A conversation is typically at a dinner",
+        "best_gpt2_label": " A conversation is typically at a dinner",
+        "id": "1910bea1771b47948d08c11b45b32389"
+    },
+    {
+        "head": "person",
+        "tail": "electricity",
+        "rel": "Desires",
+        "gpt2_perp": 3210.131103515625,
+        "gpt2_entropy": 6.685683727264404,
+        "best_gpt2_input": "A person want an electricity",
+        "best_gpt2_label": "A person want an electricity",
+        "id": "5bc314ad7d2076fadce967217721d3c8"
+    },
+    {
+        "head": "becoming inebriated",
+        "tail": "regret",
+        "rel": "Causes",
+        "gpt2_perp": 15142.5380859375,
+        "gpt2_entropy": 6.119950294494629,
+        "best_gpt2_input": "Becoming inebriated can lead to regret",
+        "best_gpt2_label": "Becoming inebriated can lead to regret",
+        "id": "a9e2737e7a80877eebd4dc6ab13bb6cf"
+    },
+    {
+        "head": "planet",
+        "tail": "universe",
+        "rel": "AtLocation",
+        "gpt2_perp": 5589.0087890625,
+        "gpt2_entropy": 7.211906909942627,
+        "best_gpt2_input": " A planet are at location an universe",
+        "best_gpt2_label": " A planet are at location an universe",
+        "id": "e5dc21bf19b2733d90b849185368bdea"
+    },
+    {
+        "head": "glass",
+        "tail": "recycled",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 504.80853271484375,
+        "gpt2_entropy": 5.661764621734619,
+        "best_gpt2_input": "Glass can be recycled",
+        "best_gpt2_label": "Glass can be recycled",
+        "id": "e605813aa9f775bd344360b1f5358112"
+    },
+    {
+        "head": "bag",
+        "tail": "drawer",
+        "rel": "AtLocation",
+        "gpt2_perp": 45.46833419799805,
+        "gpt2_entropy": 6.592506408691406,
+        "best_gpt2_input": " A bag is in a drawer",
+        "best_gpt2_label": " A bag is in a drawer",
+        "id": "2610d30e09ffe52d8b422434eaba062d"
+    },
+    {
+        "head": "driving to work",
+        "tail": "pressure",
+        "rel": "Causes",
+        "gpt2_perp": 2445.56982421875,
+        "gpt2_entropy": 6.143577575683594,
+        "best_gpt2_input": "Driving to work causes pressure",
+        "best_gpt2_label": "Driving to work causes pressure",
+        "id": "e9a9a5fdfa2e89769081150485ddd055"
+    },
+    {
+        "head": "roadway",
+        "tail": "countryside",
+        "rel": "AtLocation",
+        "gpt2_perp": 37772.62890625,
+        "gpt2_entropy": 7.030025005340576,
+        "best_gpt2_input": " Roadway is in a countryside",
+        "best_gpt2_label": " Roadway is in a countryside",
+        "id": "1bfea676e6cab0ede8bb59f39d98a916"
+    },
+    {
+        "head": "listening to music",
+        "tail": "relaxation",
+        "rel": "HasSubevent",
+        "gpt2_perp": 5222.80126953125,
+        "gpt2_entropy": 6.206349849700928,
+        "best_gpt2_input": " Listening to music can have the subevent of relaxation",
+        "best_gpt2_label": " Listening to music can have the subevent of relaxation",
+        "id": "4156ae5d4cfe22febbcdd8ad9f1bf3f0"
+    },
+    {
+        "head": "bringing suit",
+        "tail": "tensions",
+        "rel": "Causes",
+        "gpt2_perp": 4590.93505859375,
+        "gpt2_entropy": 5.608337879180908,
+        "best_gpt2_input": "A bringing suit causes tensions",
+        "best_gpt2_label": "A bringing suit causes tensions",
+        "id": "8389e676be6b5bf0e4847ca56a581b02"
+    },
+    {
+        "head": "hotel room",
+        "tail": "resort",
+        "rel": "AtLocation",
+        "gpt2_perp": 197.9660186767578,
+        "gpt2_entropy": 6.340716361999512,
+        "best_gpt2_input": "Hotel room are typically located at a resort",
+        "best_gpt2_label": "Hotel room are typically located at a resort",
+        "id": "9c583bcbe68989a644433302545fb31e"
+    },
+    {
+        "head": "leader",
+        "tail": "army",
+        "rel": "AtLocation",
+        "gpt2_perp": 105.7347412109375,
+        "gpt2_entropy": 6.780584812164307,
+        "best_gpt2_input": " A leader are placed by an army",
+        "best_gpt2_label": " A leader are placed by an army",
+        "id": "f3ed103edc7729a7b721d3fff53e64a4"
+    },
+    {
+        "head": "return ticket",
+        "tail": "plane",
+        "rel": "AtLocation",
+        "gpt2_perp": 84.7314224243164,
+        "gpt2_entropy": 5.964564323425293,
+        "best_gpt2_input": " Return ticket is typically by plane",
+        "best_gpt2_label": " Return ticket is typically by plane",
+        "id": "b54be09553b6e21268f6a3f97ca7668d"
+    },
+    {
+        "head": "escalator",
+        "tail": "mall",
+        "rel": "AtLocation",
+        "gpt2_perp": 1095.5977783203125,
+        "gpt2_entropy": 6.810184001922607,
+        "best_gpt2_input": "An escalator is located at a mall",
+        "best_gpt2_label": "An escalator is located at a mall",
+        "id": "521f6943be9f7a615d0add19f98d0876"
+    },
+    {
+        "head": "contraceptive device",
+        "tail": "person",
+        "rel": "AtLocation",
+        "gpt2_perp": 5.731635093688965,
+        "gpt2_entropy": 4.445250988006592,
+        "best_gpt2_input": "A contraceptive device is at the location a person",
+        "best_gpt2_label": "A contraceptive device is at the location a person",
+        "id": "e1a34e26d88d6da4f6239502ffc3e197"
+    },
+    {
+        "head": "turkey",
+        "tail": "oven",
+        "rel": "AtLocation",
+        "gpt2_perp": 12.796856880187988,
+        "gpt2_entropy": 6.007370471954346,
+        "best_gpt2_input": " A turkey is in an oven",
+        "best_gpt2_label": " A turkey is in an oven",
+        "id": "61c8da0f8b534add07ab117777a585d0"
+    },
+    {
+        "head": "ice",
+        "tail": "refrigerator",
+        "rel": "AtLocation",
+        "gpt2_perp": 1104.7357177734375,
+        "gpt2_entropy": 6.904053211212158,
+        "best_gpt2_input": "An ice is in a refrigerator",
+        "best_gpt2_label": "An ice is in a refrigerator",
+        "id": "0f91861413ccf9f93a18c604b54efa8f"
+    },
+    {
+        "head": "master control",
+        "tail": "basement",
+        "rel": "AtLocation",
+        "gpt2_perp": 2687.644775390625,
+        "gpt2_entropy": 6.649750709533691,
+        "best_gpt2_input": " A master control are usually located at a basement",
+        "best_gpt2_label": " A master control are usually located at a basement",
+        "id": "e653927e54864764ff21fcb0d670532d"
+    },
+    {
+        "head": "use television",
+        "tail": "kill",
+        "rel": "UsedFor",
+        "gpt2_perp": 44919.84765625,
+        "gpt2_entropy": 7.426547527313232,
+        "best_gpt2_input": " An use television serve for a kill",
+        "best_gpt2_label": " An use television serve for a kill",
+        "id": "bdc9b7ade6681c80c16dd927c9ae3e56"
+    },
+    {
+        "head": "procreating",
+        "tail": "pregnancy",
+        "rel": "Causes",
+        "gpt2_perp": 665.0369873046875,
+        "gpt2_entropy": 6.72129487991333,
+        "best_gpt2_input": " A procreating can lead to pregnancy",
+        "best_gpt2_label": " A procreating can lead to pregnancy",
+        "id": "0e1aae96bd90ed0d1612d8cba5ff19a9"
+    },
+    {
+        "head": "computer",
+        "tail": "box",
+        "rel": "AtLocation",
+        "gpt2_perp": 63.254920959472656,
+        "gpt2_entropy": 6.5982441902160645,
+        "best_gpt2_input": "A computer is in a box",
+        "best_gpt2_label": "A computer is in a box",
+        "id": "7c9d5f2efd3538cbf0ab551742e2cbfc"
+    },
+    {
+        "head": "leader",
+        "tail": "company",
+        "rel": "AtLocation",
+        "gpt2_perp": 138.7073516845703,
+        "gpt2_entropy": 6.611250400543213,
+        "best_gpt2_input": "A leader is typically placed by a company",
+        "best_gpt2_label": "A leader is typically placed by a company",
+        "id": "c6277b7861a429e0cc15cb3e46b7281b"
+    },
+    {
+        "head": "person",
+        "tail": "deception",
+        "rel": "NotDesires",
+        "gpt2_perp": 5373.48779296875,
+        "gpt2_entropy": 6.391488552093506,
+        "best_gpt2_input": "A person doesn't crave for deception",
+        "best_gpt2_label": "A person doesn't crave for deception",
+        "id": "1ee2105382fc88c988ea1a34e3b91264"
+    },
+    {
+        "head": "wood",
+        "tail": "boat",
+        "rel": "AtLocation",
+        "gpt2_perp": 344.09954833984375,
+        "gpt2_entropy": 7.594205856323242,
+        "best_gpt2_input": " Wood is usually by a boat",
+        "best_gpt2_label": " Wood is usually by a boat",
+        "id": "587bdd8fd449cc518452f6b8d52b16e1"
+    },
+    {
+        "head": "tap",
+        "tail": "bathroom",
+        "rel": "AtLocation",
+        "gpt2_perp": 562.9014282226562,
+        "gpt2_entropy": 7.3259382247924805,
+        "best_gpt2_input": "A tap is in a bathroom",
+        "best_gpt2_label": "A tap is in a bathroom",
+        "id": "f04f403dfbd84a90e76c4e1787945c3c"
+    },
+    {
+        "head": "going to bed",
+        "tail": "insomnia",
+        "rel": "Causes",
+        "gpt2_perp": 30.809263229370117,
+        "gpt2_entropy": 5.938327312469482,
+        "best_gpt2_input": "A going to bed can lead to insomnia",
+        "best_gpt2_label": "A going to bed can lead to insomnia",
+        "id": "d06b40f9037d3c1ca87794519e84eb2a"
+    },
+    {
+        "head": "perform",
+        "tail": "applause",
+        "rel": "HasSubevent",
+        "gpt2_perp": 14157.9150390625,
+        "gpt2_entropy": 7.2335028648376465,
+        "best_gpt2_input": " A perform has the subevent an applause",
+        "best_gpt2_label": " A perform has the subevent an applause",
+        "id": "48ed04ddb6cfdc9251ba9d30fd4ea4cb"
+    },
+    {
+        "head": "french restaurant",
+        "tail": "wine",
+        "rel": "AtLocation",
+        "gpt2_perp": 380.208984375,
+        "gpt2_entropy": 6.855179309844971,
+        "best_gpt2_input": "A french restaurant is usually by a wine",
+        "best_gpt2_label": "A french restaurant is usually by a wine",
+        "id": "0e518b8a5910510a204a745ef469bf1b"
+    },
+    {
+        "head": "taking final exams",
+        "tail": "cheat",
+        "rel": "HasSubevent",
+        "gpt2_perp": 21264.740234375,
+        "gpt2_entropy": 7.7345781326293945,
+        "best_gpt2_input": " Taking final exams can have the subevent of a cheat",
+        "best_gpt2_label": " Taking final exams can have the subevent of a cheat",
+        "id": "4bb7ce5d9a66e6ab27436b84cf4179b1"
+    },
+    {
+        "head": "air",
+        "tail": "supermarket",
+        "rel": "AtLocation",
+        "gpt2_perp": 3352.7353515625,
+        "gpt2_entropy": 6.6709699630737305,
+        "best_gpt2_input": "Air is usually located at a supermarket",
+        "best_gpt2_label": "Air is usually located at a supermarket",
+        "id": "7f6280a159f39f6cefa53c7ff93c1192"
+    },
+    {
+        "head": "bee",
+        "tail": "countryside",
+        "rel": "AtLocation",
+        "gpt2_perp": 79372.3359375,
+        "gpt2_entropy": 6.941229820251465,
+        "best_gpt2_input": "Bee is usually located at a countryside",
+        "best_gpt2_label": "Bee is usually located at a countryside",
+        "id": "a5f72ec70c0a29dd88cc523a1923a0a8"
+    },
+    {
+        "head": "paint",
+        "tail": "shelf",
+        "rel": "AtLocation",
+        "gpt2_perp": 480.23193359375,
+        "gpt2_entropy": 6.416794300079346,
+        "best_gpt2_input": " Paint are normally placed at a shelf",
+        "best_gpt2_label": " Paint are normally placed at a shelf",
+        "id": "7e280730f62433d1c579ed7bf333a65e"
+    },
+    {
+        "head": "ceiling",
+        "tail": "loft",
+        "rel": "AtLocation",
+        "gpt2_perp": 3065.232666015625,
+        "gpt2_entropy": 7.037314414978027,
+        "best_gpt2_input": " Ceiling is located at a loft",
+        "best_gpt2_label": " Ceiling is located at a loft",
+        "id": "db25bd3655d1a77f34fb7c7623d6b6de"
+    },
+    {
+        "head": "jellyfish",
+        "tail": "pond",
+        "rel": "AtLocation",
+        "gpt2_perp": 140.29969787597656,
+        "gpt2_entropy": 6.971004009246826,
+        "best_gpt2_input": " A jellyfish is placed at a pond",
+        "best_gpt2_label": " A jellyfish is placed at a pond",
+        "id": "a749a67722c23d6d900d2c5e74b2f1c0"
+    },
+    {
+        "head": "fire",
+        "tail": "harm",
+        "rel": "CapableOf",
+        "gpt2_perp": 623.7609252929688,
+        "gpt2_entropy": 4.573880195617676,
+        "best_gpt2_input": "A fire can harm",
+        "best_gpt2_label": "A fire can harm",
+        "id": "74a8eb7ef599949f3af90aca4b84ba30"
+    },
+    {
+        "head": "ferret",
+        "tail": "outdoors",
+        "rel": "AtLocation",
+        "gpt2_perp": 2168.905029296875,
+        "gpt2_entropy": 4.740795135498047,
+        "best_gpt2_input": "A ferret is typically placed by an outdoors",
+        "best_gpt2_label": "A ferret is typically placed by an outdoors",
+        "id": "f9c3d40d40304a9bdd24eeb29e2c778a"
+    },
+    {
+        "head": "listening to music",
+        "tail": "enjoyment",
+        "rel": "HasSubevent",
+        "gpt2_perp": 4508.79833984375,
+        "gpt2_entropy": 6.840399265289307,
+        "best_gpt2_input": " A listening to music has subevent of an enjoyment",
+        "best_gpt2_label": " A listening to music has subevent of an enjoyment",
+        "id": "9a5fdf51f6f396abd35eac66a5d38f54"
+    },
+    {
+        "head": "chatting with friends",
+        "tail": "agreement",
+        "rel": "Causes",
+        "gpt2_perp": 279.09857177734375,
+        "gpt2_entropy": 5.669086933135986,
+        "best_gpt2_input": " A chatting with friends can lead to an agreement",
+        "best_gpt2_label": " A chatting with friends can lead to an agreement",
+        "id": "6ac6182ff6aa48104e66ca918f69461b"
+    },
+    {
+        "head": "jelly",
+        "tail": "refrigerator",
+        "rel": "AtLocation",
+        "gpt2_perp": 478.3453063964844,
+        "gpt2_entropy": 6.9141669273376465,
+        "best_gpt2_input": "A jelly is placed at a refrigerator",
+        "best_gpt2_label": "A jelly is placed at a refrigerator",
+        "id": "71beb7fbdd50fb6fa09e00e38c2aa78c"
+    },
+    {
+        "head": "car",
+        "tail": "freeway",
+        "rel": "AtLocation",
+        "gpt2_perp": 715.7833862304688,
+        "gpt2_entropy": 6.340465068817139,
+        "best_gpt2_input": " A car is typically located at a freeway",
+        "best_gpt2_label": " A car is typically located at a freeway",
+        "id": "8f4591cb370b5916557e55634396841b"
+    },
+    {
+        "head": "neighbor",
+        "tail": "ditch",
+        "rel": "AtLocation",
+        "gpt2_perp": 636.9017333984375,
+        "gpt2_entropy": 6.1816229820251465,
+        "best_gpt2_input": " A neighbor are in a ditch",
+        "best_gpt2_label": " A neighbor are in a ditch",
+        "id": "be4b5c106fca18a95513dd360d60948b"
+    },
+    {
+        "head": "seeing artifacts",
+        "tail": "thinking",
+        "rel": "Causes",
+        "gpt2_perp": 1170.406494140625,
+        "gpt2_entropy": 6.753438949584961,
+        "best_gpt2_input": "A seeing artifacts can lead to thinking",
+        "best_gpt2_label": "A seeing artifacts can lead to thinking",
+        "id": "cb0bfeb33c70bc67b4e79077c7136665"
+    },
+    {
+        "head": "serve customers",
+        "tail": "smile",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 6335.49609375,
+        "gpt2_entropy": 7.759509086608887,
+        "best_gpt2_input": " A serve customers needs to a smile",
+        "best_gpt2_label": " A serve customers needs to a smile",
+        "id": "e27f1950cae9988662133fd725122772"
+    },
+    {
+        "head": "apple tree",
+        "tail": "valley",
+        "rel": "AtLocation",
+        "gpt2_perp": 198.58851623535156,
+        "gpt2_entropy": 6.848079204559326,
+        "best_gpt2_input": " An apple tree is in a valley",
+        "best_gpt2_label": " An apple tree is in a valley",
+        "id": "73aaeaf8c71eca4c33f6d401edb027ed"
+    },
+    {
+        "head": "get in shape",
+        "tail": "sex",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 1305.27197265625,
+        "gpt2_entropy": 5.7168402671813965,
+        "best_gpt2_input": " Get in shape is motivated by sex",
+        "best_gpt2_label": " Get in shape is motivated by sex",
+        "id": "f9e2b581daa96711fa81920a87c09e04"
+    },
+    {
+        "head": "playing chess",
+        "tail": "frustration",
+        "rel": "Causes",
+        "gpt2_perp": 709.37744140625,
+        "gpt2_entropy": 6.332270622253418,
+        "best_gpt2_input": "A playing chess can lead to frustration",
+        "best_gpt2_label": "A playing chess can lead to frustration",
+        "id": "e37ba8a5c8105f9ab4d753ce40e8f41b"
+    },
+    {
+        "head": "card catalog",
+        "tail": "store",
+        "rel": "AtLocation",
+        "gpt2_perp": 41.17218780517578,
+        "gpt2_entropy": 6.2815470695495605,
+        "best_gpt2_input": " A card catalog is usually at a store",
+        "best_gpt2_label": " A card catalog is usually at a store",
+        "id": "cab8d8619fbc0dbfd54043f31fcd3319"
+    },
+    {
+        "head": "silk",
+        "tail": "garments",
+        "rel": "AtLocation",
+        "gpt2_perp": 23610.5625,
+        "gpt2_entropy": 4.9495744705200195,
+        "best_gpt2_input": "A silk are normally placed by garments",
+        "best_gpt2_label": "A silk are normally placed by garments",
+        "id": "0be53359436901b878554e908bd47bbc"
+    },
+    {
+        "head": "flirting",
+        "tail": "attraction",
+        "rel": "Causes",
+        "gpt2_perp": 79.33331298828125,
+        "gpt2_entropy": 6.351407527923584,
+        "best_gpt2_input": " A flirting can cause to an attraction",
+        "best_gpt2_label": " A flirting can cause to an attraction",
+        "id": "4f1cac2b8274e18eb8616bdad225277d"
+    },
+    {
+        "head": "child",
+        "tail": "school",
+        "rel": "AtLocation",
+        "gpt2_perp": 16.163911819458008,
+        "gpt2_entropy": 6.036539554595947,
+        "best_gpt2_input": " A child is located at a school",
+        "best_gpt2_label": " A child is located at a school",
+        "id": "2546dba59624723a81bcf3f0ebabc210"
+    },
+    {
+        "head": "human",
+        "tail": "library",
+        "rel": "AtLocation",
+        "gpt2_perp": 1605.2470703125,
+        "gpt2_entropy": 6.925464630126953,
+        "best_gpt2_input": " Human is located at a library",
+        "best_gpt2_label": " Human is located at a library",
+        "id": "1eacd249c9a3c5e4e59b3bda3b00780a"
+    },
+    {
+        "head": "seat",
+        "tail": "airplane",
+        "rel": "AtLocation",
+        "gpt2_perp": 84.69200134277344,
+        "gpt2_entropy": 5.907093524932861,
+        "best_gpt2_input": " A seat is in an airplane",
+        "best_gpt2_label": " A seat is in an airplane",
+        "id": "0cb703799cc99030a3c9d1856e520c21"
+    },
+    {
+        "head": "sitting quietly",
+        "tail": "anxiety",
+        "rel": "Causes",
+        "gpt2_perp": 77.78673553466797,
+        "gpt2_entropy": 5.830150127410889,
+        "best_gpt2_input": " Sitting quietly can cause anxiety",
+        "best_gpt2_label": " Sitting quietly can cause anxiety",
+        "id": "c809f45fc9e5191bdb20dbc7af67e598"
+    },
+    {
+        "head": "ring binder",
+        "tail": "office",
+        "rel": "AtLocation",
+        "gpt2_perp": 23.668306350708008,
+        "gpt2_entropy": 5.760769367218018,
+        "best_gpt2_input": " Ring binder is usually located at an office",
+        "best_gpt2_label": " Ring binder is usually located at an office",
+        "id": "2874d0b073dbf44cdc7588bea7f4c0a6"
+    },
+    {
+        "head": "bacteria",
+        "tail": "water",
+        "rel": "AtLocation",
+        "gpt2_perp": 122.2499771118164,
+        "gpt2_entropy": 5.621402263641357,
+        "best_gpt2_input": " Bacteria is typically placed by water",
+        "best_gpt2_label": " Bacteria is typically placed by water",
+        "id": "353bf00e1541b4ab68982c654bbd4072_1"
+    },
+    {
+        "head": "sloth",
+        "tail": "encyclopedia",
+        "rel": "AtLocation",
+        "gpt2_perp": 8022.79150390625,
+        "gpt2_entropy": 6.823548316955566,
+        "best_gpt2_input": "Sloth is by an encyclopedia",
+        "best_gpt2_label": "Sloth is by an encyclopedia",
+        "id": "ce4f3c01ec85442dba72a06437e42e0f"
+    },
+    {
+        "head": "conductor",
+        "tail": "orchestra",
+        "rel": "AtLocation",
+        "gpt2_perp": 54.04043197631836,
+        "gpt2_entropy": 6.258988857269287,
+        "best_gpt2_input": " A conductor is in an orchestra",
+        "best_gpt2_label": " A conductor is in an orchestra",
+        "id": "eb8803e36b0c7a2f39da4c35a79f4c20"
+    },
+    {
+        "head": "stabbing to death",
+        "tail": "bleeding",
+        "rel": "Causes",
+        "gpt2_perp": 92.32974243164062,
+        "gpt2_entropy": 5.2391438484191895,
+        "best_gpt2_input": " A stabbing to death can cause bleeding",
+        "best_gpt2_label": " A stabbing to death can cause bleeding",
+        "id": "aeff0fe9c01d46b868fefb67fd5529cb"
+    },
+    {
+        "head": "eating breakfast",
+        "tail": "gas",
+        "rel": "Causes",
+        "gpt2_perp": 1491.1265869140625,
+        "gpt2_entropy": 6.594135761260986,
+        "best_gpt2_input": " An eating breakfast can cause a gas",
+        "best_gpt2_label": " An eating breakfast can cause a gas",
+        "id": "0837103f706dd8af08c1cbc496877e83"
+    },
+    {
+        "head": "drug dealer",
+        "tail": "jail",
+        "rel": "AtLocation",
+        "gpt2_perp": 4.901965618133545,
+        "gpt2_entropy": 4.1306376457214355,
+        "best_gpt2_input": "A drug dealer is in jail",
+        "best_gpt2_label": "A drug dealer is in jail",
+        "id": "8942a79ebe66c3b26769c90f14ee1e92"
+    },
+    {
+        "head": "city",
+        "tail": "county",
+        "rel": "AtLocation",
+        "gpt2_perp": 51.313846588134766,
+        "gpt2_entropy": 7.196277618408203,
+        "best_gpt2_input": "City is typically placed by a county",
+        "best_gpt2_label": "City is typically placed by a county",
+        "id": "57135cf3b579a646ba0238178cfda2c9"
+    },
+    {
+        "head": "wine cellar",
+        "tail": "basement",
+        "rel": "AtLocation",
+        "gpt2_perp": 126.1577377319336,
+        "gpt2_entropy": 6.683041572570801,
+        "best_gpt2_input": "Wine cellar is typically located at a basement",
+        "best_gpt2_label": "Wine cellar is typically located at a basement",
+        "id": "ab638354b34cbdbc5db3588b422bba51"
+    },
+    {
+        "head": "committing perjury",
+        "tail": "testify",
+        "rel": "HasSubevent",
+        "gpt2_perp": 31479.802734375,
+        "gpt2_entropy": 6.534593105316162,
+        "best_gpt2_input": " A committing perjury can have the subevent testify",
+        "best_gpt2_label": " A committing perjury can have the subevent testify",
+        "id": "c4b232205e79cf0543f1a0621adb7ed1"
+    },
+    {
+        "head": "paper clip",
+        "tail": "hospital",
+        "rel": "AtLocation",
+        "gpt2_perp": 716.2945556640625,
+        "gpt2_entropy": 6.970104217529297,
+        "best_gpt2_input": "Paper clip is usually located at a hospital",
+        "best_gpt2_label": "Paper clip is usually located at a hospital",
+        "id": "ad966ea401844622f751d11888e6e405"
+    },
+    {
+        "head": "attribute",
+        "tail": "description",
+        "rel": "AtLocation",
+        "gpt2_perp": 905.517333984375,
+        "gpt2_entropy": 6.585594654083252,
+        "best_gpt2_input": " An attribute is usually by a description",
+        "best_gpt2_label": " An attribute is usually by a description",
+        "id": "0337c6ceff6633a14e63aefb9f69ae81"
+    },
+    {
+        "head": "sink",
+        "tail": "apartment",
+        "rel": "AtLocation",
+        "gpt2_perp": 67.27738952636719,
+        "gpt2_entropy": 5.884816646575928,
+        "best_gpt2_input": " A sink is in an apartment",
+        "best_gpt2_label": " A sink is in an apartment",
+        "id": "98bc9c4ab7b130ff8481065310ca91d3"
+    },
+    {
+        "head": "person",
+        "tail": "boredom",
+        "rel": "NotDesires",
+        "gpt2_perp": 7872.7802734375,
+        "gpt2_entropy": 6.435250759124756,
+        "best_gpt2_input": "Person don't crave boredom",
+        "best_gpt2_label": "Person don't crave boredom",
+        "id": "11e4340ffb39e9667ccf34fcf1404872"
+    },
+    {
+        "head": "luggage",
+        "tail": "closet",
+        "rel": "AtLocation",
+        "gpt2_perp": 350.958740234375,
+        "gpt2_entropy": 7.338106632232666,
+        "best_gpt2_input": " Luggage is in a closet",
+        "best_gpt2_label": " Luggage is in a closet",
+        "id": "9f912dae07fc83eccf51d6a6baf587e4"
+    },
+    {
+        "head": "refill",
+        "tail": "cup",
+        "rel": "AtLocation",
+        "gpt2_perp": 114.42130279541016,
+        "gpt2_entropy": 6.718763828277588,
+        "best_gpt2_input": " A refill is in a cup",
+        "best_gpt2_label": " A refill is in a cup",
+        "id": "57ac2adecabcd118acdc02d197c1edc9"
+    },
+    {
+        "head": "ocean",
+        "tail": "underwater",
+        "rel": "AtLocation",
+        "gpt2_perp": 71.38248443603516,
+        "gpt2_entropy": 6.058086395263672,
+        "best_gpt2_input": "An ocean are usually placed by an underwater",
+        "best_gpt2_label": "An ocean are usually placed by an underwater",
+        "id": "7fb451a4e935de8094944f896b67daf6"
+    },
+    {
+        "head": "learn",
+        "tail": "forget",
+        "rel": "HasSubevent",
+        "gpt2_perp": 11804.4765625,
+        "gpt2_entropy": 7.931211948394775,
+        "best_gpt2_input": " A learn can have the subevent of a forget",
+        "best_gpt2_label": " A learn can have the subevent of a forget",
+        "id": "5a0df9944856131ee135852c9a35b10d"
+    },
+    {
+        "head": "light",
+        "tail": "universe",
+        "rel": "AtLocation",
+        "gpt2_perp": 63647.19140625,
+        "gpt2_entropy": 8.009532928466797,
+        "best_gpt2_input": "Light are at location an universe",
+        "best_gpt2_label": "Light are at location an universe",
+        "id": "ef85bfca2d4144eaedf9bb4fad949eef"
+    },
+    {
+        "head": "making friends",
+        "tail": "talking",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 982.4111328125,
+        "gpt2_entropy": 5.900049686431885,
+        "best_gpt2_input": "Making friends requires talking",
+        "best_gpt2_label": "Making friends requires talking",
+        "id": "c6c3f4ed53fa6adcda6d180490badfca"
+    },
+    {
+        "head": "alcoholic",
+        "tail": "bar",
+        "rel": "AtLocation",
+        "gpt2_perp": 43.18748092651367,
+        "gpt2_entropy": 6.290877342224121,
+        "best_gpt2_input": " An alcoholic is usually located at a bar",
+        "best_gpt2_label": " An alcoholic is usually located at a bar",
+        "id": "9b4c6ad13b3ac91b9f4238ab64d9e0af"
+    },
+    {
+        "head": "fruit",
+        "tail": "tree",
+        "rel": "AtLocation",
+        "gpt2_perp": 20.08761978149414,
+        "gpt2_entropy": 7.122614860534668,
+        "best_gpt2_input": " A fruit is at the location a tree",
+        "best_gpt2_label": " A fruit is at the location a tree",
+        "id": "fa7e12a3a33fe26d941ef894826c511a"
+    },
+    {
+        "head": "confusion",
+        "tail": "opera",
+        "rel": "AtLocation",
+        "gpt2_perp": 7701.25537109375,
+        "gpt2_entropy": 6.75005578994751,
+        "best_gpt2_input": " Confusion is in an opera",
+        "best_gpt2_label": " Confusion is in an opera",
+        "id": "3f768d10a625d802b1410c8c468805e0"
+    },
+    {
+        "head": "salesman",
+        "tail": "shop",
+        "rel": "AtLocation",
+        "gpt2_perp": 71.56324768066406,
+        "gpt2_entropy": 6.689780235290527,
+        "best_gpt2_input": " A salesman are normally located at a shop",
+        "best_gpt2_label": " A salesman are normally located at a shop",
+        "id": "a018e3002f03e457ba9017f87ac14f03"
+    },
+    {
+        "head": "having fun",
+        "tail": "laughter",
+        "rel": "Causes",
+        "gpt2_perp": 378.6380310058594,
+        "gpt2_entropy": 6.340394496917725,
+        "best_gpt2_input": "Having fun can lead to laughter",
+        "best_gpt2_label": "Having fun can lead to laughter",
+        "id": "195f95966eae18945b848e46caabc4d4"
+    },
+    {
+        "head": "cabbage",
+        "tail": "supermarket",
+        "rel": "AtLocation",
+        "gpt2_perp": 637.6569213867188,
+        "gpt2_entropy": 6.893746376037598,
+        "best_gpt2_input": " A cabbage is located at a supermarket",
+        "best_gpt2_label": " A cabbage is located at a supermarket",
+        "id": "d211e88dfd21a2761dd092a2454b0ac7"
+    },
+    {
+        "head": "dictionary",
+        "tail": "library",
+        "rel": "AtLocation",
+        "gpt2_perp": 73.0810546875,
+        "gpt2_entropy": 6.403090476989746,
+        "best_gpt2_input": " A dictionary is usually located at a library",
+        "best_gpt2_label": " A dictionary is usually located at a library",
+        "id": "3a6140e475cbbd3ee1da5ba9a6953597"
+    },
+    {
+        "head": "music",
+        "tail": "elevator",
+        "rel": "AtLocation",
+        "gpt2_perp": 241.7406463623047,
+        "gpt2_entropy": 6.639162540435791,
+        "best_gpt2_input": " A music is in an elevator",
+        "best_gpt2_label": " A music is in an elevator",
+        "id": "3e571f874e905bb6cc0bc97873b7e6bb"
+    },
+    {
+        "head": "small dog",
+        "tail": "photograph",
+        "rel": "AtLocation",
+        "gpt2_perp": 3232.46826171875,
+        "gpt2_entropy": 6.52692174911499,
+        "best_gpt2_input": "A small dog is at the location a photograph",
+        "best_gpt2_label": "A small dog is at the location a photograph",
+        "id": "51425561ae4438a98e1548b708242df3"
+    },
+    {
+        "head": "pot",
+        "tail": "greenhouse",
+        "rel": "AtLocation",
+        "gpt2_perp": 1258.66552734375,
+        "gpt2_entropy": 7.116671562194824,
+        "best_gpt2_input": "A pot are in a greenhouse",
+        "best_gpt2_label": "A pot are in a greenhouse",
+        "id": "682e2dd342cccc5ab6c40acfd8d5fec3"
+    },
+    {
+        "head": "meal",
+        "tail": "plate",
+        "rel": "AtLocation",
+        "gpt2_perp": 325.58575439453125,
+        "gpt2_entropy": 6.809407711029053,
+        "best_gpt2_input": " A meal is in a plate",
+        "best_gpt2_label": " A meal is in a plate",
+        "id": "16663502786c3cc0d0170ab7533d5fd6"
+    },
+    {
+        "head": "committing murder",
+        "tail": "prosecution",
+        "rel": "Causes",
+        "gpt2_perp": 203.36424255371094,
+        "gpt2_entropy": 5.944481372833252,
+        "best_gpt2_input": " A committing murder can cause to a prosecution",
+        "best_gpt2_label": " A committing murder can cause to a prosecution",
+        "id": "82174281c346b84a6f7b4592249ea122"
+    },
+    {
+        "head": "spending money",
+        "tail": "bankruptcy",
+        "rel": "Causes",
+        "gpt2_perp": 808.7477416992188,
+        "gpt2_entropy": 5.965028285980225,
+        "best_gpt2_input": " A spending money can lead to bankruptcy",
+        "best_gpt2_label": " A spending money can lead to bankruptcy",
+        "id": "d101cc3b29f65e9a53d671e9580e3203"
+    },
+    {
+        "head": "loving another",
+        "tail": "happiness",
+        "rel": "Causes",
+        "gpt2_perp": 15.254164695739746,
+        "gpt2_entropy": 5.35520076751709,
+        "best_gpt2_input": " A loving another can lead to happiness",
+        "best_gpt2_label": " A loving another can lead to happiness",
+        "id": "4ab2b30c32c7027e57e71eb1ae593ad1"
+    },
+    {
+        "head": "instrument",
+        "tail": "laboratory",
+        "rel": "AtLocation",
+        "gpt2_perp": 721.038330078125,
+        "gpt2_entropy": 6.5659871101379395,
+        "best_gpt2_input": "An instrument is located at a laboratory",
+        "best_gpt2_label": "An instrument is located at a laboratory",
+        "id": "ca0a96eb7b8415999b9dc3a5e5e650eb"
+    },
+    {
+        "head": "back garden",
+        "tail": "house",
+        "rel": "AtLocation",
+        "gpt2_perp": 107.58383178710938,
+        "gpt2_entropy": 7.136881351470947,
+        "best_gpt2_input": "A back garden is placed at a house",
+        "best_gpt2_label": "A back garden is placed at a house",
+        "id": "d7c8377953e0175ef57d59f3a8e63a8e"
+    },
+    {
+        "head": "ball",
+        "tail": "playground",
+        "rel": "AtLocation",
+        "gpt2_perp": 2177.7802734375,
+        "gpt2_entropy": 7.253355979919434,
+        "best_gpt2_input": " Ball is located at a playground",
+        "best_gpt2_label": " Ball is located at a playground",
+        "id": "bd8f10e7d670df8b3b866239e6f3f0b7"
+    },
+    {
+        "head": "tissue holder",
+        "tail": "airplane",
+        "rel": "AtLocation",
+        "gpt2_perp": 360.2680969238281,
+        "gpt2_entropy": 6.203795909881592,
+        "best_gpt2_input": "A tissue holder is in an airplane",
+        "best_gpt2_label": "A tissue holder is in an airplane",
+        "id": "388dada77986465f8e46410bd8a89d0e"
+    },
+    {
+        "head": "lens",
+        "tail": "telescope",
+        "rel": "AtLocation",
+        "gpt2_perp": 52.42217254638672,
+        "gpt2_entropy": 6.656448841094971,
+        "best_gpt2_input": " A lens is placed by a telescope",
+        "best_gpt2_label": " A lens is placed by a telescope",
+        "id": "94ccfe55041c3229f5f415f36717bcf7"
+    },
+    {
+        "head": "waging war",
+        "tail": "armies",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 772.5968627929688,
+        "gpt2_entropy": 6.671919822692871,
+        "best_gpt2_input": " A waging war have prerequisite armies",
+        "best_gpt2_label": " A waging war have prerequisite armies",
+        "id": "290c711d7be219ba9870c08237b136dd"
+    },
+    {
+        "head": "going to bed",
+        "tail": "rest",
+        "rel": "UsedFor",
+        "gpt2_perp": 143.99334716796875,
+        "gpt2_entropy": 6.591818332672119,
+        "best_gpt2_input": " A going to bed is used for a rest",
+        "best_gpt2_label": " A going to bed is used for a rest",
+        "id": "9c0dca7c2164d67479418e11f53776a1"
+    },
+    {
+        "head": "blood",
+        "tail": "animals",
+        "rel": "AtLocation",
+        "gpt2_perp": 426.33538818359375,
+        "gpt2_entropy": 6.542013645172119,
+        "best_gpt2_input": "Blood are typically placed by animals",
+        "best_gpt2_label": "Blood are typically placed by animals",
+        "id": "1746bdc407345e7757c1471cfb3a8294"
+    },
+    {
+        "head": "footstool",
+        "tail": "desk",
+        "rel": "AtLocation",
+        "gpt2_perp": 80.30572509765625,
+        "gpt2_entropy": 6.954190254211426,
+        "best_gpt2_input": " Footstool is normally located at a desk",
+        "best_gpt2_label": " Footstool is normally located at a desk",
+        "id": "a7af970f41fb371e73b86f087eb2ebdb"
+    },
+    {
+        "head": "keyboard",
+        "tail": "office",
+        "rel": "AtLocation",
+        "gpt2_perp": 39.94824981689453,
+        "gpt2_entropy": 5.947103500366211,
+        "best_gpt2_input": "Keyboard is usually located at an office",
+        "best_gpt2_label": "Keyboard is usually located at an office",
+        "id": "90b25759ab376d46d7a3af64af8c5397"
+    },
+    {
+        "head": "basketball",
+        "tail": "park",
+        "rel": "AtLocation",
+        "gpt2_perp": 90.78710174560547,
+        "gpt2_entropy": 7.050037860870361,
+        "best_gpt2_input": " A basketball are located at a park",
+        "best_gpt2_label": " A basketball are located at a park",
+        "id": "f21af98de95eea52f86cabae99895465"
+    },
+    {
+        "head": "go to work",
+        "tail": "eat",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 106421.09375,
+        "gpt2_entropy": 5.947910785675049,
+        "best_gpt2_input": " A go to work can be motivated by the goal of an eat",
+        "best_gpt2_label": " A go to work can be motivated by the goal of an eat",
+        "id": "2930eff0e6cf124995f63f8ed26731a0"
+    },
+    {
+        "head": "listening to music",
+        "tail": "fun",
+        "rel": "UsedFor",
+        "gpt2_perp": 363.06707763671875,
+        "gpt2_entropy": 6.105590343475342,
+        "best_gpt2_input": " A listening to music serve for fun",
+        "best_gpt2_label": " A listening to music serve for fun",
+        "id": "7ee15b35ecf3e68f0472ca7003040936"
+    },
+    {
+        "head": "waging war",
+        "tail": "suffering",
+        "rel": "Causes",
+        "gpt2_perp": 224.76904296875,
+        "gpt2_entropy": 5.907135486602783,
+        "best_gpt2_input": "A waging war can cause suffering",
+        "best_gpt2_label": "A waging war can cause suffering",
+        "id": "1596bb54bdd46075d8a9dc372559a369"
+    },
+    {
+        "head": "clock",
+        "tail": "shelf",
+        "rel": "AtLocation",
+        "gpt2_perp": 1497.4124755859375,
+        "gpt2_entropy": 6.6112518310546875,
+        "best_gpt2_input": " A clock are located at a shelf",
+        "best_gpt2_label": " A clock are located at a shelf",
+        "id": "a0d1c4b91ba50ab35f3e58cc6bea4fe9"
+    },
+    {
+        "head": "can of soda",
+        "tail": "store",
+        "rel": "AtLocation",
+        "gpt2_perp": 39.99081039428711,
+        "gpt2_entropy": 6.154799938201904,
+        "best_gpt2_input": "A can of soda is usually located at a store",
+        "best_gpt2_label": "A can of soda is usually located at a store",
+        "id": "6b6b45d36f8ad48633cb3f98c089a7f3"
+    },
+    {
+        "head": "fungus",
+        "tail": "cave",
+        "rel": "AtLocation",
+        "gpt2_perp": 491.44476318359375,
+        "gpt2_entropy": 6.998745918273926,
+        "best_gpt2_input": " A fungus are in a cave",
+        "best_gpt2_label": " A fungus are in a cave",
+        "id": "a885a22fa05fad52ff91496e41db3d90"
+    },
+    {
+        "head": "excavation",
+        "tail": "desert",
+        "rel": "AtLocation",
+        "gpt2_perp": 1247.630615234375,
+        "gpt2_entropy": 6.8395795822143555,
+        "best_gpt2_input": " Excavation is typically located at a desert",
+        "best_gpt2_label": " Excavation is typically located at a desert",
+        "id": "c1d4ab3a9a74f5d044e996752bf36b38"
+    },
+    {
+        "head": "shelf",
+        "tail": "bookstore",
+        "rel": "AtLocation",
+        "gpt2_perp": 1982.3685302734375,
+        "gpt2_entropy": 7.055178165435791,
+        "best_gpt2_input": " Shelf is usually located at a bookstore",
+        "best_gpt2_label": " Shelf is usually located at a bookstore",
+        "id": "1e18a6af050c358b7c07a10bc1e1b23c"
+    },
+    {
+        "head": "bone",
+        "tail": "museum",
+        "rel": "AtLocation",
+        "gpt2_perp": 1219.1793212890625,
+        "gpt2_entropy": 7.484858989715576,
+        "best_gpt2_input": " Bone is in a museum",
+        "best_gpt2_label": " Bone is in a museum",
+        "id": "006eab301cda428d153511b7ac6820f0"
+    },
+    {
+        "head": "program",
+        "tail": "concert",
+        "rel": "AtLocation",
+        "gpt2_perp": 1430.3583984375,
+        "gpt2_entropy": 5.79601526260376,
+        "best_gpt2_input": " Program are in concert",
+        "best_gpt2_label": " Program are in concert",
+        "id": "826ec860a4a1e1999a938942635c2de9"
+    },
+    {
+        "head": "trash can",
+        "tail": "motel",
+        "rel": "AtLocation",
+        "gpt2_perp": 1911.0050048828125,
+        "gpt2_entropy": 6.853235244750977,
+        "best_gpt2_input": " A trash can is located at a motel",
+        "best_gpt2_label": " A trash can is located at a motel",
+        "id": "996f2c4543a0dc23cb98ee09ca808b6d"
+    },
+    {
+        "head": "sky",
+        "tail": "atmosphere",
+        "rel": "AtLocation",
+        "gpt2_perp": 137.66770935058594,
+        "gpt2_entropy": 5.3580851554870605,
+        "best_gpt2_input": "A sky are in an atmosphere",
+        "best_gpt2_label": "A sky are in an atmosphere",
+        "id": "91b2a4649122feaa9e9ea3a8eba0150b"
+    },
+    {
+        "head": "heart",
+        "tail": "person",
+        "rel": "AtLocation",
+        "gpt2_perp": 12.03076171875,
+        "gpt2_entropy": 6.399219512939453,
+        "best_gpt2_input": " A heart is at the location a person",
+        "best_gpt2_label": " A heart is at the location a person",
+        "id": "46376ac886af06e85beac37f3391c357"
+    },
+    {
+        "head": "rug",
+        "tail": "desk",
+        "rel": "AtLocation",
+        "gpt2_perp": 74.24665069580078,
+        "gpt2_entropy": 6.550078868865967,
+        "best_gpt2_input": " A rug is typically placed at a desk",
+        "best_gpt2_label": " A rug is typically placed at a desk",
+        "id": "ab6872dabd0cc54c55200282e19294f4"
+    },
+    {
+        "head": "remembering",
+        "tail": "pleasure",
+        "rel": "Causes",
+        "gpt2_perp": 1588.227294921875,
+        "gpt2_entropy": 6.556251049041748,
+        "best_gpt2_input": " A remembering can lead to pleasure",
+        "best_gpt2_label": " A remembering can lead to pleasure",
+        "id": "0a678030fce19b9117ae66c9c25de176_1"
+    },
+    {
+        "head": "virus",
+        "tail": "infect",
+        "rel": "CapableOf",
+        "gpt2_perp": 3.5986745357513428,
+        "gpt2_entropy": 4.518738269805908,
+        "best_gpt2_input": "A virus is able to infect",
+        "best_gpt2_label": "A virus is able to infect",
+        "id": "3a8f31e4c2cc4a8afab6bcd8c853ef5d"
+    },
+    {
+        "head": "learn",
+        "tail": "intelligent",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 240.9405059814453,
+        "gpt2_entropy": 6.177542686462402,
+        "best_gpt2_input": "Learn is motivated by the aim of an intelligent",
+        "best_gpt2_label": "Learn is motivated by the aim of an intelligent",
+        "id": "8b88ad5408773ff4d936ba9abb4e581f"
+    },
+    {
+        "head": "lip",
+        "tail": "human",
+        "rel": "AtLocation",
+        "gpt2_perp": 107.2774429321289,
+        "gpt2_entropy": 7.332892417907715,
+        "best_gpt2_input": "A lip is placed by a human",
+        "best_gpt2_label": "A lip is placed by a human",
+        "id": "b5dcece38a7c1ab91361f111dabee582"
+    },
+    {
+        "head": "projector",
+        "tail": "movies",
+        "rel": "AtLocation",
+        "gpt2_perp": 10768.453125,
+        "gpt2_entropy": 3.8667232990264893,
+        "best_gpt2_input": "A projector are usually located at movies",
+        "best_gpt2_label": "A projector are usually located at movies",
+        "id": "5bde8bc3619e979cbb8387a98bbd9c37"
+    },
+    {
+        "head": "judging",
+        "tail": "evaluating",
+        "rel": "Causes",
+        "gpt2_perp": 27779.50390625,
+        "gpt2_entropy": 6.139103412628174,
+        "best_gpt2_input": " A judging can lead to evaluating",
+        "best_gpt2_label": " A judging can lead to evaluating",
+        "id": "d6a1c57b3fbfd35c099f78e6dc03149e"
+    },
+    {
+        "head": "entertaining",
+        "tail": "talent",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 3285.45849609375,
+        "gpt2_entropy": 5.9218854904174805,
+        "best_gpt2_input": "Entertaining requires talent",
+        "best_gpt2_label": "Entertaining requires talent",
+        "id": "c189693bbcff9a55a3cd1e845c7359e4"
+    },
+    {
+        "head": "plain",
+        "tail": "landscape",
+        "rel": "AtLocation",
+        "gpt2_perp": 4360.13623046875,
+        "gpt2_entropy": 7.375311851501465,
+        "best_gpt2_input": " A plain is in a landscape",
+        "best_gpt2_label": " A plain is in a landscape",
+        "id": "d32f8a92d8d3a4b6e29c8007c944af7b_1"
+    },
+    {
+        "head": "armchair",
+        "tail": "study",
+        "rel": "AtLocation",
+        "gpt2_perp": 1403.49951171875,
+        "gpt2_entropy": 5.365708827972412,
+        "best_gpt2_input": "An armchair are placed at a study",
+        "best_gpt2_label": "An armchair are placed at a study",
+        "id": "2a68df16ccad7fe59db1784b968c4aa4"
+    },
+    {
+        "head": "surprising",
+        "tail": "funny",
+        "rel": "Causes",
+        "gpt2_perp": 1920.15478515625,
+        "gpt2_entropy": 7.220862865447998,
+        "best_gpt2_input": " A surprising can lead to a funny",
+        "best_gpt2_label": " A surprising can lead to a funny",
+        "id": "97e9ca5c0779c1135fe1dd039d2e8031"
+    },
+    {
+        "head": "knitting",
+        "tail": "bleeding",
+        "rel": "Causes",
+        "gpt2_perp": 112.40494537353516,
+        "gpt2_entropy": 6.5187859535217285,
+        "best_gpt2_input": "Knitting can cause bleeding",
+        "best_gpt2_label": "Knitting can cause bleeding",
+        "id": "b76ddbbba31260e80b47317d83ecaace"
+    },
+    {
+        "head": "sports",
+        "tail": "competitive",
+        "rel": "HasProperty",
+        "gpt2_perp": 114.89608764648438,
+        "gpt2_entropy": 6.905152320861816,
+        "best_gpt2_input": "A sports has the property of being a competitive",
+        "best_gpt2_label": "A sports has the property of being a competitive",
+        "id": "0b4f176e809e98367e36e781aa478112"
+    },
+    {
+        "head": "food",
+        "tail": "shelf",
+        "rel": "AtLocation",
+        "gpt2_perp": 657.0784912109375,
+        "gpt2_entropy": 6.360812187194824,
+        "best_gpt2_input": " A food are normally placed at a shelf",
+        "best_gpt2_label": " A food are normally placed at a shelf",
+        "id": "db72e0abb7480904adcb8007dcb6fcd6"
+    },
+    {
+        "head": "animals",
+        "tail": "drink",
+        "rel": "CapableOf",
+        "gpt2_perp": 643.8878173828125,
+        "gpt2_entropy": 6.379991054534912,
+        "best_gpt2_input": " An animals has the skill to drink",
+        "best_gpt2_label": " An animals has the skill to drink",
+        "id": "addb92a8b4f05cb552ac1e68d825024c"
+    },
+    {
+        "head": "shirt",
+        "tail": "suitcase",
+        "rel": "AtLocation",
+        "gpt2_perp": 674.2232055664062,
+        "gpt2_entropy": 7.115507125854492,
+        "best_gpt2_input": " A shirt is in a suitcase",
+        "best_gpt2_label": " A shirt is in a suitcase",
+        "id": "7488058037b1adb0e554c33429be2ba3"
+    },
+    {
+        "head": "communicate",
+        "tail": "think",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 348.5277404785156,
+        "gpt2_entropy": 5.610751628875732,
+        "best_gpt2_input": " Communicate requires to think",
+        "best_gpt2_label": " Communicate requires to think",
+        "id": "1814eb187daa7c4f4f168c56ca216311"
+    },
+    {
+        "head": "voice",
+        "tail": "radio",
+        "rel": "AtLocation",
+        "gpt2_perp": 448.63934326171875,
+        "gpt2_entropy": 7.177191734313965,
+        "best_gpt2_input": "A voice is at the location a radio",
+        "best_gpt2_label": "A voice is at the location a radio",
+        "id": "8a6c66523adf3436972b0c1bdea304b8"
+    },
+    {
+        "head": "lizards",
+        "tail": "bones",
+        "rel": "HasA",
+        "gpt2_perp": 6211.92578125,
+        "gpt2_entropy": 5.675541877746582,
+        "best_gpt2_input": " A lizards have bones",
+        "best_gpt2_label": " A lizards have bones",
+        "id": "6401f11df53df1ef3f403de9a66150d7"
+    },
+    {
+        "head": "surprise",
+        "tail": "laugh",
+        "rel": "HasSubevent",
+        "gpt2_perp": 3747.54443359375,
+        "gpt2_entropy": 6.60772180557251,
+        "best_gpt2_input": "Surprise can have the subevent a laugh",
+        "best_gpt2_label": "Surprise can have the subevent a laugh",
+        "id": "ef079ec38c8c3f35fb4d54b338d647cd"
+    },
+    {
+        "head": "procreating",
+        "tail": "orgasm",
+        "rel": "HasSubevent",
+        "gpt2_perp": 62.62138748168945,
+        "gpt2_entropy": 7.0538787841796875,
+        "best_gpt2_input": " A procreating can have the subevent of an orgasm",
+        "best_gpt2_label": " A procreating can have the subevent of an orgasm",
+        "id": "dace6f8ae50c50fe5f5cdf25b4695d05"
+    },
+    {
+        "head": "entertain",
+        "tail": "hot",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 5663.36328125,
+        "gpt2_entropy": 6.806693077087402,
+        "best_gpt2_input": " An entertain is motivated by the goal of a hot",
+        "best_gpt2_label": " An entertain is motivated by the goal of a hot",
+        "id": "99e9b69383910311045d46dedaf61a30"
+    },
+    {
+        "head": "remembering",
+        "tail": "depression",
+        "rel": "Causes",
+        "gpt2_perp": 81.9695053100586,
+        "gpt2_entropy": 6.996257305145264,
+        "best_gpt2_input": " Remembering can lead to depression",
+        "best_gpt2_label": " Remembering can lead to depression",
+        "id": "bdf437d7498815f36c255f64a8e6571c"
+    },
+    {
+        "head": "driving",
+        "tail": "transportation",
+        "rel": "Causes",
+        "gpt2_perp": 5421.8701171875,
+        "gpt2_entropy": 6.649051666259766,
+        "best_gpt2_input": " Driving causes transportation",
+        "best_gpt2_label": " Driving causes transportation",
+        "id": "72929a4a9e056c9567d56b9ccd0534f7"
+    },
+    {
+        "head": "memorize",
+        "tail": "concentrate",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 2067.625732421875,
+        "gpt2_entropy": 5.8686113357543945,
+        "best_gpt2_input": " A memorize need to concentrate",
+        "best_gpt2_label": " A memorize need to concentrate",
+        "id": "129e768f30ef9bf594d8c8b5287a6f41"
+    },
+    {
+        "head": "cashier",
+        "tail": "shop",
+        "rel": "AtLocation",
+        "gpt2_perp": 179.0341796875,
+        "gpt2_entropy": 6.340393543243408,
+        "best_gpt2_input": " A cashier are normally at a shop",
+        "best_gpt2_label": " A cashier are normally at a shop",
+        "id": "6ff11798a8a8413b23ebcf1c5347daa6"
+    },
+    {
+        "head": "snoring",
+        "tail": "complaining",
+        "rel": "Causes",
+        "gpt2_perp": 33411.05859375,
+        "gpt2_entropy": 6.241674900054932,
+        "best_gpt2_input": " A snoring can lead to complaining",
+        "best_gpt2_label": " A snoring can lead to complaining",
+        "id": "85d963bf48d05438dd61252a28fa25ba"
+    },
+    {
+        "head": "humans",
+        "tail": "university",
+        "rel": "AtLocation",
+        "gpt2_perp": 9036.81640625,
+        "gpt2_entropy": 4.109157085418701,
+        "best_gpt2_input": "A humans are usually at university",
+        "best_gpt2_label": "A humans are usually at university",
+        "id": "a13e42b3eb3be6f6cc6fd702203096f4"
+    },
+    {
+        "head": "police",
+        "tail": "arrest",
+        "rel": "CapableOf",
+        "gpt2_perp": 13.70059871673584,
+        "gpt2_entropy": 5.643270969390869,
+        "best_gpt2_input": " A police is capable of an arrest",
+        "best_gpt2_label": " A police is capable of an arrest",
+        "id": "e4a8683f2866eddc0323c3f0e88f48cc"
+    },
+    {
+        "head": "thinking",
+        "tail": "depression",
+        "rel": "Causes",
+        "gpt2_perp": 41.53190994262695,
+        "gpt2_entropy": 6.893299102783203,
+        "best_gpt2_input": "Thinking can lead to depression",
+        "best_gpt2_label": "Thinking can lead to depression",
+        "id": "0c7eb3d8bb26df50371c9e79bf66fbbf"
+    },
+    {
+        "head": "movies",
+        "tail": "funny",
+        "rel": "HasProperty",
+        "gpt2_perp": 218.3811492919922,
+        "gpt2_entropy": 5.876285552978516,
+        "best_gpt2_input": " A movies has the property of being funny",
+        "best_gpt2_label": " A movies has the property of being funny",
+        "id": "9cf549ffda371a9740950f00dfffd104"
+    },
+    {
+        "head": "lamp",
+        "tail": "bedroom",
+        "rel": "AtLocation",
+        "gpt2_perp": 911.969970703125,
+        "gpt2_entropy": 7.134125232696533,
+        "best_gpt2_input": " A lamp is in a bedroom",
+        "best_gpt2_label": " A lamp is in a bedroom",
+        "id": "5f65b1a832e5e784b99594d67d800ac5"
+    },
+    {
+        "head": "killing",
+        "tail": "freedom",
+        "rel": "Causes",
+        "gpt2_perp": 3076.79541015625,
+        "gpt2_entropy": 5.784864902496338,
+        "best_gpt2_input": " A killing can lead to freedom",
+        "best_gpt2_label": " A killing can lead to freedom",
+        "id": "ec329b2e8ea7e8f35f776e6512e2ded4"
+    },
+    {
+        "head": "lizards",
+        "tail": "tail",
+        "rel": "HasA",
+        "gpt2_perp": 199.32168579101562,
+        "gpt2_entropy": 7.341302394866943,
+        "best_gpt2_input": " A lizards has a tail",
+        "best_gpt2_label": " A lizards has a tail",
+        "id": "8be8fb9c927d4338c20a8289eb4d151f"
+    },
+    {
+        "head": "newspapers",
+        "tail": "recycled",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 906.5425415039062,
+        "gpt2_entropy": 6.375941753387451,
+        "best_gpt2_input": "Newspapers can be recycled",
+        "best_gpt2_label": "Newspapers can be recycled",
+        "id": "b09d53d159f3a21c757b5d9be0fb977b"
+    },
+    {
+        "head": "breathing",
+        "tail": "relaxation",
+        "rel": "Causes",
+        "gpt2_perp": 370.0524597167969,
+        "gpt2_entropy": 6.989718437194824,
+        "best_gpt2_input": "A breathing causes a relaxation",
+        "best_gpt2_label": "A breathing causes a relaxation",
+        "id": "f0ef6a3153c847f61700f366ebae1890"
+    },
+    {
+        "head": "competing",
+        "tail": "sweat",
+        "rel": "Causes",
+        "gpt2_perp": 14262.5234375,
+        "gpt2_entropy": 7.085456848144531,
+        "best_gpt2_input": " Competing can cause to sweat",
+        "best_gpt2_label": " Competing can cause to sweat",
+        "id": "ace705b755231917c2b4f934a9cb05f2"
+    },
+    {
+        "head": "rock",
+        "tail": "bridge",
+        "rel": "AtLocation",
+        "gpt2_perp": 534.0135498046875,
+        "gpt2_entropy": 6.8835930824279785,
+        "best_gpt2_input": "Rock is usually located at a bridge",
+        "best_gpt2_label": "Rock is usually located at a bridge",
+        "id": "87f054b0e33eadb798dcfd6b164d0754"
+    },
+    {
+        "head": "animals",
+        "tail": "tails",
+        "rel": "HasA",
+        "gpt2_perp": 7265.8505859375,
+        "gpt2_entropy": 5.150574684143066,
+        "best_gpt2_input": "An animals have tails",
+        "best_gpt2_label": "An animals have tails",
+        "id": "29c30adf678d4937ad4fc4718a91d46d"
+    },
+    {
+        "head": "typing",
+        "tail": "letter",
+        "rel": "Causes",
+        "gpt2_perp": 636.9639892578125,
+        "gpt2_entropy": 7.221225261688232,
+        "best_gpt2_input": "A typing causes a letter",
+        "best_gpt2_label": "A typing causes a letter",
+        "id": "bbea51e027a35f858f94267174afe0b8"
+    },
+    {
+        "head": "television",
+        "tail": "legal",
+        "rel": "HasProperty",
+        "gpt2_perp": 488.53424072265625,
+        "gpt2_entropy": 7.771795272827148,
+        "best_gpt2_input": "Television have the property of a legal",
+        "best_gpt2_label": "Television have the property of a legal",
+        "id": "63ecae5ec728ad57ab0907229484fdd5"
+    },
+    {
+        "head": "punching",
+        "tail": "fists",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 3885.648681640625,
+        "gpt2_entropy": 5.337965488433838,
+        "best_gpt2_input": "A punching requires fists",
+        "best_gpt2_label": "A punching requires fists",
+        "id": "d7612b3e26ddc338af179439f51cdce6"
+    },
+    {
+        "head": "lying",
+        "tail": "problems",
+        "rel": "Causes",
+        "gpt2_perp": 81.33773803710938,
+        "gpt2_entropy": 6.360016822814941,
+        "best_gpt2_input": "Lying can cause problems",
+        "best_gpt2_label": "Lying can cause problems",
+        "id": "d8068a0338111170310e240e43cde46e"
+    },
+    {
+        "head": "pretending",
+        "tail": "smile",
+        "rel": "HasSubevent",
+        "gpt2_perp": 3412.822509765625,
+        "gpt2_entropy": 8.236796379089355,
+        "best_gpt2_input": " A pretending has the subevent of a smile",
+        "best_gpt2_label": " A pretending has the subevent of a smile",
+        "id": "20296589a138a86d2a28e6821e61a864"
+    },
+    {
+        "head": "chicken",
+        "tail": "freezer",
+        "rel": "AtLocation",
+        "gpt2_perp": 248.1460723876953,
+        "gpt2_entropy": 7.162539482116699,
+        "best_gpt2_input": " A chicken are in a freezer",
+        "best_gpt2_label": " A chicken are in a freezer",
+        "id": "256b987164bad2f5d5ac23f57bc3bbbc"
+    },
+    {
+        "head": "advertisement",
+        "tail": "bus",
+        "rel": "AtLocation",
+        "gpt2_perp": 252.84432983398438,
+        "gpt2_entropy": 7.278440952301025,
+        "best_gpt2_input": "An advertisement are placed at a bus",
+        "best_gpt2_label": "An advertisement are placed at a bus",
+        "id": "54e2cd8bc4d1758d5d8753d3bc5d5347"
+    },
+    {
+        "head": "competing",
+        "tail": "rivalry",
+        "rel": "Causes",
+        "gpt2_perp": 2488.955078125,
+        "gpt2_entropy": 7.345699787139893,
+        "best_gpt2_input": " A competing can lead to a rivalry",
+        "best_gpt2_label": " A competing can lead to a rivalry",
+        "id": "deb94f5d7064143b5773adfaa9780fa9"
+    },
+    {
+        "head": "electricity",
+        "tail": "shock",
+        "rel": "CapableOf",
+        "gpt2_perp": 888.7029418945312,
+        "gpt2_entropy": 6.8286051750183105,
+        "best_gpt2_input": " An electricity are capable of a shock",
+        "best_gpt2_label": " An electricity are capable of a shock",
+        "id": "7849f2dbbef2a09df4671253f3b0cd17"
+    },
+    {
+        "head": "flirting",
+        "tail": "jealousy",
+        "rel": "Causes",
+        "gpt2_perp": 272.2369384765625,
+        "gpt2_entropy": 5.805934429168701,
+        "best_gpt2_input": " A flirting can lead to jealousy",
+        "best_gpt2_label": " A flirting can lead to jealousy",
+        "id": "1669930ebccd21d08149f9523a9ebe69"
+    },
+    {
+        "head": "fiddle",
+        "tail": "uncomfortable",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 3359.91796875,
+        "gpt2_entropy": 5.793597221374512,
+        "best_gpt2_input": "Fiddle is motivated by an uncomfortable",
+        "best_gpt2_label": "Fiddle is motivated by an uncomfortable",
+        "id": "07e35bfdcc6296f02a0247e16c6b45a7"
+    },
+    {
+        "head": "working",
+        "tail": "accomplishment",
+        "rel": "HasSubevent",
+        "gpt2_perp": 8655.6337890625,
+        "gpt2_entropy": 6.976921558380127,
+        "best_gpt2_input": "Working has the subevent of an accomplishment",
+        "best_gpt2_label": "Working has the subevent of an accomplishment",
+        "id": "69f3fdb74cbd20dfa1db7e87c85b8c90"
+    },
+    {
+        "head": "person",
+        "tail": "nose",
+        "rel": "HasA",
+        "gpt2_perp": 4292.7392578125,
+        "gpt2_entropy": 6.951752185821533,
+        "best_gpt2_input": " A person have a nose",
+        "best_gpt2_label": " A person have a nose",
+        "id": "ba440d733752b92f7f3bf233b976c684"
+    },
+    {
+        "head": "comfort",
+        "tail": "home",
+        "rel": "AtLocation",
+        "gpt2_perp": 17.752042770385742,
+        "gpt2_entropy": 4.906484127044678,
+        "best_gpt2_input": " Comfort are at home",
+        "best_gpt2_label": " Comfort are at home",
+        "id": "0bea25ef31c38309459e8df4dfc49096"
+    },
+    {
+        "head": "dirt",
+        "tail": "subway",
+        "rel": "AtLocation",
+        "gpt2_perp": 2452.118408203125,
+        "gpt2_entropy": 7.075654983520508,
+        "best_gpt2_input": " Dirt is usually located at a subway",
+        "best_gpt2_label": " Dirt is usually located at a subway",
+        "id": "cef9f7e58b0c26470bea23bf2898a729"
+    },
+    {
+        "head": "listening",
+        "tail": "empathy",
+        "rel": "Causes",
+        "gpt2_perp": 1718.2298583984375,
+        "gpt2_entropy": 6.684858798980713,
+        "best_gpt2_input": "A listening can lead to empathy",
+        "best_gpt2_label": "A listening can lead to empathy",
+        "id": "ce5d1b94060bcf8c87c19e515cade099"
+    },
+    {
+        "head": "competing",
+        "tail": "aggression",
+        "rel": "Causes",
+        "gpt2_perp": 1368.7496337890625,
+        "gpt2_entropy": 6.822876453399658,
+        "best_gpt2_input": " Competing can lead to aggression",
+        "best_gpt2_label": " Competing can lead to aggression",
+        "id": "67bade299baeab3858ded976a3c51026_1"
+    },
+    {
+        "head": "harmonica",
+        "tail": "mouth",
+        "rel": "AtLocation",
+        "gpt2_perp": 692.1403198242188,
+        "gpt2_entropy": 5.681598663330078,
+        "best_gpt2_input": " Harmonica is usually placed by mouth",
+        "best_gpt2_label": " Harmonica is usually placed by mouth",
+        "id": "c723e65621e98ff32b04a764aebb60a1"
+    },
+    {
+        "head": "bone",
+        "tail": "arm",
+        "rel": "AtLocation",
+        "gpt2_perp": 33.54677963256836,
+        "gpt2_entropy": 6.081186294555664,
+        "best_gpt2_input": " A bone is normally placed by an arm",
+        "best_gpt2_label": " A bone is normally placed by an arm",
+        "id": "7085c1e49eaef1954d152674616e3882"
+    },
+    {
+        "head": "killing",
+        "tail": "dies",
+        "rel": "Causes",
+        "gpt2_perp": 10767.26171875,
+        "gpt2_entropy": 7.011506080627441,
+        "best_gpt2_input": "Killing can cause to dies",
+        "best_gpt2_label": "Killing can cause to dies",
+        "id": "f8541540ff52e2a9ff2b8fc28b937b82"
+    },
+    {
+        "head": "driving",
+        "tail": "boredom",
+        "rel": "Causes",
+        "gpt2_perp": 1726.537353515625,
+        "gpt2_entropy": 6.595727443695068,
+        "best_gpt2_input": "Driving can lead to boredom",
+        "best_gpt2_label": "Driving can lead to boredom",
+        "id": "b04e7d5c5d377ed6106b6e53b828acc7"
+    },
+    {
+        "head": "cry",
+        "tail": "hurt",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 5361.8984375,
+        "gpt2_entropy": 5.329523086547852,
+        "best_gpt2_input": " A cry is motivated by hurt",
+        "best_gpt2_label": " A cry is motivated by hurt",
+        "id": "62b17bf50472b209c3f0a5ebc08215d4"
+    },
+    {
+        "head": "procreating",
+        "tail": "exhaustion",
+        "rel": "Causes",
+        "gpt2_perp": 1515.3828125,
+        "gpt2_entropy": 6.721291542053223,
+        "best_gpt2_input": " A procreating can lead to exhaustion",
+        "best_gpt2_label": " A procreating can lead to exhaustion",
+        "id": "26bc6f7036ed08c49e6e798b2954f59f"
+    },
+    {
+        "head": "death",
+        "tail": "sadness",
+        "rel": "Causes",
+        "gpt2_perp": 1448.884521484375,
+        "gpt2_entropy": 5.922468662261963,
+        "best_gpt2_input": " A death can lead to sadness",
+        "best_gpt2_label": " A death can lead to sadness",
+        "id": "66e21538262230e201e884c690d506f0"
+    },
+    {
+        "head": "squirrel",
+        "tail": "nuts",
+        "rel": "Desires",
+        "gpt2_perp": 1536.5985107421875,
+        "gpt2_entropy": 6.252414226531982,
+        "best_gpt2_input": " A squirrel crave for nuts",
+        "best_gpt2_label": " A squirrel crave for nuts",
+        "id": "1410eae1e8bafff35939f4478ce9ae45"
+    },
+    {
+        "head": "grape",
+        "tail": "restaurant",
+        "rel": "AtLocation",
+        "gpt2_perp": 38.77165985107422,
+        "gpt2_entropy": 6.972014904022217,
+        "best_gpt2_input": " Grape is usually located at a restaurant",
+        "best_gpt2_label": " Grape is usually located at a restaurant",
+        "id": "8a442c0d33dcfa26bb44fb9574428275"
+    },
+    {
+        "head": "valley",
+        "tail": "continent",
+        "rel": "AtLocation",
+        "gpt2_perp": 7201.14404296875,
+        "gpt2_entropy": 6.1641716957092285,
+        "best_gpt2_input": "A valley are by a continent",
+        "best_gpt2_label": "A valley are by a continent",
+        "id": "2282e0c80be28aadadb79a822fec9dac"
+    },
+    {
+        "head": "numbers",
+        "tail": "divided",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 114.01152801513672,
+        "gpt2_entropy": 5.928672790527344,
+        "best_gpt2_input": " A numbers can be divided",
+        "best_gpt2_label": " A numbers can be divided",
+        "id": "5c108a54603f7986e5b4a1936f034a08"
+    },
+    {
+        "head": "horses",
+        "tail": "brown",
+        "rel": "HasProperty",
+        "gpt2_perp": 3089.51806640625,
+        "gpt2_entropy": 7.584322452545166,
+        "best_gpt2_input": " Horses have the property a brown",
+        "best_gpt2_label": " Horses have the property a brown",
+        "id": "725a755c58d77aca6a65970bd8112e79"
+    },
+    {
+        "head": "automaton",
+        "tail": "banking",
+        "rel": "AtLocation",
+        "gpt2_perp": 27595.7265625,
+        "gpt2_entropy": 6.880577564239502,
+        "best_gpt2_input": "An automaton is normally placed by a banking",
+        "best_gpt2_label": "An automaton is normally placed by a banking",
+        "id": "6139e727c456e101099f8846d6afbe41"
+    },
+    {
+        "head": "human",
+        "tail": "band",
+        "rel": "AtLocation",
+        "gpt2_perp": 1004.1121826171875,
+        "gpt2_entropy": 7.807298183441162,
+        "best_gpt2_input": " Human are placed by a band",
+        "best_gpt2_label": " Human are placed by a band",
+        "id": "bce91fd781adeb4d966e02ab44899cf8"
+    },
+    {
+        "head": "socialising",
+        "tail": "jealousy",
+        "rel": "Causes",
+        "gpt2_perp": 1443.277099609375,
+        "gpt2_entropy": 5.818089485168457,
+        "best_gpt2_input": "A socialising can cause jealousy",
+        "best_gpt2_label": "A socialising can cause jealousy",
+        "id": "26fcb7a49543ef0f89c304b9971cbdd0"
+    },
+    {
+        "head": "temperature",
+        "tail": "increase",
+        "rel": "CapableOf",
+        "gpt2_perp": 9.763630867004395,
+        "gpt2_entropy": 5.674907207489014,
+        "best_gpt2_input": " Temperature is capable of an increase",
+        "best_gpt2_label": " Temperature is capable of an increase",
+        "id": "5105601339a83c8f08359411c3af26fc_1"
+    },
+    {
+        "head": "book",
+        "tail": "past",
+        "rel": "HasA",
+        "gpt2_perp": 3303.57421875,
+        "gpt2_entropy": 6.864016056060791,
+        "best_gpt2_input": "Book have a past",
+        "best_gpt2_label": "Book have a past",
+        "id": "8b2c6bff33e47f9cf23b88853314d781"
+    },
+    {
+        "head": "engine",
+        "tail": "motorcycle",
+        "rel": "PartOf",
+        "gpt2_perp": 243.98495483398438,
+        "gpt2_entropy": 6.916954517364502,
+        "best_gpt2_input": " An engine is a characteristic of a motorcycle",
+        "best_gpt2_label": " An engine is a characteristic of a motorcycle",
+        "id": "c27a4e020c4c48a7cebde1bf48d6b993"
+    },
+    {
+        "head": "jealousy",
+        "tail": "compete",
+        "rel": "CausesDesire",
+        "gpt2_perp": 660.7218017578125,
+        "gpt2_entropy": 5.9182329177856445,
+        "best_gpt2_input": "A jealousy causes a desire to compete",
+        "best_gpt2_label": "A jealousy causes a desire to compete",
+        "id": "866d63eb3387d84734bb8863f9e4f92e"
+    },
+    {
+        "head": "war",
+        "tail": "kill",
+        "rel": "CausesDesire",
+        "gpt2_perp": 11.215039253234863,
+        "gpt2_entropy": 5.6692399978637695,
+        "best_gpt2_input": " A war can cause the desire to kill",
+        "best_gpt2_label": " A war can cause the desire to kill",
+        "id": "7e0dce03cf8f9a96eec25e72176fe1c1"
+    },
+    {
+        "head": "contract",
+        "tail": "revised",
+        "rel": "ReceivesAction",
+        "gpt2_perp": 1996.38330078125,
+        "gpt2_entropy": 5.410849094390869,
+        "best_gpt2_input": " A contract can be revised",
+        "best_gpt2_label": " A contract can be revised",
+        "id": "af92d1905e7161d9fd39ebb7b7496800"
+    },
+    {
+        "head": "sleeping",
+        "tail": "dreams",
+        "rel": "Causes",
+        "gpt2_perp": 808.5580444335938,
+        "gpt2_entropy": 6.524397373199463,
+        "best_gpt2_input": " A sleeping can lead to dreams",
+        "best_gpt2_label": " A sleeping can lead to dreams",
+        "id": "370308b16c97f06b8de75ae372721904"
+    },
+    {
+        "head": "fiddling",
+        "tail": "unpredictable",
+        "rel": "Causes",
+        "gpt2_perp": 305.54437255859375,
+        "gpt2_entropy": 6.344579696655273,
+        "best_gpt2_input": "Fiddling can lead to an unpredictable",
+        "best_gpt2_label": "Fiddling can lead to an unpredictable",
+        "id": "11baad246ef70a028c204119ad0923ea"
+    },
+    {
+        "head": "awake",
+        "tail": "stretch",
+        "rel": "HasSubevent",
+        "gpt2_perp": 9049.7275390625,
+        "gpt2_entropy": 7.72360897064209,
+        "best_gpt2_input": "An awake has the subevent of a stretch",
+        "best_gpt2_label": "An awake has the subevent of a stretch",
+        "id": "5c73d485215bf4c3a1a1665dc493d314"
+    },
+    {
+        "head": "jellyfish",
+        "tail": "shore",
+        "rel": "AtLocation",
+        "gpt2_perp": 332.755126953125,
+        "gpt2_entropy": 5.856523513793945,
+        "best_gpt2_input": " A jellyfish is usually located at a shore",
+        "best_gpt2_label": " A jellyfish is usually located at a shore",
+        "id": "6fce969b42e9e5cacac850bd7bc05b3e"
+    },
+    {
+        "head": "vacuum",
+        "tail": "closet",
+        "rel": "AtLocation",
+        "gpt2_perp": 702.8123779296875,
+        "gpt2_entropy": 7.291392803192139,
+        "best_gpt2_input": " Vacuum is in a closet",
+        "best_gpt2_label": " Vacuum is in a closet",
+        "id": "f548a27c14063c8db9369117e506432d"
+    },
+    {
+        "head": "contemplating",
+        "tail": "discovery",
+        "rel": "Causes",
+        "gpt2_perp": 4879.11279296875,
+        "gpt2_entropy": 7.523827075958252,
+        "best_gpt2_input": " A contemplating can lead to a discovery",
+        "best_gpt2_label": " A contemplating can lead to a discovery",
+        "id": "d365ed78590354f1bda41068fa5cae27"
+    },
+    {
+        "head": "footprints",
+        "tail": "ground",
+        "rel": "AtLocation",
+        "gpt2_perp": 110.31759643554688,
+        "gpt2_entropy": 4.990893363952637,
+        "best_gpt2_input": "Footprints are typically located at ground",
+        "best_gpt2_label": "Footprints are typically located at ground",
+        "id": "639e5459e8dd050e8c0663db3f894daa"
+    },
+    {
+        "head": "illness",
+        "tail": "body",
+        "rel": "AtLocation",
+        "gpt2_perp": 146.9975128173828,
+        "gpt2_entropy": 5.258330345153809,
+        "best_gpt2_input": " An illness is in a body",
+        "best_gpt2_label": " An illness is in a body",
+        "id": "e168f131faa8d22f5b78d2eb57df51af"
+    },
+    {
+        "head": "boredom",
+        "tail": "entertain",
+        "rel": "CausesDesire",
+        "gpt2_perp": 1095.2352294921875,
+        "gpt2_entropy": 5.9370598793029785,
+        "best_gpt2_input": "A boredom cause the desire to entertain",
+        "best_gpt2_label": "A boredom cause the desire to entertain",
+        "id": "2f92f186f8c76f5d86330b921837c67c"
+    },
+    {
+        "head": "refrigerator",
+        "tail": "garage",
+        "rel": "AtLocation",
+        "gpt2_perp": 52.511722564697266,
+        "gpt2_entropy": 7.065260410308838,
+        "best_gpt2_input": "A refrigerator is located at a garage",
+        "best_gpt2_label": "A refrigerator is located at a garage",
+        "id": "ed538369a738c16655b1693475f5c7ff"
+    },
+    {
+        "head": "remember",
+        "tail": "concentrate",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 1389.650146484375,
+        "gpt2_entropy": 5.999603271484375,
+        "best_gpt2_input": " A remember need to concentrate",
+        "best_gpt2_label": " A remember need to concentrate",
+        "id": "e57a9af2b6c16e756a73f6d544bcadd7"
+    },
+    {
+        "head": "playing",
+        "tail": "satisfaction",
+        "rel": "Causes",
+        "gpt2_perp": 27907.7578125,
+        "gpt2_entropy": 6.325301647186279,
+        "best_gpt2_input": " A playing can lead to satisfaction",
+        "best_gpt2_label": " A playing can lead to satisfaction",
+        "id": "0c7e9c7d4a910716ca1d5f759ed0a8c3"
+    },
+    {
+        "head": "rosebush",
+        "tail": "planting",
+        "rel": "AtLocation",
+        "gpt2_perp": 160.37405395507812,
+        "gpt2_entropy": 5.439672946929932,
+        "best_gpt2_input": "A rosebush are normally placed by planting",
+        "best_gpt2_label": "A rosebush are normally placed by planting",
+        "id": "5241ea7e33099977c846d51db4a5138f"
+    },
+    {
+        "head": "sex",
+        "tail": "painful",
+        "rel": "HasProperty",
+        "gpt2_perp": 380.1321105957031,
+        "gpt2_entropy": 6.856879711151123,
+        "best_gpt2_input": "A sex can be a painful",
+        "best_gpt2_label": "A sex can be a painful",
+        "id": "3b25fa508d1e8ca41dc73fb132c1faaa"
+    },
+    {
+        "head": "plates",
+        "tail": "restaurant",
+        "rel": "AtLocation",
+        "gpt2_perp": 107.32579040527344,
+        "gpt2_entropy": 7.082126617431641,
+        "best_gpt2_input": " Plates is usually located at a restaurant",
+        "best_gpt2_label": " Plates is usually located at a restaurant",
+        "id": "be20a78274b92c36786c10afd15c4112"
+    },
+    {
+        "head": "koala",
+        "tail": "jungle",
+        "rel": "AtLocation",
+        "gpt2_perp": 1214.8095703125,
+        "gpt2_entropy": 6.0674238204956055,
+        "best_gpt2_input": "A koala are by a jungle",
+        "best_gpt2_label": "A koala are by a jungle",
+        "id": "9a61433ad3ff8924dbd1a605f597fd2b"
+    },
+    {
+        "head": "candle",
+        "tail": "synagogue",
+        "rel": "AtLocation",
+        "gpt2_perp": 3625.5791015625,
+        "gpt2_entropy": 7.119897365570068,
+        "best_gpt2_input": "A candle is located at a synagogue",
+        "best_gpt2_label": "A candle is located at a synagogue",
+        "id": "e3286184b4062ed0bfa872e208ad722b"
+    },
+    {
+        "head": "ceiling",
+        "tail": "leak",
+        "rel": "CapableOf",
+        "gpt2_perp": 2382.829345703125,
+        "gpt2_entropy": 7.829700469970703,
+        "best_gpt2_input": " A ceiling can a leak",
+        "best_gpt2_label": " A ceiling can a leak",
+        "id": "01d1509aaa9868e64761d09fd30da6d9"
+    },
+    {
+        "head": "people",
+        "tail": "apartment",
+        "rel": "AtLocation",
+        "gpt2_perp": 123.0594253540039,
+        "gpt2_entropy": 5.386465549468994,
+        "best_gpt2_input": "People is usually located at an apartment",
+        "best_gpt2_label": "People is usually located at an apartment",
+        "id": "94ad0ccac9c919802cddaa4afa0e40ec"
+    },
+    {
+        "head": "competing",
+        "tail": "stress",
+        "rel": "Causes",
+        "gpt2_perp": 131.50808715820312,
+        "gpt2_entropy": 6.62064790725708,
+        "best_gpt2_input": "Competing can cause stress",
+        "best_gpt2_label": "Competing can cause stress",
+        "id": "8c74d0082ff541ebac229810dc547034"
+    },
+    {
+        "head": "fish",
+        "tail": "bones",
+        "rel": "HasA",
+        "gpt2_perp": 2592.107666015625,
+        "gpt2_entropy": 5.471614837646484,
+        "best_gpt2_input": " A fish have bones",
+        "best_gpt2_label": " A fish have bones",
+        "id": "0e884b05ec877243e797387b91441eb5"
+    },
+    {
+        "head": "advertisement",
+        "tail": "email",
+        "rel": "AtLocation",
+        "gpt2_perp": 58.363651275634766,
+        "gpt2_entropy": 4.943410873413086,
+        "best_gpt2_input": " An advertisement is usually placed by email",
+        "best_gpt2_label": " An advertisement is usually placed by email",
+        "id": "7667704f495e72ec84f6f231c5ff1932"
+    },
+    {
+        "head": "climbing",
+        "tail": "dexterity",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 1161.5264892578125,
+        "gpt2_entropy": 5.672882080078125,
+        "best_gpt2_input": "Climbing requires dexterity",
+        "best_gpt2_label": "Climbing requires dexterity",
+        "id": "a2961571b9e6f9041b8631d631d8d9e0"
+    },
+    {
+        "head": "run",
+        "tail": "frightened",
+        "rel": "MotivatedByGoal",
+        "gpt2_perp": 82859.015625,
+        "gpt2_entropy": 6.823694705963135,
+        "best_gpt2_input": "A run can be motivated by the aim of a frightened",
+        "best_gpt2_label": "A run can be motivated by the aim of a frightened",
+        "id": "e951ec956d4d1b169e467e330c844fda"
+    },
+    {
+        "head": "reading",
+        "tail": "concentrating",
+        "rel": "HasPrerequisite",
+        "gpt2_perp": 12616.94140625,
+        "gpt2_entropy": 5.128333568572998,
+        "best_gpt2_input": " A reading requires concentrating",
+        "best_gpt2_label": " A reading requires concentrating",
+        "id": "63fa7dca5ab7269be8a55b1e5ee7e59f"
+    },
+    {
+        "head": "contemplating",
+        "tail": "revelations",
+        "rel": "Causes",
+        "gpt2_perp": 12946.4189453125,
+        "gpt2_entropy": 6.269117832183838,
+        "best_gpt2_input": " A contemplating can lead to revelations",
+        "best_gpt2_label": " A contemplating can lead to revelations",
+        "id": "8d10f3dc9751a805a2167f84f486ade6"
+    },
+    {
+        "head": "eating",
+        "tail": "satisfaction",
+        "rel": "Causes",
+        "gpt2_perp": 36273.37890625,
+        "gpt2_entropy": 6.05396032333374,
+        "best_gpt2_input": " An eating causes satisfaction",
+        "best_gpt2_label": " An eating causes satisfaction",
+        "id": "73815fab02f11b7b910d800cf59c187e"
+    },
+    {
+        "head": "driving",
+        "tail": "deadly",
+        "rel": "HasProperty",
+        "gpt2_perp": 175.5940399169922,
+        "gpt2_entropy": 6.855676651000977,
+        "best_gpt2_input": "A driving can be a deadly",
+        "best_gpt2_label": "A driving can be a deadly",
+        "id": "7ce69aef26d11e11cac9a8e30d286995"
+    },
+    {
+        "head": "excitement",
+        "tail": "dance",
+        "rel": "CausesDesire",
+        "gpt2_perp": 389.71063232421875,
+        "gpt2_entropy": 6.068155288696289,
+        "best_gpt2_input": "An excitement can cause a desire to dance",
+        "best_gpt2_label": "An excitement can cause a desire to dance",
+        "id": "31a7eee57376d36aa2537610b4ab81c8"
+    },
+    {
+        "head": "coins",
+        "tail": "desk",
+        "rel": "AtLocation",
+        "gpt2_perp": 190.18862915039062,
+        "gpt2_entropy": 6.811609745025635,
+        "best_gpt2_input": "Coins is normally placed at a desk",
+        "best_gpt2_label": "Coins is normally placed at a desk",
+        "id": "3378caa39f6df94df9d87deba288ffba"
+    },
+    {
+        "head": "everybody",
+        "tail": "believed",
+        "rel": "Desires",
+        "gpt2_perp": 237092.890625,
+        "gpt2_entropy": 6.4998393058776855,
+        "best_gpt2_input": " An everybody crave for believed",
+        "best_gpt2_label": " An everybody crave for believed",
+        "id": "ab112c6be9806f2b5ee0b29868c43b44"
+    },
+    {
+        "head": "isle",
+        "tail": "sea",
+        "rel": "AtLocation",
+        "gpt2_perp": 48.711551666259766,
+        "gpt2_entropy": 5.054375648498535,
+        "best_gpt2_input": " An isle are normally at sea",
+        "best_gpt2_label": " An isle are normally at sea",
+        "id": "d2bea63280121f505c49435bc77db4d3"
+    },
+    {
+        "head": "drugs",
+        "tail": "damage",
+        "rel": "CapableOf",
+        "gpt2_perp": 254.54054260253906,
+        "gpt2_entropy": 4.262152194976807,
+        "best_gpt2_input": "Drugs can damage",
+        "best_gpt2_label": "Drugs can damage",
+        "id": "df900d49a5367f8975f5379aedff83c9"
+    },
+    {
+        "head": "pictures",
+        "tail": "suitcase",
+        "rel": "AtLocation",
+        "gpt2_perp": 2793.283935546875,
+        "gpt2_entropy": 6.483524799346924,
+        "best_gpt2_input": " A pictures is in a suitcase",
+        "best_gpt2_label": " A pictures is in a suitcase",
+        "id": "db207daca7cca5baf5eec1a22cbf6e44"
+    },
+    {
+        "head": "everyone",
+        "tail": "different",
+        "rel": "HasProperty",
+        "gpt2_perp": 63.33677291870117,
+        "gpt2_entropy": 7.129935264587402,
+        "best_gpt2_input": "An everyone is a different",
+        "best_gpt2_label": "An everyone is a different",
+        "id": "8359d829913d519e5d09bd4e15c14be1"
+    },
+    {
+        "head": "diamonds",
+        "tail": "rare",
+        "rel": "HasProperty",
+        "gpt2_perp": 178.5109405517578,
+        "gpt2_entropy": 7.2571024894714355,
+        "best_gpt2_input": "A diamonds is a rare",
+        "best_gpt2_label": "A diamonds is a rare",
+        "id": "d6a2e192da96dfb3fd951867e11df8b6"
+    }
+]

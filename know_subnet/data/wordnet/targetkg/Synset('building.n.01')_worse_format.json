@@ -1,0 +1,1554 @@
+[
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A structure is a kind of artifact",
+        "best_gpt2_label": "A structure is a kind of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Structure is a kind of artifact",
+        "best_gpt2_label": "Structure is a kind of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A structure is a kind of artifact",
+        "best_gpt2_label": " A structure is a kind of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Structure is a kind of artifact",
+        "best_gpt2_label": " Structure is a kind of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A structure is a sort of artifact",
+        "best_gpt2_label": "A structure is a sort of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Structure is a sort of artifact",
+        "best_gpt2_label": "Structure is a sort of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A structure is a sort of artifact",
+        "best_gpt2_label": " A structure is a sort of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Structure is a sort of artifact",
+        "best_gpt2_label": " Structure is a sort of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Structure is a hyponym of artifact",
+        "best_gpt2_label": "Structure is a hyponym of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Structure is a hyponym of artifact",
+        "best_gpt2_label": " Structure is a hyponym of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A structure is a type of artifact",
+        "best_gpt2_label": "A structure is a type of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Structure is a type of artifact",
+        "best_gpt2_label": "Structure is a type of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A structure is a type of artifact",
+        "best_gpt2_label": " A structure is a type of artifact"
+    },
+    {
+        "head": "structure.n.01",
+        "tail": "artifact.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Structure is a type of artifact",
+        "best_gpt2_label": " Structure is a type of artifact"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A bathhouse is a house",
+        "best_gpt2_label": "A bathhouse is a house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A bathhouse is house",
+        "best_gpt2_label": "A bathhouse is house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Bathhouse is a house",
+        "best_gpt2_label": "Bathhouse is a house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Bathhouse is house",
+        "best_gpt2_label": "Bathhouse is house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A bathhouse is a house",
+        "best_gpt2_label": " A bathhouse is a house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A bathhouse is house",
+        "best_gpt2_label": " A bathhouse is house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Bathhouse is a house",
+        "best_gpt2_label": " Bathhouse is a house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Bathhouse is house",
+        "best_gpt2_label": " Bathhouse is house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A bathhouse is a kind of house",
+        "best_gpt2_label": "A bathhouse is a kind of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Bathhouse is a kind of house",
+        "best_gpt2_label": "Bathhouse is a kind of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A bathhouse is a kind of house",
+        "best_gpt2_label": " A bathhouse is a kind of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Bathhouse is a kind of house",
+        "best_gpt2_label": " Bathhouse is a kind of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A bathhouse is a sort of house",
+        "best_gpt2_label": "A bathhouse is a sort of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Bathhouse is a sort of house",
+        "best_gpt2_label": "Bathhouse is a sort of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A bathhouse is a sort of house",
+        "best_gpt2_label": " A bathhouse is a sort of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Bathhouse is a sort of house",
+        "best_gpt2_label": " Bathhouse is a sort of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Bathhouse is a hyponym of house",
+        "best_gpt2_label": "Bathhouse is a hyponym of house"
+    },
+    {
+        "head": "bathhouse.n.02",
+        "tail": "house.n.12",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Bathhouse is a hyponym of house",
+        "best_gpt2_label": " Bathhouse is a hyponym of house"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A ziggurat is a temple",
+        "best_gpt2_label": "A ziggurat is a temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A ziggurat is temple",
+        "best_gpt2_label": "A ziggurat is temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ziggurat is a temple",
+        "best_gpt2_label": "Ziggurat is a temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ziggurat is temple",
+        "best_gpt2_label": "Ziggurat is temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A ziggurat is a temple",
+        "best_gpt2_label": " A ziggurat is a temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A ziggurat is temple",
+        "best_gpt2_label": " A ziggurat is temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ziggurat is a temple",
+        "best_gpt2_label": " Ziggurat is a temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ziggurat is temple",
+        "best_gpt2_label": " Ziggurat is temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A ziggurat is a sort of temple",
+        "best_gpt2_label": "A ziggurat is a sort of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ziggurat is a sort of temple",
+        "best_gpt2_label": "Ziggurat is a sort of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A ziggurat is a sort of temple",
+        "best_gpt2_label": " A ziggurat is a sort of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ziggurat is a sort of temple",
+        "best_gpt2_label": " Ziggurat is a sort of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ziggurat is a hyponym of temple",
+        "best_gpt2_label": "Ziggurat is a hyponym of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ziggurat is a hyponym of temple",
+        "best_gpt2_label": " Ziggurat is a hyponym of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A ziggurat is a type of temple",
+        "best_gpt2_label": "A ziggurat is a type of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Ziggurat is a type of temple",
+        "best_gpt2_label": "Ziggurat is a type of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A ziggurat is a type of temple",
+        "best_gpt2_label": " A ziggurat is a type of temple"
+    },
+    {
+        "head": "ziggurat.n.01",
+        "tail": "temple.n.03",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Ziggurat is a type of temple",
+        "best_gpt2_label": " Ziggurat is a type of temple"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A conservatory is a school",
+        "best_gpt2_label": "A conservatory is a school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A conservatory is school",
+        "best_gpt2_label": "A conservatory is school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Conservatory is a school",
+        "best_gpt2_label": "Conservatory is a school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Conservatory is school",
+        "best_gpt2_label": "Conservatory is school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A conservatory is a school",
+        "best_gpt2_label": " A conservatory is a school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A conservatory is school",
+        "best_gpt2_label": " A conservatory is school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Conservatory is a school",
+        "best_gpt2_label": " Conservatory is a school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Conservatory is school",
+        "best_gpt2_label": " Conservatory is school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A conservatory is a kind of school",
+        "best_gpt2_label": "A conservatory is a kind of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Conservatory is a kind of school",
+        "best_gpt2_label": "Conservatory is a kind of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A conservatory is a kind of school",
+        "best_gpt2_label": " A conservatory is a kind of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Conservatory is a kind of school",
+        "best_gpt2_label": " Conservatory is a kind of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A conservatory is a sort of school",
+        "best_gpt2_label": "A conservatory is a sort of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Conservatory is a sort of school",
+        "best_gpt2_label": "Conservatory is a sort of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A conservatory is a sort of school",
+        "best_gpt2_label": " A conservatory is a sort of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Conservatory is a sort of school",
+        "best_gpt2_label": " Conservatory is a sort of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Conservatory is a hyponym of school",
+        "best_gpt2_label": "Conservatory is a hyponym of school"
+    },
+    {
+        "head": "conservatory.n.02",
+        "tail": "school.n.02",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Conservatory is a hyponym of school",
+        "best_gpt2_label": " Conservatory is a hyponym of school"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A guildhall is a hall",
+        "best_gpt2_label": "A guildhall is a hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A guildhall is hall",
+        "best_gpt2_label": "A guildhall is hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guildhall is a hall",
+        "best_gpt2_label": "Guildhall is a hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guildhall is hall",
+        "best_gpt2_label": "Guildhall is hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A guildhall is a hall",
+        "best_gpt2_label": " A guildhall is a hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A guildhall is hall",
+        "best_gpt2_label": " A guildhall is hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guildhall is a hall",
+        "best_gpt2_label": " Guildhall is a hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guildhall is hall",
+        "best_gpt2_label": " Guildhall is hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A guildhall is a kind of hall",
+        "best_gpt2_label": "A guildhall is a kind of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guildhall is a kind of hall",
+        "best_gpt2_label": "Guildhall is a kind of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A guildhall is a kind of hall",
+        "best_gpt2_label": " A guildhall is a kind of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guildhall is a kind of hall",
+        "best_gpt2_label": " Guildhall is a kind of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A guildhall is a sort of hall",
+        "best_gpt2_label": "A guildhall is a sort of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guildhall is a sort of hall",
+        "best_gpt2_label": "Guildhall is a sort of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A guildhall is a sort of hall",
+        "best_gpt2_label": " A guildhall is a sort of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guildhall is a sort of hall",
+        "best_gpt2_label": " Guildhall is a sort of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Guildhall is a hyponym of hall",
+        "best_gpt2_label": "Guildhall is a hyponym of hall"
+    },
+    {
+        "head": "guildhall.n.01",
+        "tail": "hall.n.13",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Guildhall is a hyponym of hall",
+        "best_gpt2_label": " Guildhall is a hyponym of hall"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A building is a structure",
+        "best_gpt2_label": "A building is a structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A building is structure",
+        "best_gpt2_label": "A building is structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Building is a structure",
+        "best_gpt2_label": "Building is a structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Building is structure",
+        "best_gpt2_label": "Building is structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A building is a structure",
+        "best_gpt2_label": " A building is a structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A building is structure",
+        "best_gpt2_label": " A building is structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Building is a structure",
+        "best_gpt2_label": " Building is a structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Building is structure",
+        "best_gpt2_label": " Building is structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A building is a kind of structure",
+        "best_gpt2_label": "A building is a kind of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Building is a kind of structure",
+        "best_gpt2_label": "Building is a kind of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A building is a kind of structure",
+        "best_gpt2_label": " A building is a kind of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Building is a kind of structure",
+        "best_gpt2_label": " Building is a kind of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A building is a sort of structure",
+        "best_gpt2_label": "A building is a sort of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Building is a sort of structure",
+        "best_gpt2_label": "Building is a sort of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A building is a sort of structure",
+        "best_gpt2_label": " A building is a sort of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Building is a sort of structure",
+        "best_gpt2_label": " Building is a sort of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Building is a hyponym of structure",
+        "best_gpt2_label": "Building is a hyponym of structure"
+    },
+    {
+        "head": "building.n.01",
+        "tail": "structure.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Building is a hyponym of structure",
+        "best_gpt2_label": " Building is a hyponym of structure"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A hostel is a hotel",
+        "best_gpt2_label": "A hostel is a hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A hostel is hotel",
+        "best_gpt2_label": "A hostel is hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Hostel is a hotel",
+        "best_gpt2_label": "Hostel is a hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Hostel is hotel",
+        "best_gpt2_label": "Hostel is hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A hostel is a hotel",
+        "best_gpt2_label": " A hostel is a hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A hostel is hotel",
+        "best_gpt2_label": " A hostel is hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Hostel is a hotel",
+        "best_gpt2_label": " Hostel is a hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Hostel is hotel",
+        "best_gpt2_label": " Hostel is hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A hostel is a kind of hotel",
+        "best_gpt2_label": "A hostel is a kind of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Hostel is a kind of hotel",
+        "best_gpt2_label": "Hostel is a kind of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A hostel is a kind of hotel",
+        "best_gpt2_label": " A hostel is a kind of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Hostel is a kind of hotel",
+        "best_gpt2_label": " Hostel is a kind of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A hostel is a sort of hotel",
+        "best_gpt2_label": "A hostel is a sort of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Hostel is a sort of hotel",
+        "best_gpt2_label": "Hostel is a sort of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A hostel is a sort of hotel",
+        "best_gpt2_label": " A hostel is a sort of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Hostel is a sort of hotel",
+        "best_gpt2_label": " Hostel is a sort of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Hostel is a hyponym of hotel",
+        "best_gpt2_label": "Hostel is a hyponym of hotel"
+    },
+    {
+        "head": "hostel.n.01",
+        "tail": "hotel.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Hostel is a hyponym of hotel",
+        "best_gpt2_label": " Hostel is a hyponym of hotel"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A house is a building",
+        "best_gpt2_label": "A house is a building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A house is building",
+        "best_gpt2_label": "A house is building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "House is a building",
+        "best_gpt2_label": "House is a building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "House is building",
+        "best_gpt2_label": "House is building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A house is a building",
+        "best_gpt2_label": " A house is a building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A house is building",
+        "best_gpt2_label": " A house is building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " House is a building",
+        "best_gpt2_label": " House is a building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " House is building",
+        "best_gpt2_label": " House is building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A house is a kind of building",
+        "best_gpt2_label": "A house is a kind of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "House is a kind of building",
+        "best_gpt2_label": "House is a kind of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A house is a kind of building",
+        "best_gpt2_label": " A house is a kind of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " House is a kind of building",
+        "best_gpt2_label": " House is a kind of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A house is a sort of building",
+        "best_gpt2_label": "A house is a sort of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "House is a sort of building",
+        "best_gpt2_label": "House is a sort of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A house is a sort of building",
+        "best_gpt2_label": " A house is a sort of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " House is a sort of building",
+        "best_gpt2_label": " House is a sort of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "House is a hyponym of building",
+        "best_gpt2_label": "House is a hyponym of building"
+    },
+    {
+        "head": "house.n.12",
+        "tail": "building.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " House is a hyponym of building",
+        "best_gpt2_label": " House is a hyponym of building"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cabin is a house",
+        "best_gpt2_label": "A cabin is a house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cabin is house",
+        "best_gpt2_label": "A cabin is house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cabin is a house",
+        "best_gpt2_label": "Cabin is a house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cabin is house",
+        "best_gpt2_label": "Cabin is house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cabin is a house",
+        "best_gpt2_label": " A cabin is a house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cabin is house",
+        "best_gpt2_label": " A cabin is house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cabin is a house",
+        "best_gpt2_label": " Cabin is a house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cabin is house",
+        "best_gpt2_label": " Cabin is house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cabin is a kind of house",
+        "best_gpt2_label": "A cabin is a kind of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cabin is a kind of house",
+        "best_gpt2_label": "Cabin is a kind of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cabin is a kind of house",
+        "best_gpt2_label": " A cabin is a kind of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cabin is a kind of house",
+        "best_gpt2_label": " Cabin is a kind of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cabin is a sort of house",
+        "best_gpt2_label": "A cabin is a sort of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cabin is a sort of house",
+        "best_gpt2_label": "Cabin is a sort of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cabin is a sort of house",
+        "best_gpt2_label": " A cabin is a sort of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cabin is a sort of house",
+        "best_gpt2_label": " Cabin is a sort of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cabin is a hyponym of house",
+        "best_gpt2_label": "Cabin is a hyponym of house"
+    },
+    {
+        "head": "cabin.n.02",
+        "tail": "house.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cabin is a hyponym of house",
+        "best_gpt2_label": " Cabin is a hyponym of house"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cinema is a theater",
+        "best_gpt2_label": "A cinema is a theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cinema is theater",
+        "best_gpt2_label": "A cinema is theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cinema is a theater",
+        "best_gpt2_label": "Cinema is a theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cinema is theater",
+        "best_gpt2_label": "Cinema is theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cinema is a theater",
+        "best_gpt2_label": " A cinema is a theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cinema is theater",
+        "best_gpt2_label": " A cinema is theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cinema is a theater",
+        "best_gpt2_label": " Cinema is a theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cinema is theater",
+        "best_gpt2_label": " Cinema is theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cinema is a kind of theater",
+        "best_gpt2_label": "A cinema is a kind of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cinema is a kind of theater",
+        "best_gpt2_label": "Cinema is a kind of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cinema is a kind of theater",
+        "best_gpt2_label": " A cinema is a kind of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cinema is a kind of theater",
+        "best_gpt2_label": " Cinema is a kind of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cinema is a sort of theater",
+        "best_gpt2_label": "A cinema is a sort of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cinema is a sort of theater",
+        "best_gpt2_label": "Cinema is a sort of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cinema is a sort of theater",
+        "best_gpt2_label": " A cinema is a sort of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cinema is a sort of theater",
+        "best_gpt2_label": " Cinema is a sort of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cinema is a hyponym of theater",
+        "best_gpt2_label": "Cinema is a hyponym of theater"
+    },
+    {
+        "head": "cinema.n.02",
+        "tail": "theater.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cinema is a hyponym of theater",
+        "best_gpt2_label": " Cinema is a hyponym of theater"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cafe is a restaurant",
+        "best_gpt2_label": "A cafe is a restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cafe is restaurant",
+        "best_gpt2_label": "A cafe is restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cafe is a restaurant",
+        "best_gpt2_label": "Cafe is a restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cafe is restaurant",
+        "best_gpt2_label": "Cafe is restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cafe is a restaurant",
+        "best_gpt2_label": " A cafe is a restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cafe is restaurant",
+        "best_gpt2_label": " A cafe is restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cafe is a restaurant",
+        "best_gpt2_label": " Cafe is a restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cafe is restaurant",
+        "best_gpt2_label": " Cafe is restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cafe is a kind of restaurant",
+        "best_gpt2_label": "A cafe is a kind of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cafe is a kind of restaurant",
+        "best_gpt2_label": "Cafe is a kind of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cafe is a kind of restaurant",
+        "best_gpt2_label": " A cafe is a kind of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cafe is a kind of restaurant",
+        "best_gpt2_label": " Cafe is a kind of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "A cafe is a sort of restaurant",
+        "best_gpt2_label": "A cafe is a sort of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cafe is a sort of restaurant",
+        "best_gpt2_label": "Cafe is a sort of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " A cafe is a sort of restaurant",
+        "best_gpt2_label": " A cafe is a sort of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cafe is a sort of restaurant",
+        "best_gpt2_label": " Cafe is a sort of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": "Cafe is a hyponym of restaurant",
+        "best_gpt2_label": "Cafe is a hyponym of restaurant"
+    },
+    {
+        "head": "cafe.n.01",
+        "tail": "restaurant.n.01",
+        "gpt2_perp": null,
+        "gpt2_entropy": null,
+        "best_gpt2_input": " Cafe is a hyponym of restaurant",
+        "best_gpt2_label": " Cafe is a hyponym of restaurant"
+    }
+]

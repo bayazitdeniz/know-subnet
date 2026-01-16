@@ -1,0 +1,13 @@
+# @package _global_
+
+defaults:
+  - _self_
+  - main: main.yaml
+  - experiment: null
+
+hydra:
+  job:
+    chdir: false
+  run:
+    dir: ./logs/downstream_task/hydra/${now:%Y-%m-%d_%H-%M-%S}
+  output_subdir: null

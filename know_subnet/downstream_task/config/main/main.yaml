@@ -1,0 +1,44 @@
+# @package _global_
+do_train: True
+do_eval: False
+
+# path param:
+train_dir: ./data/csqa
+predict_dir: ./data/csqa
+data_dir: ./data/csqa
+output_dir: ./logs/downstream_task/outputs
+checkpoint_dir: ./logs/downstream_task/checkpoints
+  
+# train_param:
+dataset_name: csqa
+set_cls: False  
+learning_rate: 6.25e-4
+warmup_proportion: 0.2
+weight_decay: 0.01
+adam_epsilon: 1e-8
+max_grad_norm: 0.1
+gradient_accumulation_steps: 1
+callback_monitor: val_acc
+patience: 7
+
+train_batch_size: 16
+eval_batch_size: 16
+num_train_epochs: 20
+use_dropout: True
+
+lm_name: gpt2
+seed: 40
+freeze: True
+checkpoint: none
+mask: csqa
+mask_name: csqa
+
+n_gpu: 1
+accelerator: gpu
+
+# wandb_param:
+wandb_name: gpt2
+wandb_checkpoint: True
+wandb_entity: your_wandb_entity
+wandb_project: commonsenseqa
+wandb_api_key: your_wandb_api_key
